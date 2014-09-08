@@ -25,16 +25,18 @@
 
 # 已完成的來源
 
-* 臺北市 TPE [來源](http://www.mect.gov.tw/files/14-1001-23776,r11-1.php) 發文字號:
-* 新北市 TPQ [來源](http://www.tpcec.gov.tw/ezfiles/2/1002/attach/33/pta_18801_475966_76443.pdf) 字號: 新北選一字第 1033150102 號
-* 新竹市 HSZ [來源](http://www.hcec.gov.tw/files/15-1018-23870,c2791-1.php) 字號:
-* 彰化縣 CHA [來源](http://www.chec.gov.tw/ezfiles/11/1011/attach/24/pta_18799_961645_70985.pdf) 字號:
-* 嘉義縣 CYQ [來源](http://www.cycec.gov.tw/files/15-1013-23788,c4731-1.php) 字號:
-* 嘉義市 CYI [來源](http://www.cyec.gov.tw/files/15-1019-23822,c5474-1.php) 字號: 嘉市選一字第 1033150064 號
-* 高雄市 KHH [來源](http://www.khec.gov.tw/files/15-1005-23772,c2204-1.php) 字號:
-* 屏東縣 PIF [來源](http://www.ptec.gov.tw/files/15-1014-24169,c5248-1.php) 字號:
-* 臺東縣 TTT [來源](http://www.ttec.gov.tw/files/15-1015-22308,c4820-1.php) 字號:
-* 花蓮縣 HUA [來源](http://www.hlec.gov.tw/files/15-1016-23722,c2727-1.php) 字號: 花選一字第 1033150072 號
-* 宜蘭縣 ILA [來源](http://www.ilec.gov.tw/files/15-1006-23578,c2280-1.php) 字號: [宜選一字第 1033150071 號](http://www.ilec.gov.tw/ezfiles/6/1006/attach/7/pta_18281_6936305_20593.pdf)
-* 澎湖縣 PEN [來源](http://www.phec.gov.tw/files/15-1020-23735,c5276-1.php) 字號: [澎選一字第1033150047號](http://www.phec.gov.tw/bin/downloadfile.php?file=WVhSMFlXTm9MelkzTDNCMFlWOHhPRGN4TlY4ME1EYzBNell5WHprNE56QXhMbVJ2WTNnPQ==&fname=NW9xVjZaYUw1NldvNW9tQTZLaXQ1NzJ1NVp5dzZidWU1WVdzNVpHS0xtUnZZM2c9)
-* 金門縣 JME [來源](http://www.kmec.gov.tw/files/15-1021-23839,c5089-1.php) 字號:
+| 縣市   | 代號 | 發文字號 |
+|------ | --- | -------- |
+| 臺北市 | TPE | [來源](http://www.mect.gov.tw/files/14-1001-23776,r11-1.php) 發文字號: |
+| 新北市 | TPQ | [來源](http://www.tpcec.gov.tw/ezfiles/2/1002/attach/33/pta_18801_475966_76443.pdf) 字號: 新北選一字第 1033150102 號 |
+| 新竹市 | HSZ | [來源](http://www.hcec.gov.tw/files/15-1018-23870,c2791-1.php) 字號: |
+| 彰化縣 | CHA | [來源](http://www.chec.gov.tw/ezfiles/11/1011/attach/24/pta_18799_961645_70985.pdf) 字號: |
+| 嘉義縣 | CYQ | [來源](http://www.cycec.gov.tw/files/15-1013-23788,c4731-1.php) 字號: |
+| 嘉義市 | CYI | [來源](http://www.cyec.gov.tw/files/15-1019-23822,c5474-1.php) 字號: 嘉市選一字第 1033150064 號 |
+| 高雄市 | KHH | [來源](http://www.khec.gov.tw/files/15-1005-23772,c2204-1.php) 字號: |
+| 屏東縣 | PIF | [來源](http://www.ptec.gov.tw/files/15-1014-24169,c5248-1.php) 字號: |
+| 臺東縣 | TTT | [來源](http://www.ttec.gov.tw/files/15-1015-22308,c4820-1.php) 字號: |
+| 花蓮縣 | HUA | [來源](http://www.hlec.gov.tw/files/15-1016-23722,c2727-1.php) 字號: 花選一字第 1033150072 號 | 
+| 宜蘭縣 | ILA | [來源](http://www.ilec.gov.tw/files/15-1006-23578,c2280-1.php) 字號: [宜選一字第 1033150071 號](http://www.ilec.gov.tw/ezfiles/6/1006/attach/7/pta_18281_6936305_20593.pdf) |
+| 澎湖縣 | PEN | [來源](http://www.phec.gov.tw/files/15-1020-23735,c5276-1.php) 字號: [澎選一字第1033150047號](http://www.phec.gov.tw/bin/downloadfile.php?file=WVhSMFlXTm9MelkzTDNCMFlWOHhPRGN4TlY4ME1EYzBNell5WHprNE56QXhMbVJ2WTNnPQ==&fname=NW9xVjZaYUw1NldvNW9tQTZLaXQ1NzJ1NVp5dzZidWU1WVdzNVpHS0xtUnZZM2c9) |
+| 金門縣 | JME | [來源](http://www.kmec.gov.tw/files/15-1021-23839,c5089-1.php) 字號: |
