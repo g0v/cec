@@ -11,6 +11,7 @@
 * [基隆市 KEE](http://www.klec.gov.tw/files/11-1017-4925-1.php)
 * [桃園市 TAO](http://www.tyec.gov.tw/files/11-1007-4858.php)
 * [苗栗縣 MIA](http://www.mlec.gov.tw/files/11-1009-5015.php)
+* [連江縣 LJF](http://www.lcec.gov.tw/files/11-1022-5156-1.php)
 
 # 已完成的來源
 
@@ -26,3 +27,4 @@
 * 花蓮縣 HUA [來源](http://www.hlec.gov.tw/files/15-1016-23722,c2727-1.php) 字號: 花選一字第 1033150072 號
 * 宜蘭縣 ILA [來源](http://www.ilec.gov.tw/files/15-1006-23578,c2280-1.php) 字號: [宜選一字第 1033150071 號](http://www.ilec.gov.tw/ezfiles/6/1006/attach/7/pta_18281_6936305_20593.pdf)
 * 澎湖縣 PEN [來源](http://www.phec.gov.tw/files/15-1020-23735,c5276-1.php) 字號: [澎選一字第1033150047號](http://www.phec.gov.tw/bin/downloadfile.php?file=WVhSMFlXTm9MelkzTDNCMFlWOHhPRGN4TlY4ME1EYzBNell5WHprNE56QXhMbVJ2WTNnPQ==&fname=NW9xVjZaYUw1NldvNW9tQTZLaXQ1NzJ1NVp5dzZidWU1WVdzNVpHS0xtUnZZM2c9)
+* 金門縣 JME [來源](http://www.kmec.gov.tw/files/15-1021-23839,c5089-1.php) 字號:
