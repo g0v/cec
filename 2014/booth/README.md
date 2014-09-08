@@ -1,3 +1,13 @@
+# 2014 年九合一選舉投開票所資訊
+
+資料來源為各地選舉委員會公文。依據[著作權法§9](http://law.moj.gov.tw/LawClass/LawSingle.aspx?Pcode=J0070017&FLNO=9)：
+
+    下列各款不得為著作權之標的︰
+    一、憲法、法律、命令或公文。
+    二、中央或地方機關就前款著作作成之翻譯物或編輯物。
+
+原始內容為公文或其編輯物，不受著作權保護。此處處理後的資料以 [CC0](https://creativecommons.org/choose/zero/?lang=zh_TW) 釋出。
+
 # TODO
 
 * [新竹縣 HSQ](http://www.hccec.gov.tw/ezfiles/8/1008/attach/79/pta_18859_6873804_67145.pdf)
