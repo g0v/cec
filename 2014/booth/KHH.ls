@@ -24,5 +24,5 @@ console.log \=== data unless data.village
 data.address .= replace /[０１２３４５６７８９]/g ->
   (it.charCodeAt(0) - "０".charCodeAt(0)).toString!
 console.log data unless data.address
-data.county = 'TPQ'
+data.county = 'KHH'
 res.push data
