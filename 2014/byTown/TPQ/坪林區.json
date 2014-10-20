@@ -1,0 +1,152 @@
+[
+  {
+    "id": "tpq2151",
+    "place_name": "坪林國小",
+    "address": "坪林114號",
+    "village": "坪林里",
+    "remark": "全里",
+    "seq": 2151,
+    "county": "TPQ",
+    "town": "坪林區",
+    "location": {
+      "lat": 24.9363929,
+      "lng": 121.71229
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2152",
+    "place_name": "坪林國中",
+    "address": "國中路4號",
+    "village": "水德里",
+    "remark": "全里",
+    "seq": 2152,
+    "county": "TPQ",
+    "town": "坪林區",
+    "location": {
+      "lat": 25.0044455,
+      "lng": 121.5242497
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2153",
+    "place_name": "協德宮",
+    "address": "魚堀44之1號",
+    "village": "大林里",
+    "remark": "全里",
+    "seq": 2153,
+    "county": "TPQ",
+    "town": "坪林區",
+    "location": {
+      "lat": 24.9207611,
+      "lng": 121.7423434
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2154",
+    "place_name": "石倉庫",
+    "address": "石27之1號",
+    "village": "石里",
+    "remark": "全里",
+    "seq": 2154,
+    "county": "TPQ",
+    "town": "坪林區",
+    "location": {
+      "lat": 24.9907267,
+      "lng": 121.6620001
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2155",
+    "place_name": "鄭文生宅",
+    "address": "北宜路七段232號",
+    "village": "粗窟里",
+    "remark": "1-7",
+    "seq": 2155,
+    "county": "TPQ",
+    "town": "坪林區",
+    "location": {
+      "lat": 24.9530873,
+      "lng": 121.6338766
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2156",
+    "place_name": "替代役男宿舍",
+    "address": "金瓜寮3號之3",
+    "village": "粗窟里",
+    "remark": "8-11",
+    "seq": 2156,
+    "county": "TPQ",
+    "town": "坪林區",
+    "location": {
+      "lat": 24.9010926,
+      "lng": 121.6742338
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2157",
+    "place_name": "上德宮",
+    "address": "碇坪路三段116號",
+    "village": "上德里",
+    "remark": "1-6",
+    "seq": 2157,
+    "county": "TPQ",
+    "town": "坪林區",
+    "location": {
+      "lat": 23.8730209,
+      "lng": 121.5372205
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2158",
+    "place_name": "上德里新昇倉庫",
+    "address": "大粗坑11之1號",
+    "village": "上德里",
+    "remark": "7-13",
+    "seq": 2158,
+    "county": "TPQ",
+    "town": "坪林區",
+    "location": {
+      "lat": 24.9585972,
+      "lng": 121.7179437
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2159",
+    "place_name": "坪林國小",
+    "address": "坪雙路二段2號",
+    "village": "漁光里",
+    "remark": "1-6",
+    "seq": 2159,
+    "county": "TPQ",
+    "town": "坪林區",
+    "location": {
+      "lat": 24.9207611,
+      "lng": 121.7423434
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2160",
+    "place_name": "新北市英速魔法學院闊瀨校區",
+    "address": "坪雙路三段2號",
+    "village": "漁光里",
+    "remark": "7-13",
+    "seq": 2160,
+    "county": "TPQ",
+    "town": "坪林區",
+    "location": {
+      "lat": 24.9207611,
+      "lng": 121.7423434
+    },
+    "power": 1
+  }
+]

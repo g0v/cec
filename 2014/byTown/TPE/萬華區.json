@@ -1,0 +1,1106 @@
+[
+  {
+    "id": "tpe1075",
+    "place_name": "福星國小",
+    "address": "中華路1段66號",
+    "village": "福星里1-6",
+    "indigenous_village": "",
+    "phone": "2314-4668轉106",
+    "seq": 1075,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0467829,
+      "lng": 121.5089051
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe1078",
+    "place_name": "西門國小",
+    "address": "成都路98號",
+    "village": "萬壽里1-8",
+    "indigenous_village": "萬壽里全里",
+    "phone": "23312238",
+    "seq": 1078,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.043172,
+      "lng": 121.5035971
+    },
+    "power": 8
+  },
+  {
+    "id": "tpe1086",
+    "place_name": "臺北市義勇消防大隊城中第一分隊",
+    "address": "成都路175號",
+    "village": "菜園里1,4-8,11,13",
+    "indigenous_village": "",
+    "phone": "23312334",
+    "seq": 1086,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0443785,
+      "lng": 121.5014569
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1087",
+    "place_name": "新移民會館",
+    "address": "長沙街2段171號",
+    "village": "菜園里9,10,12,16-19,24",
+    "indigenous_village": "菜園里全里",
+    "phone": "23701046",
+    "seq": 1087,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0406652,
+      "lng": 121.5017591
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1088",
+    "place_name": "菜園區民活動中心",
+    "address": "環河南路1段臨280之3號",
+    "village": "菜園里2-3,14,15,20-23,25",
+    "indigenous_village": "",
+    "phone": "23064468",
+    "seq": 1088,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0349935,
+      "lng": 121.4904181
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1089",
+    "place_name": "青山區民活動中心",
+    "address": "環河南路2段臨5之1號",
+    "village": "青山里1-7,11,12",
+    "indigenous_village": "",
+    "phone": "23064468",
+    "seq": 1089,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0488677,
+      "lng": 121.5060714
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1090",
+    "place_name": "龍山國小",
+    "address": "和平西路3段235號",
+    "village": "青山里8-10,13-16,18",
+    "indigenous_village": "青山里全里",
+    "phone": "23082977轉731",
+    "seq": 1090,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.035631,
+      "lng": 121.4958451
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1092",
+    "place_name": "老松國小",
+    "address": "桂林路64號",
+    "village": "富民里1-6",
+    "indigenous_village": "富民里全里",
+    "phone": "23361266",
+    "seq": 1092,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.038046,
+      "lng": 121.502725
+    },
+    "power": 6
+  },
+  {
+    "id": "tpe1094",
+    "place_name": "新富區民活動中心",
+    "address": "廣州街152巷10號",
+    "village": "富民里14-21",
+    "indigenous_village": "",
+    "phone": "23064468",
+    "seq": 1094,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0361972,
+      "lng": 121.500501
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1097",
+    "place_name": "法華寺",
+    "address": "西寧南路194號",
+    "village": "仁德里1-7",
+    "indigenous_village": "仁德里全里",
+    "phone": "23318424",
+    "seq": 1097,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0389232,
+      "lng": 121.5061857
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1100",
+    "place_name": "萬華車站西大樓西側出口穿堂(寺前公園邊)",
+    "address": "康定路382號",
+    "village": "富福里1-3,5-7",
+    "indigenous_village": "富福里全里",
+    "phone": "2302-0481",
+    "seq": 1100,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0333965,
+      "lng": 121.5004388
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1101",
+    "place_name": "和平西路民宅車庫",
+    "address": "和平西路3段52巷16號",
+    "village": "富福里4,8-12,19",
+    "indigenous_village": "",
+    "phone": "2308-0307",
+    "seq": 1101,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0340681,
+      "lng": 121.5032597
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1102",
+    "place_name": "龍山國中",
+    "address": "南寧路46號",
+    "village": "富福里13-18",
+    "indigenous_village": "",
+    "phone": "2336-2789",
+    "seq": 1102,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0360766,
+      "lng": 121.504618
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1103",
+    "place_name": "柳鄉區民活動中心",
+    "address": "環河南路2段102號3樓",
+    "village": "柳鄉里1-5,8",
+    "indigenous_village": "柳鄉里全里",
+    "phone": "23064468",
+    "seq": 1103,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0368928,
+      "lng": 121.4954917
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1104",
+    "place_name": "環河福德宮",
+    "address": "桂林路244巷臨7號之1",
+    "village": "柳鄉里6,7,9-12",
+    "indigenous_village": "",
+    "phone": "23021026",
+    "seq": 1104,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0371635,
+      "lng": 121.4937733
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1105",
+    "place_name": "衛工處西區工務所",
+    "address": "桂林路246巷66號",
+    "village": "柳鄉里13-19",
+    "indigenous_village": "",
+    "phone": "23083825",
+    "seq": 1105,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0363921,
+      "lng": 121.491821
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1106",
+    "place_name": "長順區民活動中心",
+    "address": "長順街臨127號",
+    "village": "華江里1-6",
+    "indigenous_village": "",
+    "phone": "23064468",
+    "seq": 1106,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0313178,
+      "lng": 121.4907941
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1108",
+    "place_name": "華江國小",
+    "address": "環河南路2段250巷42弄2號",
+    "village": "華江里12-17",
+    "indigenous_village": "",
+    "phone": "23064352",
+    "seq": 1108,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0340691,
+      "lng": 121.4911815
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe1111",
+    "place_name": "臺糖倉庫前棟(左側A倉糖廍文化教室)",
+    "address": "大理街132-10號",
+    "village": "糖廍里1-5,12",
+    "indigenous_village": "",
+    "phone": "23064468",
+    "seq": 1111,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0332028,
+      "lng": 121.4950649
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1113",
+    "place_name": "臺糖倉庫中央棟(萬華糖廍藝文倉庫)",
+    "address": "大理街132-9號",
+    "village": "糖廍里13-19",
+    "indigenous_village": "",
+    "phone": "23064468",
+    "seq": 1113,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.03378,
+      "lng": 121.496272
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1114",
+    "place_name": "大理國小",
+    "address": "艋舺大道389號",
+    "village": "綠堤里1-6",
+    "indigenous_village": "",
+    "phone": "23064311",
+    "seq": 1114,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.031305,
+      "lng": 121.4939132
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe1117",
+    "place_name": "臺北市義警大隊萬華區大隊莒光分隊",
+    "address": "興寧街4號",
+    "village": "頂碩里1,2",
+    "indigenous_village": ",14-16",
+    "phone": "23023751",
+    "seq": 1117,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0322544,
+      "lng": 121.5018394
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1118",
+    "place_name": "艋舺大道民宅車庫",
+    "address": "艋舺大道86巷28號",
+    "village": "頂碩里3-8",
+    "indigenous_village": "",
+    "phone": "23321337",
+    "seq": 1118,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0325186,
+      "lng": 121.503035
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1119",
+    "place_name": "天聖宮",
+    "address": "艋舺大道120巷13弄30號",
+    "village": "頂碩里9-13",
+    "indigenous_village": "",
+    "phone": "23065799",
+    "seq": 1119,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0323892,
+      "lng": 121.5028012
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1120",
+    "place_name": "北安宮",
+    "address": "西藏路256號",
+    "village": "頂碩里17,18,22,25-28",
+    "indigenous_village": "頂碩里全里",
+    "phone": "23021881",
+    "seq": 1120,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0297039,
+      "lng": 121.5015587
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1121",
+    "place_name": "貴都飯店停車場",
+    "address": "西藏路192之1號",
+    "village": "頂碩里19-21,23,24,29",
+    "indigenous_village": "",
+    "phone": "23061988",
+    "seq": 1121,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0300336,
+      "lng": 121.5028887
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1122",
+    "place_name": "雙園國小",
+    "address": "莒光路315號",
+    "village": "雙園里1-7",
+    "indigenous_village": "",
+    "phone": "23061893",
+    "seq": 1122,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0309294,
+      "lng": 121.498131
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe1125",
+    "place_name": "和平青草園(原402號公園歷史建物)",
+    "address": "西園路2段42號",
+    "village": "和平里1-7",
+    "indigenous_village": "",
+    "phone": "23064468",
+    "seq": 1125,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.032211,
+      "lng": 121.4972464
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1126",
+    "place_name": "朝天宮",
+    "address": "雙園街27號",
+    "village": "和平里12-15,23-24",
+    "indigenous_village": "",
+    "phone": "23061510",
+    "seq": 1126,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0295151,
+      "lng": 121.4947008
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1127",
+    "place_name": "大理幼兒園",
+    "address": "雙園街67巷3弄5號",
+    "village": "和平里8-11,16",
+    "indigenous_village": "",
+    "phone": "23044506",
+    "seq": 1127,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.030192,
+      "lng": 121.494362
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1128",
+    "place_name": "青龍宮",
+    "address": "雙園街60巷88號",
+    "village": "和平里17-22",
+    "indigenous_village": "和平里全里",
+    "phone": "23066456",
+    "seq": 1128,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0288,
+      "lng": 121.4924206
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1129",
+    "place_name": "雙園國中",
+    "address": "興義街2號",
+    "village": "和德里1-6",
+    "indigenous_village": "",
+    "phone": "2303-0827轉141",
+    "seq": 1129,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0275539,
+      "lng": 121.4926457
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1131",
+    "place_name": "興義區民活動中心",
+    "address": "興義街25號",
+    "village": "和德里14-20",
+    "indigenous_village": "",
+    "phone": "23064468",
+    "seq": 1131,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0268433,
+      "lng": 121.4921836
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1132",
+    "place_name": "和德區民活動中心",
+    "address": "西園路2段臨382之10號",
+    "village": "和德里21-26",
+    "indigenous_village": "",
+    "phone": "23064468",
+    "seq": 1132,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0280951,
+      "lng": 121.4950122
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1133",
+    "place_name": "萬大國小",
+    "address": "萬大路346號",
+    "village": "全德里1-5",
+    "indigenous_village": "",
+    "phone": "23035938",
+    "seq": 1133,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0229842,
+      "lng": 121.4993232
+    },
+    "power": 6
+  },
+  {
+    "id": "tpe1136",
+    "place_name": "西園國小",
+    "address": "東園街73巷65號",
+    "village": "日善里1-9",
+    "indigenous_village": "",
+    "phone": "23030257",
+    "seq": 1136,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0266629,
+      "lng": 121.4988835
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1141",
+    "place_name": "萬華區民活動中心",
+    "address": "東園街19號2樓",
+    "village": "忠德里1,2,4,7",
+    "indigenous_village": "",
+    "phone": "23064468",
+    "seq": 1141,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0279247,
+      "lng": 121.4957273
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1142",
+    "place_name": "聚福宮聯誼中心",
+    "address": "東園街50號",
+    "village": "忠德里3,5,6,8,9",
+    "indigenous_village": "",
+    "phone": "23031143",
+    "seq": 1142,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0264138,
+      "lng": 121.496131
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1144",
+    "place_name": "西園民防協勤中心",
+    "address": "西園路2段臨283之1號（光復橋下）",
+    "village": "錦德里1-7",
+    "indigenous_village": "",
+    "phone": "23012416",
+    "seq": 1144,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0280951,
+      "lng": 121.4950122
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1145",
+    "place_name": "光復區民活動中心",
+    "address": "西園路2段臨370之1號（光復橋下）",
+    "village": "錦德里8-14",
+    "indigenous_village": "",
+    "phone": "23064468",
+    "seq": 1145,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0280951,
+      "lng": 121.4950122
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1146",
+    "place_name": "西園義警協勤中心",
+    "address": "西園路2段臨382之9號(光復橋下)",
+    "village": "錦德里15-21",
+    "indigenous_village": "錦德里全里",
+    "phone": "23323162",
+    "seq": 1146,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0280951,
+      "lng": 121.4950122
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1147",
+    "place_name": "東園民防協勤中心",
+    "address": "寶興街222巷臨11號",
+    "village": "銘德里1-7,11",
+    "indigenous_village": "銘德里全里",
+    "phone": "23045023",
+    "seq": 1147,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0221222,
+      "lng": 121.4947462
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1148",
+    "place_name": "民宅車庫",
+    "address": "長泰街284號",
+    "village": "銘德里8-10,12,16-17",
+    "indigenous_village": "",
+    "phone": "23064468",
+    "seq": 1148,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.021271,
+      "lng": 121.493658
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1149",
+    "place_name": "巖清寺",
+    "address": "環河南路3段203號",
+    "village": "銘德里13-15,18-20",
+    "indigenous_village": "",
+    "phone": "23058490",
+    "seq": 1149,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.021578,
+      "lng": 121.492334
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1150",
+    "place_name": "先天道院",
+    "address": "寶興街188巷2號",
+    "village": "孝德里1-6,8",
+    "indigenous_village": "孝德里全里",
+    "phone": "2305-6278",
+    "seq": 1150,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0233879,
+      "lng": 121.495113
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1151",
+    "place_name": "天德宮",
+    "address": "德昌街235巷19號",
+    "village": "孝德里9-14,7",
+    "indigenous_village": "",
+    "phone": "23014287",
+    "seq": 1151,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0228247,
+      "lng": 121.4930865
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1152",
+    "place_name": "保德里里民活動場所",
+    "address": "東園街140巷10號",
+    "village": "保德里1-5,8",
+    "indigenous_village": "保德里全里",
+    "phone": "23074702",
+    "seq": 1152,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0233108,
+      "lng": 121.4970108
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1153",
+    "place_name": "楊聖廟",
+    "address": "寶興街",
+    "village": "199號",
+    "indigenous_village": "保德里6,7,9,10",
+    "phone": "23038228",
+    "seq": 1153,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0252539,
+      "lng": 121.4946834
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1154",
+    "place_name": "慈安寺",
+    "address": "武成街63巷8號",
+    "village": "榮德里1-3,5-7,9,10",
+    "indigenous_village": "",
+    "phone": "23017543",
+    "seq": 1154,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.01864,
+      "lng": 121.494451
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1155",
+    "place_name": "湄聖宮",
+    "address": "武成街124號",
+    "village": "榮德里4,8,11-17",
+    "indigenous_village": "榮德里全里",
+    "phone": "23077996",
+    "seq": 1155,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.020516,
+      "lng": 121.493877
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1156",
+    "place_name": "萬大第二區民活動中心",
+    "address": "萬大路臨600之1號(華中橋下)",
+    "village": "華中里1-5",
+    "indigenous_village": "",
+    "phone": "23064468",
+    "seq": 1156,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0232131,
+      "lng": 121.4996658
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1158",
+    "place_name": "萬大第一區民活動中心",
+    "address": "萬大路臨614之1號(華中橋下)",
+    "village": "華中里11-15",
+    "indigenous_village": "",
+    "phone": "23064468",
+    "seq": 1158,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0232131,
+      "lng": 121.4996658
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1160",
+    "place_name": "德明幼兒園企鵝班教室",
+    "address": "萬大路449巷28弄3號",
+    "village": "興德里1-6",
+    "indigenous_village": "",
+    "phone": "23075863",
+    "seq": 1160,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0201911,
+      "lng": 121.4993285
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1161",
+    "place_name": "富民路民宅車庫",
+    "address": "富民路145巷15弄56號",
+    "village": "興德里7-12",
+    "indigenous_village": "興德里全里",
+    "phone": "23064468",
+    "seq": 1161,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0193779,
+      "lng": 121.500203
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1162",
+    "place_name": "興德里里民活動場所",
+    "address": "富民路145巷15弄54號",
+    "village": "興德里13-18",
+    "indigenous_village": "",
+    "phone": "23064468",
+    "seq": 1162,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0194059,
+      "lng": 121.500252
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1163",
+    "place_name": "臺灣基督教貴格會三一堂",
+    "address": "青年路142號",
+    "village": "日祥里1,10,11,16",
+    "indigenous_village": "日祥里全里",
+    "phone": "23379531",
+    "seq": 1163,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0217149,
+      "lng": 121.502406
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1164",
+    "place_name": "慶福宮",
+    "address": "青年路168巷49弄18號",
+    "village": "日祥里2-6,21",
+    "indigenous_village": "",
+    "phone": "23073745",
+    "seq": 1164,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.019356,
+      "lng": 121.501925
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1165",
+    "place_name": "空南三村管理委員會(文康中心",
+    "address": "萬大路423巷30弄11號旁側",
+    "village": "日祥里7,8,18-20",
+    "indigenous_village": "",
+    "phone": "23098212",
+    "seq": 1165,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0213353,
+      "lng": 121.5005204
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1166",
+    "place_name": "崇仁花園大廈H棟1樓",
+    "address": "青年路152巷34號",
+    "village": "日祥里9,12-15,17",
+    "indigenous_village": "",
+    "phone": "23059995",
+    "seq": 1166,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0257241,
+      "lng": 121.504798
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1167",
+    "place_name": "新和國小",
+    "address": "西藏路125巷31號",
+    "village": "忠貞里1-6",
+    "indigenous_village": "",
+    "phone": "23038298",
+    "seq": 1167,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0259828,
+      "lng": 121.5033372
+    },
+    "power": 6
+  },
+  {
+    "id": "tpe1169",
+    "place_name": "南機場3號基地國宅管理委員會",
+    "address": "青年路106巷2號地下室",
+    "village": "忠貞里14-22",
+    "indigenous_village": "忠貞里全里",
+    "phone": "23079038",
+    "seq": 1169,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0228164,
+      "lng": 121.5024031
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1170",
+    "place_name": "忠恕社區辦公室",
+    "address": "中華路2段364巷22弄29號地下室",
+    "village": "新忠里1,2,4-6,8-13",
+    "indigenous_village": "新忠里全里",
+    "phone": "23032228",
+    "seq": 1170,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0289786,
+      "lng": 121.5041195
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1171",
+    "place_name": "新忠里民活動中心",
+    "address": "西藏路125巷7號之2",
+    "village": "新忠里3,7,14-22",
+    "indigenous_village": "",
+    "phone": "23064468",
+    "seq": 1171,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0287759,
+      "lng": 121.5023257
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1172",
+    "place_name": "青年社區管理委員會(閱覽室)",
+    "address": "中華路2段416巷9號之4",
+    "village": "新和里1-6",
+    "indigenous_village": "新和里全里",
+    "phone": "23031537",
+    "seq": 1172,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0267459,
+      "lng": 121.50441
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1175",
+    "place_name": "新和首璽管理委員會(閱覽室)",
+    "address": "中華路2段416巷80號",
+    "village": "新和里14,18-20,22,23,30",
+    "indigenous_village": "",
+    "phone": "23018211",
+    "seq": 1175,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.027004,
+      "lng": 121.503495
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1176",
+    "place_name": "國輝花園社區管理委員會(活動中心",
+    "address": "國興路92之2號",
+    "village": "新和里21,24-29",
+    "indigenous_village": "",
+    "phone": "23324183",
+    "seq": 1176,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.027161,
+      "lng": 121.505917
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1177",
+    "place_name": "南機場13號基地管理委員會(辦公室左側)",
+    "address": "萬大路187巷1弄2號(地下室)",
+    "village": "新安里1-8",
+    "indigenous_village": "新安里全里",
+    "phone": "23057652",
+    "seq": 1177,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0286621,
+      "lng": 121.5009896
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1181",
+    "place_name": "國興幼兒園安親班教室外",
+    "address": "國興路46號後門",
+    "village": "凌霄里1-8",
+    "indigenous_village": "",
+    "phone": "23038164",
+    "seq": 1181,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.025259,
+      "lng": 121.507588
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1183",
+    "place_name": "古亭國中",
+    "address": "中華路2段465號",
+    "village": "騰雲里1-7",
+    "indigenous_village": "",
+    "phone": "23090986轉511",
+    "seq": 1183,
+    "county": "TPE",
+    "town": "萬華區",
+    "location": {
+      "lat": 25.0246115,
+      "lng": 121.5110468
+    },
+    "power": 2
+  }
+]

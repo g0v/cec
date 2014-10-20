@@ -1,0 +1,587 @@
+[
+  {
+    "id": "tpq2179",
+    "place_name": "瑞芳國小",
+    "address": "中山路2號",
+    "village": "龍潭里",
+    "remark": "全里",
+    "seq": 2179,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.1078152,
+      "lng": 121.8047246
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq2180",
+    "place_name": "新北市立圖書館瑞芳分館",
+    "address": "中正路1號",
+    "village": "龍興里",
+    "remark": "1-7",
+    "seq": 2180,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.1071724,
+      "lng": 121.8091162
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2181",
+    "place_name": "龍興市民活動中心",
+    "address": "民權街10號",
+    "village": "龍興里",
+    "remark": "8-13",
+    "seq": 2181,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.106172,
+      "lng": 121.807685
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2182",
+    "place_name": "民宅",
+    "address": "逢甲路96之1號",
+    "village": "龍鎮里",
+    "remark": "全里",
+    "seq": 2182,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.1088735,
+      "lng": 121.8093611
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2183",
+    "place_name": "龍安市民活動中心",
+    "address": "瑞芳街112巷7號1樓",
+    "village": "龍安里",
+    "remark": "全里",
+    "seq": 2183,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.1111994,
+      "lng": 121.8017306
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2186",
+    "place_name": "瑞樂社",
+    "address": "逢甲路250號",
+    "village": "龍山里",
+    "remark": "全里",
+    "seq": 2186,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.1105923,
+      "lng": 121.8053626
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2187",
+    "place_name": "爪峯市民活動中心",
+    "address": "三爪子坑路66之6號",
+    "village": "爪峯里",
+    "remark": "1-5,13,14",
+    "seq": 2187,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.1055254,
+      "lng": 121.8104396
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2188",
+    "place_name": "爪峯市民活動中心",
+    "address": "三爪子坑路279之2號",
+    "village": "爪峯里",
+    "remark": "6-8,12",
+    "seq": 2188,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.1042211,
+      "lng": 121.8135699
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2189",
+    "place_name": "瑞芳國中",
+    "address": "三爪子坑路1號",
+    "village": "爪峯里",
+    "remark": "9-11",
+    "seq": 2189,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.1061897,
+      "lng": 121.8128547
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq2192",
+    "place_name": "市立幼兒園東和分班",
+    "address": "中山路48之10號",
+    "village": "東和里",
+    "remark": "1-6",
+    "seq": 2192,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.1064222,
+      "lng": 121.8034976
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2193",
+    "place_name": "東和市民活動中心",
+    "address": "中山路20號",
+    "village": "東和里",
+    "remark": "7-14",
+    "seq": 2193,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.1063313,
+      "lng": 121.8042749
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2194",
+    "place_name": "柑坪市民活動中心",
+    "address": "明燈路一段82之1號",
+    "village": "柑坪里",
+    "remark": "全里",
+    "seq": 2194,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.1082154,
+      "lng": 121.8179231
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2195",
+    "place_name": "弓橋市民活動中心",
+    "address": "九芎橋路23號",
+    "village": "弓橋里",
+    "remark": "全里",
+    "seq": 2195,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.0933816,
+      "lng": 121.8329286
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2196",
+    "place_name": "猴硐市民活動中心",
+    "address": "侯硐路25號",
+    "village": "猴硐里",
+    "remark": "全里",
+    "seq": 2196,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.0834621,
+      "lng": 121.8259805
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2197",
+    "place_name": "光復市民活動中心",
+    "address": "柴寮路309號",
+    "village": "光復里",
+    "remark": "全里",
+    "seq": 2197,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.0865695,
+      "lng": 121.8272406
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2198",
+    "place_name": "原碩仁國小",
+    "address": "魚寮路125號",
+    "village": "碩仁里",
+    "remark": "全里",
+    "seq": 2198,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.0615445,
+      "lng": 121.8231107
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2199",
+    "place_name": "吉安宮集會所",
+    "address": "瑞竹路91之1號",
+    "village": "吉慶里",
+    "remark": "1-7",
+    "seq": 2199,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.1035542,
+      "lng": 121.7629731
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq2201",
+    "place_name": "吉安市民活動中心",
+    "address": "大埔路23巷20號之1",
+    "village": "吉安里",
+    "remark": "1-4,6-10",
+    "seq": 2201,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.1015654,
+      "lng": 121.7615264
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2202",
+    "place_name": "吉慶國小",
+    "address": "大埔路95號",
+    "village": "吉安里",
+    "remark": "5",
+    "seq": 2202,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.0998492,
+      "lng": 121.7630958
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq2204",
+    "place_name": "上天市民活動中心",
+    "address": "大寮路49巷5之1號",
+    "village": "上天里",
+    "remark": "1-7",
+    "seq": 2204,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.0979482,
+      "lng": 121.7821961
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2205",
+    "place_name": "市立幼兒園長興分班",
+    "address": "粗坑口路1巷2之2號",
+    "village": "上天里",
+    "remark": "8-12",
+    "seq": 2205,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.0989488,
+      "lng": 121.7612846
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2206",
+    "place_name": "福德宮",
+    "address": "魚坑路58號",
+    "village": "傑魚里",
+    "remark": "1-7",
+    "seq": 2206,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.103052,
+      "lng": 121.822098
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2207",
+    "place_name": "傑魚市民活動中心",
+    "address": "魚坑路245巷2之1號2樓",
+    "village": "傑魚里",
+    "remark": "8-10",
+    "seq": 2207,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.103052,
+      "lng": 121.822098
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2208",
+    "place_name": "基山市民活動中心",
+    "address": "輕便路188號",
+    "village": "基山里",
+    "remark": "全里",
+    "seq": 2208,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.1088209,
+      "lng": 121.844807
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2209",
+    "place_name": "九份國小",
+    "address": "崙頂路145號",
+    "village": "永慶里",
+    "remark": "全里",
+    "seq": 2209,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.1072093,
+      "lng": 121.8436
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2210",
+    "place_name": "長樂市民活動中心",
+    "address": "街頂巷56之1號",
+    "village": "崇文里",
+    "remark": "全里",
+    "seq": 2210,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.1213448,
+      "lng": 121.8606105
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2211",
+    "place_name": "福住市民活動中心",
+    "address": "佛堂巷36號之1",
+    "village": "福住里",
+    "remark": "全里",
+    "seq": 2211,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.103052,
+      "lng": 121.822098
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2212",
+    "place_name": "頌德市民活動中心",
+    "address": "石碑巷51之1號",
+    "village": "頌德里",
+    "remark": "全里",
+    "seq": 2212,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.103052,
+      "lng": 121.822098
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2213",
+    "place_name": "瓜山社區老人長壽俱樂部",
+    "address": "金光路89號",
+    "village": "瓜山里",
+    "remark": "全里",
+    "seq": 2213,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.1069235,
+      "lng": 121.8562726
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2214",
+    "place_name": "銅山市民活動中心",
+    "address": "祈堂路74號之1",
+    "village": "銅山里",
+    "remark": "全里",
+    "seq": 2214,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.1091285,
+      "lng": 121.8598988
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2215",
+    "place_name": "新山市民活動中心",
+    "address": "金光路241之1號",
+    "village": "新山里",
+    "remark": "全里",
+    "seq": 2215,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.1074989,
+      "lng": 121.851415
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2216",
+    "place_name": "瓜山國小",
+    "address": "五號路306號",
+    "village": "石山里",
+    "remark": "全里",
+    "seq": 2216,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.1112805,
+      "lng": 121.8568951
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2217",
+    "place_name": "濂洞市民活動中心",
+    "address": "洞頂路235之1號",
+    "village": "濂洞里",
+    "remark": "全里",
+    "seq": 2217,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.122393,
+      "lng": 121.860695
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2218",
+    "place_name": "威遠廟",
+    "address": "明里路7之1號",
+    "village": "濂新里",
+    "remark": "全里",
+    "seq": 2218,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.1204272,
+      "lng": 121.8680551
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2219",
+    "place_name": "南雅里活動中心",
+    "address": "南雅路41之1號",
+    "village": "南雅里",
+    "remark": "全里",
+    "seq": 2219,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.12039,
+      "lng": 121.8879925
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2220",
+    "place_name": "空屋",
+    "address": "鼻頭路131號",
+    "village": "鼻頭里",
+    "remark": "全里",
+    "seq": 2220,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.122051,
+      "lng": 121.915882
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2221",
+    "place_name": "海濱市民活動中心",
+    "address": "濱二路68之1號",
+    "village": "海濱里",
+    "remark": "全里",
+    "seq": 2221,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.1179722,
+      "lng": 121.8333113
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2222",
+    "place_name": "瑞濱國小",
+    "address": "瑞濱路34號",
+    "village": "瑞濱里",
+    "remark": "1-3,6-13",
+    "seq": 2222,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.1204951,
+      "lng": 121.8203175
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq2224",
+    "place_name": "深澳市民活動中心",
+    "address": "深澳路67之1號",
+    "village": "深澳里",
+    "remark": "全里",
+    "seq": 2224,
+    "county": "TPQ",
+    "town": "瑞芳區",
+    "location": {
+      "lat": 25.1296227,
+      "lng": 121.8179744
+    },
+    "power": 1
+  }
+]

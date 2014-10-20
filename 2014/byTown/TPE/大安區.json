@@ -1,0 +1,1570 @@
+[
+  {
+    "id": "tpe1185",
+    "place_name": "天新素食自助餐",
+    "address": "大安路1段157巷3-1號",
+    "village": "德安里15~20",
+    "indigenous_village": "德安里全里",
+    "phone": "2703-8818",
+    "seq": 1185,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0372962,
+      "lng": 121.5463333
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1186",
+    "place_name": "仁愛教育館",
+    "address": "信義路4段99巷31號",
+    "village": "德安里7、11~14",
+    "indigenous_village": "",
+    "phone": "2707-8004",
+    "seq": 1186,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0348743,
+      "lng": 121.5471363
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1187",
+    "place_name": "中華電信大安服務中心",
+    "address": "信義路4段89-1號",
+    "village": "德安里3~4、8~10",
+    "indigenous_village": "",
+    "phone": "2702-0717",
+    "seq": 1187,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0335555,
+      "lng": 121.5468525
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1188",
+    "place_name": "中華電信東三機房",
+    "address": "信義路4段89號",
+    "village": "德安里1~2、5~6",
+    "indigenous_village": "",
+    "phone": "2702-0717",
+    "seq": 1188,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.032598,
+      "lng": 121.545547
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1189",
+    "place_name": "世界紅卍字會台灣總主會（大廳）",
+    "address": "復興南路1段303號",
+    "village": "仁慈里1~6",
+    "indigenous_village": "仁慈里全里",
+    "phone": "2704-8165",
+    "seq": 1189,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0348825,
+      "lng": 121.54388
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1191",
+    "place_name": "中國基督教信義會恩光堂",
+    "address": "復興南路1段253巷13號",
+    "village": "仁慈里12~17",
+    "indigenous_village": "",
+    "phone": "2707-9311",
+    "seq": 1191,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0369042,
+      "lng": 121.5441195
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1192",
+    "place_name": "客家文化會館1樓",
+    "address": "信義路3段157巷11號",
+    "village": "和安里1、3~6、10~12",
+    "indigenous_village": "",
+    "phone": "2702-6141轉320",
+    "seq": 1192,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0345278,
+      "lng": 121.5430583
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1193",
+    "place_name": "師大附中體育館(南側)",
+    "address": "信義路3段143號",
+    "village": "和安里9、19~21",
+    "indigenous_village": "",
+    "phone": "2707-5215轉311",
+    "seq": 1193,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0339538,
+      "lng": 121.5405504
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe1196",
+    "place_name": "幸安國小",
+    "address": "仁愛路3段22號",
+    "village": "民炤里2~5",
+    "indigenous_village": "民炤里全里",
+    "phone": "2707-4191",
+    "seq": 1196,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.037684,
+      "lng": 121.5349702
+    },
+    "power": 5
+  },
+  {
+    "id": "tpe1201",
+    "place_name": "復興小學誠賢樓雙語部1年和班教室",
+    "address": "敦化南路1段262號",
+    "village": "仁愛里1~6",
+    "indigenous_village": "仁愛里全里",
+    "phone": "2771-5859",
+    "seq": 1201,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0393604,
+      "lng": 121.5483831
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe1205",
+    "place_name": "懷生國中",
+    "address": "忠孝東路3段248巷30號",
+    "village": "義村里1~7",
+    "indigenous_village": "義村里全里",
+    "phone": "2721-5078",
+    "seq": 1205,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0403291,
+      "lng": 121.5411787
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe1209",
+    "place_name": "臺北衛理幼稚園",
+    "address": "新生南路1段117號",
+    "village": "民輝里1~6",
+    "indigenous_village": "",
+    "phone": "2771-2017轉145",
+    "seq": 1209,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.039433,
+      "lng": 121.5331092
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1210",
+    "place_name": "臺北衛理堂會議室",
+    "address": "新生南路1段113號",
+    "village": "民輝里10、14~17、24",
+    "indigenous_village": "",
+    "phone": "2771-2017轉145",
+    "seq": 1210,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0398249,
+      "lng": 121.5330981
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1211",
+    "place_name": "民輝里民活動場所",
+    "address": "濟南路3段35-9號",
+    "village": "民輝里7~9、11~13、18",
+    "indigenous_village": "",
+    "phone": "無",
+    "seq": 1211,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0403569,
+      "lng": 121.5355732
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1212",
+    "place_name": "國立臺北科技大學土木工程館1樓大廳",
+    "address": "新生南路1段3號",
+    "village": "民輝里19~23",
+    "indigenous_village": "民輝里全里",
+    "phone": "2771-2171轉1320",
+    "seq": 1212,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.04373,
+      "lng": 121.533269
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1213",
+    "place_name": "敦歆幼兒園",
+    "address": "忠孝東路3段217巷2弄8號1樓",
+    "village": "昌隆里1~7",
+    "indigenous_village": "",
+    "phone": "2776-1626",
+    "seq": 1213,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0422408,
+      "lng": 121.5401346
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1214",
+    "place_name": "基督教忠孝神召會",
+    "address": "忠孝東路3段217巷5弄8號",
+    "village": "昌隆里8~15",
+    "indigenous_village": "昌隆里全里",
+    "phone": "2752-7186",
+    "seq": 1214,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0434436,
+      "lng": 121.5392715
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1215",
+    "place_name": "吳新松先生車庫",
+    "address": "忠孝東路3段251巷4弄4號",
+    "village": "誠安里1~2、7~10",
+    "indigenous_village": "",
+    "phone": "2771-7665轉202楊小姐",
+    "seq": 1215,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0422783,
+      "lng": 121.5414579
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1216",
+    "place_name": "首府幼兒園",
+    "address": "忠孝東路3段251巷9弄8號",
+    "village": "誠安里3~6、12-13",
+    "indigenous_village": "誠安里全里",
+    "phone": "2731-2020",
+    "seq": 1216,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0432091,
+      "lng": 121.5420346
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1217",
+    "place_name": "萬象大樓穿堂",
+    "address": "復興南路1段122巷10號(安東小吃前)",
+    "village": "誠安里11、14~17",
+    "indigenous_village": "2721-1325",
+    "phone": "郭先生",
+    "seq": 1217,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0438476,
+      "lng": 121.5422172
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1218",
+    "place_name": "金城華廈",
+    "address": "敦化南路1段190巷38號1樓",
+    "village": "光武里1~4、6~7",
+    "indigenous_village": "",
+    "phone": "2721-9728",
+    "seq": 1218,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.042572,
+      "lng": 121.5470553
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1219",
+    "place_name": "光武里民活動場所",
+    "address": "敦化南路1段160巷20號",
+    "village": "光武里5、8~12",
+    "indigenous_village": "",
+    "phone": "2773-6533",
+    "seq": 1219,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0434483,
+      "lng": 121.5476312
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1220",
+    "place_name": "永豐頂好庭園穿堂",
+    "address": "敦化南路1段138號1樓(後門)",
+    "village": "光武里13~18",
+    "indigenous_village": "",
+    "phone": "2772-0524",
+    "seq": 1220,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.04443,
+      "lng": 121.548502
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1221",
+    "place_name": "加一自助餐",
+    "address": "復興南路1段107巷2號1樓",
+    "village": "光武里19~23、25",
+    "indigenous_village": "光武里全里",
+    "phone": "2741-1089",
+    "seq": 1221,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.043562,
+      "lng": 121.5443146
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1222",
+    "place_name": "東區地下街市政服務站",
+    "address": "大安路1段77號東區地下街2號店舖",
+    "village": "光武里24、26~28",
+    "indigenous_village": "",
+    "phone": "6638-7856",
+    "seq": 1222,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0419806,
+      "lng": 121.5462661
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1223",
+    "place_name": "新民國小",
+    "address": "辛亥路1段113號",
+    "village": "龍坡里1~6",
+    "indigenous_village": "龍坡里全里",
+    "phone": "2363-0450",
+    "seq": 1223,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0222236,
+      "lng": 121.5316611
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe1227",
+    "place_name": "古亭國小",
+    "address": "羅斯福路3段201號",
+    "village": "龍泉里1~5",
+    "indigenous_village": "",
+    "phone": "2363-9795",
+    "seq": 1227,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0205827,
+      "lng": 121.5287775
+    },
+    "power": 6
+  },
+  {
+    "id": "tpe1233",
+    "place_name": "國立臺灣師範大學誠106班教室",
+    "address": "和平東路1段162號",
+    "village": "古莊里1~4、11",
+    "indigenous_village": "",
+    "phone": "7734-3164",
+    "seq": 1233,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0259297,
+      "lng": 121.5275174
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe1237",
+    "place_name": "新生國小",
+    "address": "新生南路2段36號",
+    "village": "龍安里1~2",
+    "indigenous_village": "龍安里全里",
+    "phone": "2391-3122",
+    "seq": 1237,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0298199,
+      "lng": 121.53362
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe1241",
+    "place_name": "基督教頌主堂",
+    "address": "潮州街124號",
+    "village": "錦安里1~3、5",
+    "indigenous_village": "錦安里全里",
+    "phone": "2321-5083",
+    "seq": 1241,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.02867,
+      "lng": 121.52724
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1242",
+    "place_name": "基督教錫安堂",
+    "address": "金山南路2段215巷18號",
+    "village": "錦安里6~9",
+    "indigenous_village": "",
+    "phone": "2396-8308",
+    "seq": 1242,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0276288,
+      "lng": 121.5270844
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1243",
+    "place_name": "國立臺灣師範大學教育學院大樓104教室",
+    "address": "和平東路1段129號",
+    "village": "錦安里11~12、15~17",
+    "indigenous_village": "",
+    "phone": "7734-5654",
+    "seq": 1243,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.026732,
+      "lng": 121.528263
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1245",
+    "place_name": "金華國中",
+    "address": "新生南路2段32號",
+    "village": "福住里1~4",
+    "indigenous_village": "",
+    "phone": "3393-1799轉512",
+    "seq": 1245,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0312012,
+      "lng": 121.533178
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe1249",
+    "place_name": "金華國小",
+    "address": "愛國東路79巷11號",
+    "village": "永康里1~5",
+    "indigenous_village": "永康里全里",
+    "phone": "2391-7402",
+    "seq": 1249,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0322754,
+      "lng": 121.527675
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1251",
+    "place_name": "金甌女子高級中學206教室",
+    "address": "杭州南路2段1號",
+    "village": "光明里1~6",
+    "indigenous_village": "",
+    "phone": "2321-4765",
+    "seq": 1251,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0347679,
+      "lng": 121.5241816
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1253",
+    "place_name": "中正國中",
+    "address": "愛國東路158號",
+    "village": "錦泰里1~4、6~9",
+    "indigenous_village": "",
+    "phone": "2391-6697",
+    "seq": 1253,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0323588,
+      "lng": 121.5219754
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1255",
+    "place_name": "基督教台北市中心",
+    "address": "杭州南路2段95號",
+    "village": "錦華里5~10、16",
+    "indigenous_village": "錦華里全里",
+    "phone": "2321-0665",
+    "seq": 1255,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0284933,
+      "lng": 121.5219167
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1256",
+    "place_name": "台電核火工程處禮堂前段",
+    "address": "和平東路1段41巷1號",
+    "village": "錦華里1~4、17~19",
+    "indigenous_village": "",
+    "phone": "2391-0241轉9702",
+    "seq": 1256,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0266126,
+      "lng": 121.5241674
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1258",
+    "place_name": "大安高工至善樓107教室",
+    "address": "復興南路2段52號",
+    "village": "龍圖里1~5",
+    "indigenous_village": "龍圖里全里",
+    "phone": "2709-1630",
+    "seq": 1258,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0320334,
+      "lng": 121.5433601
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe1262",
+    "place_name": "臺北市立圖書館總館1樓",
+    "address": "建國南路2段125號",
+    "village": "新龍里13~19",
+    "indigenous_village": "",
+    "phone": "2755-2823",
+    "seq": 1262,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.029152,
+      "lng": 121.538369
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe1265",
+    "place_name": "大安社區管理委員會",
+    "address": "信義路3段134巷84號",
+    "village": "新龍里2、5~9",
+    "indigenous_village": "",
+    "phone": "27025783",
+    "seq": 1265,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0293859,
+      "lng": 121.5392822
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1266",
+    "place_name": "開平餐飲學校AC102教室",
+    "address": "復興南路2段148巷24號",
+    "village": "龍陣里1~8",
+    "indigenous_village": "",
+    "phone": "2707-0904轉371",
+    "seq": 1266,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0285433,
+      "lng": 121.5423719
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1268",
+    "place_name": "建安國小",
+    "address": "大安路2段99號",
+    "village": "龍雲里1~6",
+    "indigenous_village": "龍雲里全里",
+    "phone": "2707-7119",
+    "seq": 1268,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0293967,
+      "lng": 121.5461701
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe1271",
+    "place_name": "龍生里民活動場所",
+    "address": "和平東路2段175巷24號",
+    "village": "龍生里1~5",
+    "indigenous_village": "龍生里全里",
+    "phone": "2706-4529",
+    "seq": 1271,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.026027,
+      "lng": 121.541554
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1272",
+    "place_name": "國立臺北教大實小",
+    "address": "和平東路2段94號",
+    "village": "龍生里6~10、12",
+    "indigenous_village": "",
+    "phone": "2735-6186轉201",
+    "seq": 1272,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0250425,
+      "lng": 121.540946
+    },
+    "power": 8
+  },
+  {
+    "id": "tpe1275",
+    "place_name": "大安國中",
+    "address": "大安路2段63號",
+    "village": "住安里1~7",
+    "indigenous_village": "",
+    "phone": "2755-7131",
+    "seq": 1275,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0308602,
+      "lng": 121.54625
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe1278",
+    "place_name": "東方工商科技大樓1樓",
+    "address": "信義路4段186巷7號",
+    "village": "義安里1~6、9",
+    "indigenous_village": "",
+    "phone": "2755-4616轉137",
+    "seq": 1278,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0421259,
+      "lng": 121.5507559
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1279",
+    "place_name": "東方工商學生活動中心",
+    "address": "信義路4段186巷8號",
+    "village": "義安里7~8、10~11、16",
+    "indigenous_village": "",
+    "phone": "2755-4616轉137",
+    "seq": 1279,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0322561,
+      "lng": 121.5514468
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe1282",
+    "place_name": "三聖宮",
+    "address": "文昌街250巷5號",
+    "village": "通化里1~3、6~8",
+    "indigenous_village": "",
+    "phone": "2702-0259",
+    "seq": 1282,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0317085,
+      "lng": 121.5557846
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1283",
+    "place_name": "福德宮",
+    "address": "通化街39巷11號",
+    "village": "通化里5、10、14、16、20~21",
+    "indigenous_village": "",
+    "phone": "2705-4517",
+    "seq": 1283,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0309964,
+      "lng": 121.5547681
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1284",
+    "place_name": "臺北市電影委員會",
+    "address": "光復南路630號",
+    "village": "通化里4、9、11~12、15、23",
+    "indigenous_village": "",
+    "phone": "2709-3880",
+    "seq": 1284,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0315246,
+      "lng": 121.5572444
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1285",
+    "place_name": "理教總公所清心堂",
+    "address": "文昌街280巷53號",
+    "village": "通化里13、17~19、22",
+    "indigenous_village": "通化里全里",
+    "phone": "2708-1220",
+    "seq": 1285,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0312756,
+      "lng": 121.5568709
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1286",
+    "place_name": "通安區民活動中心",
+    "address": "通安街98號1樓",
+    "village": "通安里1~3、5、7",
+    "indigenous_village": "",
+    "phone": "",
+    "seq": 1286,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0298396,
+      "lng": 121.5530051
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1288",
+    "place_name": "頌主堂",
+    "address": "通化街162巷2號",
+    "village": "通安里14~18",
+    "indigenous_village": "通安里全里",
+    "phone": "2737-5035",
+    "seq": 1288,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0285357,
+      "lng": 121.5534106
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1289",
+    "place_name": "立人國小",
+    "address": "安和路2段99號",
+    "village": "通安里4、6、19~20",
+    "indigenous_village": "",
+    "phone": "2738-1188",
+    "seq": 1289,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0298352,
+      "lng": 121.5519283
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1290",
+    "place_name": "中華基督教浸信會潮恩堂",
+    "address": "通化街123巷32號",
+    "village": "臨江里1~5",
+    "indigenous_village": "臨江里全里",
+    "phone": "2738-2641",
+    "seq": 1290,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0289141,
+      "lng": 121.5551937
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1291",
+    "place_name": "惠真幼兒園1",
+    "address": "通化街143巷31號",
+    "village": "臨江里6~10",
+    "indigenous_village": "",
+    "phone": "2738-3431",
+    "seq": 1291,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0285311,
+      "lng": 121.5558341
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1293",
+    "place_name": "喬治工商敬謙堂",
+    "address": "基隆路2段172號",
+    "village": "法治里1~3",
+    "indigenous_village": "法治里全里",
+    "phone": "2738-6515轉222",
+    "seq": 1293,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0266263,
+      "lng": 121.5548482
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe1296",
+    "place_name": "華菂幼兒園1號教室",
+    "address": "安和路2段217巷30號",
+    "village": "全安里1~3、5~6",
+    "indigenous_village": "",
+    "phone": "2735-0267",
+    "seq": 1296,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0318358,
+      "lng": 121.5522317
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1298",
+    "place_name": "全安里民活動場所",
+    "address": "安和路2段181巷15號1樓",
+    "village": "全安里4、12~16",
+    "indigenous_village": "",
+    "phone": "2736-8446",
+    "seq": 1298,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0274351,
+      "lng": 121.5506155
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1299",
+    "place_name": "中國基督教信義會靈光堂",
+    "address": "和平東路2段277號",
+    "village": "群賢里2~6",
+    "indigenous_village": "群賢里全里",
+    "phone": "2707-7562",
+    "seq": 1299,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0249556,
+      "lng": 121.5443689
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1300",
+    "place_name": "群賢里民活動場所",
+    "address": "和平東路2段311巷43弄36號",
+    "village": "群賢里1、7~10",
+    "indigenous_village": "",
+    "phone": "2700-3623",
+    "seq": 1300,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0254628,
+      "lng": 121.5461446
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1301",
+    "place_name": "基督教救世軍台北中央堂",
+    "address": "四維路208巷1號",
+    "village": "群賢里11~15",
+    "indigenous_village": "",
+    "phone": "2705-8150",
+    "seq": 1301,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0264313,
+      "lng": 121.5478214
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1302",
+    "place_name": "基督教長老教會大安教會",
+    "address": "和平東路3段1巷51號",
+    "village": "群賢里16~20",
+    "indigenous_village": "",
+    "phone": "2706-4477",
+    "seq": 1302,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0263672,
+      "lng": 121.5468269
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1303",
+    "place_name": "成功國宅中庭穿堂1",
+    "address": "四維路198巷30弄1號前(頂好超商對面)",
+    "village": "群英里1~5、27~28、34",
+    "indigenous_village": "群英里全里",
+    "phone": "2754-7207",
+    "seq": 1303,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.026581,
+      "lng": 121.546088
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1304",
+    "place_name": "成功國宅中庭穿堂2",
+    "address": "四維路198巷38弄2號前(頂好超商對面)",
+    "village": "群英里6~13",
+    "indigenous_village": "",
+    "phone": "2754-7207",
+    "seq": 1304,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0264129,
+      "lng": 121.545577
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1305",
+    "place_name": "大安幼兒園",
+    "address": "四維路198巷31弄11號",
+    "village": "群英里20~26、32~33、35",
+    "indigenous_village": "",
+    "phone": "2755-1211",
+    "seq": 1305,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.027195,
+      "lng": 121.545943
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1306",
+    "place_name": "成功區民活動中心",
+    "address": "四維路198巷30弄9號",
+    "village": "群英里14~19、29~31",
+    "indigenous_village": "",
+    "phone": "2754-7207",
+    "seq": 1306,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0263049,
+      "lng": 121.546098
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1307",
+    "place_name": "臺北市大安區福安宮",
+    "address": "臥龍街61號",
+    "village": "虎嘯里1~4、6",
+    "indigenous_village": "",
+    "phone": "2735-5670",
+    "seq": 1307,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0220824,
+      "lng": 121.5474811
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1308",
+    "place_name": "國防部和平新莊閱覽室A",
+    "address": "和平東路3段62巷7號",
+    "village": "虎嘯里5、7~9",
+    "indigenous_village": "",
+    "phone": "8732-7353",
+    "seq": 1308,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0240592,
+      "lng": 121.5494459
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1310",
+    "place_name": "大安區健康服務中心",
+    "address": "辛亥路3段15號",
+    "village": "臥龍里1~8",
+    "indigenous_village": "臥龍里全里",
+    "phone": "2733-5831",
+    "seq": 1310,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0215769,
+      "lng": 121.544274
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1316",
+    "place_name": "龍安國小",
+    "address": "新生南路3段33號",
+    "village": "龍門里1~5",
+    "indigenous_village": "龍門里全里",
+    "phone": "2363-2077轉730-736",
+    "seq": 1316,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0239215,
+      "lng": 121.5348854
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe1319",
+    "place_name": "真理堂",
+    "address": "新生南路3段86號",
+    "village": "大學里1、2、4、7",
+    "indigenous_village": "",
+    "phone": "2363-2096轉122林主任",
+    "seq": 1319,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0188242,
+      "lng": 121.532787
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1320",
+    "place_name": "懷恩堂(樂民館)",
+    "address": "新生南路3段90號B1",
+    "village": "大學里3、5、11、24",
+    "indigenous_village": "大學里全里",
+    "phone": "2362-5321轉122唐小姐",
+    "seq": 1320,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.017788,
+      "lng": 121.533171
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1321",
+    "place_name": "臺電輸變電工程處北區施工處第2工務段停車場",
+    "address": "羅斯福路3段283巷30號",
+    "village": "大學里8~10、22~23",
+    "indigenous_village": "",
+    "phone": "2322-9925",
+    "seq": 1321,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0189376,
+      "lng": 121.5316687
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1322",
+    "place_name": "信友堂停車場",
+    "address": "羅斯福路3段283巷19弄11號",
+    "village": "大學里12~14、20~21",
+    "indigenous_village": "",
+    "phone": "2363-1035轉226",
+    "seq": 1322,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0194062,
+      "lng": 121.5310562
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1323",
+    "place_name": "辛亥區民活動中心",
+    "address": "辛亥路1段臨141號",
+    "village": "大學里6、15~19",
+    "indigenous_village": "",
+    "phone": "2351-1711轉8205",
+    "seq": 1323,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0211173,
+      "lng": 121.531229
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1324",
+    "place_name": "大安國小",
+    "address": "臥龍街129號",
+    "village": "芳和里1~5",
+    "indigenous_village": "",
+    "phone": "2732-2332",
+    "seq": 1324,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0200093,
+      "lng": 121.549095
+    },
+    "power": 7
+  },
+  {
+    "id": "tpe1331",
+    "place_name": "芳和國中",
+    "address": "臥龍街170號",
+    "village": "黎元里16~19",
+    "indigenous_village": "",
+    "phone": "2732-1961",
+    "seq": 1331,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0186717,
+      "lng": 121.5503197
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1332",
+    "place_name": "海巡署人員研習中心",
+    "address": "臥龍街240之2號",
+    "village": "黎孝里1~5",
+    "indigenous_village": "",
+    "phone": "2377-3065",
+    "seq": 1332,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0184017,
+      "lng": 121.5560645
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe1335",
+    "place_name": "基督教臺北福音堂",
+    "address": "安居街35巷14號",
+    "village": "黎孝里9~11、16、18",
+    "indigenous_village": "",
+    "phone": "2732-8273",
+    "seq": 1335,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0194819,
+      "lng": 121.5551097
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1336",
+    "place_name": "育樂幼兒園",
+    "address": "和平東路3段308巷40號",
+    "village": "黎孝里6~8、17",
+    "indigenous_village": "",
+    "phone": "2735-5304",
+    "seq": 1336,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0196251,
+      "lng": 121.555367
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1337",
+    "place_name": "基督教信義會和平教會",
+    "address": "富陽街113號",
+    "village": "黎和里1~3、5、8、11",
+    "indigenous_village": "",
+    "phone": "2735-4281",
+    "seq": 1337,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0195719,
+      "lng": 121.5567895
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1338",
+    "place_name": "黎和里民活動場所",
+    "address": "臥龍街286號",
+    "village": "黎和里7、9~10、12",
+    "indigenous_village": "",
+    "phone": "2377-2353",
+    "seq": 1338,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.016868,
+      "lng": 121.558873
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1339",
+    "place_name": "都市更新案籌備處",
+    "address": "臥龍街296-1號",
+    "village": "黎和里4、6、13~16",
+    "indigenous_village": "黎和里全里",
+    "phone": "2735-6559",
+    "seq": 1339,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.016824,
+      "lng": 121.559383
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1340",
+    "place_name": "建安里民活動場所",
+    "address": "敦化南路1段161巷69弄5號",
+    "village": "建安里1~6",
+    "indigenous_village": "建安里全里",
+    "phone": "2771-6279",
+    "seq": 1340,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.043901,
+      "lng": 121.5525242
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1342",
+    "place_name": "中華基督教行道會臺北教會",
+    "address": "忠孝東路4段181巷17號",
+    "village": "建安里12~18",
+    "indigenous_village": "",
+    "phone": "2721-3242",
+    "seq": 1342,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0426456,
+      "lng": 121.5508836
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1343",
+    "place_name": "仁愛國中",
+    "address": "仁愛路4段130號",
+    "village": "建倫里1~5",
+    "indigenous_village": "建倫里全里",
+    "phone": "2325-5823",
+    "seq": 1343,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.037534,
+      "lng": 121.5506569
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe1347",
+    "place_name": "仁愛國小",
+    "address": "安和路1段60號",
+    "village": "敦安里1~5、8",
+    "indigenous_village": "",
+    "phone": "2709-5010",
+    "seq": 1347,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0357732,
+      "lng": 121.55235
+    },
+    "power": 8
+  },
+  {
+    "id": "tpe1351",
+    "place_name": "光復國小",
+    "address": "光復南路271號",
+    "village": "正聲里1~6、16",
+    "indigenous_village": "正聲里全里",
+    "phone": "2758-5076",
+    "seq": 1351,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0402704,
+      "lng": 121.5578527
+    },
+    "power": 10
+  },
+  {
+    "id": "tpe1365",
+    "place_name": "仁愛世貿大樓",
+    "address": "仁愛路4段376號",
+    "village": "光信里1~3、9~11、18",
+    "indigenous_village": "",
+    "phone": "2706-6610",
+    "seq": 1365,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0373876,
+      "lng": 121.5557532
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1366",
+    "place_name": "光信區民活動中心",
+    "address": "延吉街236巷17號2樓",
+    "village": "光信里19~26",
+    "indigenous_village": "光信里全里",
+    "phone": "23511711轉8205",
+    "seq": 1366,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0361296,
+      "lng": 121.5550152
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1367",
+    "place_name": "光目華福德幼兒園",
+    "address": "延吉街241巷2弄11號",
+    "village": "光信里4~5、12~15",
+    "indigenous_village": "",
+    "phone": "2701-9399",
+    "seq": 1367,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0356372,
+      "lng": 121.5560672
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1368",
+    "place_name": "何嘉仁延吉幼兒園",
+    "address": "延吉街250號",
+    "village": "光信里6、16、27~28",
+    "indigenous_village": "",
+    "phone": "2708-6092",
+    "seq": 1368,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.034887,
+      "lng": 121.555992
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1369",
+    "place_name": "曉星幼兒園",
+    "address": "延吉街254號",
+    "village": "光信里7~8、17、29~30",
+    "indigenous_village": "",
+    "phone": "2703-3211",
+    "seq": 1369,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.034374,
+      "lng": 121.556295
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1370",
+    "place_name": "民族國中",
+    "address": "羅斯福路4段113巷13號",
+    "village": "學府里1~5",
+    "indigenous_village": "學府里全里",
+    "phone": "2732-2935轉213",
+    "seq": 1370,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.0111861,
+      "lng": 121.5388738
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1371",
+    "place_name": "空軍退員宿舍（芳蘭山莊）",
+    "address": "基隆路3段155巷148號",
+    "village": "學府里6~9、15",
+    "indigenous_village": "",
+    "phone": "2733-0381",
+    "seq": 1371,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.012492,
+      "lng": 121.548123
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1372",
+    "place_name": "聯勤公館退員宿舍",
+    "address": "基隆路3段155巷61號",
+    "village": "學府里10~14、16~17",
+    "indigenous_village": "",
+    "phone": "2732-2322",
+    "seq": 1372,
+    "county": "TPE",
+    "town": "大安區",
+    "location": {
+      "lat": 25.013495,
+      "lng": 121.544593
+    },
+    "power": 1
+  }
+]

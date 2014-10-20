@@ -1,0 +1,677 @@
+[
+  {
+    "id": "tpq1578",
+    "place_name": "三多國小",
+    "address": "三福街52號",
+    "village": "三興里",
+    "remark": "1-11",
+    "seq": 1578,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 25.0163593,
+      "lng": 121.4058892
+    },
+    "power": 5
+  },
+  {
+    "id": "tpq1580",
+    "place_name": "民宅",
+    "address": "大慶街86號",
+    "village": "三興里",
+    "remark": "14-22,29-31",
+    "seq": 1580,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 25.0139338,
+      "lng": 121.3961395
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1584",
+    "place_name": "保安福德宮",
+    "address": "保安街三段1巷口",
+    "village": "三多里",
+    "remark": "1-6,11-14",
+    "seq": 1584,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 25.0100819,
+      "lng": 121.4125561
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1585",
+    "place_name": "三多第2市民活動中心",
+    "address": "中正路711巷1號",
+    "village": "三多里",
+    "remark": "7-10,15-21",
+    "seq": 1585,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.9988086,
+      "lng": 121.4279365
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1586",
+    "place_name": "迴龍幼兒園",
+    "address": "三俊街35號",
+    "village": "三龍里",
+    "remark": "1-9",
+    "seq": 1586,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 25.015718,
+      "lng": 121.412225
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1588",
+    "place_name": "三多國中",
+    "address": "三多路101號",
+    "village": "獇寮里",
+    "remark": "1-9",
+    "seq": 1588,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 25.0063705,
+      "lng": 121.4146724
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq1591",
+    "place_name": "武林國小",
+    "address": "保安街二段151號",
+    "village": "光興里",
+    "remark": "1-6",
+    "seq": 1591,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 25.0017104,
+      "lng": 121.4153629
+    },
+    "power": 5
+  },
+  {
+    "id": "tpq1593",
+    "place_name": "鎮福宮",
+    "address": "光興街146巷口",
+    "village": "光興里",
+    "remark": "12-18",
+    "seq": 1593,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 25.0044673,
+      "lng": 121.4083561
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1597",
+    "place_name": "潭底市民活動中心",
+    "address": "保安街一段289巷8號",
+    "village": "潭底里",
+    "remark": "1-10,33",
+    "seq": 1597,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.9974941,
+      "lng": 121.4184607
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1598",
+    "place_name": "樹人家商",
+    "address": "大安路216號",
+    "village": "潭底里",
+    "remark": "11-17,30,31",
+    "seq": 1598,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.9943874,
+      "lng": 121.4192267
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1599",
+    "place_name": "文林國小",
+    "address": "千歲街59號",
+    "village": "潭底里",
+    "remark": "18-29,32",
+    "seq": 1599,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.9975332,
+      "lng": 121.4260831
+    },
+    "power": 6
+  },
+  {
+    "id": "tpq1603",
+    "place_name": "保安市民活動中心",
+    "address": "保順街88號1樓",
+    "village": "保安里",
+    "remark": "23-27,30,31,34",
+    "seq": 1603,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.9943694,
+      "lng": 121.4291938
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1605",
+    "place_name": "鎮南宮",
+    "address": "千歲街2號",
+    "village": "保安里",
+    "remark": "8-16",
+    "seq": 1605,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.999048,
+      "lng": 121.427565
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1607",
+    "place_name": "圳安社區活動中心",
+    "address": "俊英街98之1號",
+    "village": "圳安里",
+    "remark": "1-8",
+    "seq": 1607,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 25.0068044,
+      "lng": 121.4266443
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1608",
+    "place_name": "圳安第二松鶴會館",
+    "address": "俊英街219之3號",
+    "village": "圳安里",
+    "remark": "9-15",
+    "seq": 1608,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 25.0110607,
+      "lng": 121.4197371
+    },
+    "power": 4
+  },
+  {
+    "id": "tpq1609",
+    "place_name": "永竑機械股份有限公司(原新達機械股份有限公司)",
+    "address": "俊英街206號",
+    "village": "圳安里",
+    "remark": "16-23",
+    "seq": 1609,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 25.009264,
+      "lng": 121.42539
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1610",
+    "place_name": "中正體育活動中心",
+    "address": "樹新路203之1號",
+    "village": "圳福里",
+    "remark": "1-9,23",
+    "seq": 1610,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.997898,
+      "lng": 121.428738
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1611",
+    "place_name": "圳安松鶴一會(原圳安社區長壽俱樂部)",
+    "address": "中正路21號之1（中正路橋下）",
+    "village": "圳福里",
+    "remark": "10,11,14-17,26,27",
+    "seq": 1611,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.9991609,
+      "lng": 121.427399
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1617",
+    "place_name": "長壽親子公園旁",
+    "address": "復興路139之1號",
+    "village": "樹德里",
+    "remark": "10,12-20",
+    "seq": 1617,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.9925811,
+      "lng": 121.4212616
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1618",
+    "place_name": "新力幼兒園",
+    "address": "復興路50號",
+    "village": "樹德里",
+    "remark": "1-9",
+    "seq": 1618,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.93702,
+      "lng": 121.3737068
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1619",
+    "place_name": "基督教樹林教會",
+    "address": "保安街一段39號",
+    "village": "樹福里",
+    "remark": "5,11-20",
+    "seq": 1619,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.9945595,
+      "lng": 121.4241366
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1620",
+    "place_name": "民宅",
+    "address": "中山路一段2巷2號",
+    "village": "樹福里",
+    "remark": "1-4,6-10",
+    "seq": 1620,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.9939699,
+      "lng": 121.424703
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1621",
+    "place_name": "樹西市民活動中心",
+    "address": "復興路225巷2號",
+    "village": "樹西里",
+    "remark": "15,19,20,22-25,27-29,32",
+    "seq": 1621,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.990776,
+      "lng": 121.420179
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1622",
+    "place_name": "樹林國小",
+    "address": "育英街176號",
+    "village": "樹西里",
+    "remark": "1-4,6-10",
+    "seq": 1622,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.9898163,
+      "lng": 121.4180796
+    },
+    "power": 6
+  },
+  {
+    "id": "tpq1626",
+    "place_name": "停七活動中心",
+    "address": "復興路202號",
+    "village": "樹興里",
+    "remark": "19-27",
+    "seq": 1626,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.9861741,
+      "lng": 121.4158551
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1627",
+    "place_name": "育林國中",
+    "address": "復興路395號",
+    "village": "樹人里",
+    "remark": "1-10",
+    "seq": 1627,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.9857596,
+      "lng": 121.4156666
+    },
+    "power": 4
+  },
+  {
+    "id": "tpq1630",
+    "place_name": "企鵝家族幼兒園",
+    "address": "文化街22號",
+    "village": "育英里",
+    "remark": "1,11-17,19",
+    "seq": 1630,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.9889059,
+      "lng": 121.416319
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1631",
+    "place_name": "文化市民活動中心",
+    "address": "文化街15號",
+    "village": "樹南里",
+    "remark": "1-6,21-23",
+    "seq": 1631,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.9874266,
+      "lng": 121.4197775
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1632",
+    "place_name": "健民協會",
+    "address": "復興路335巷7號",
+    "village": "樹南里",
+    "remark": "7-11,24-29",
+    "seq": 1632,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.988205,
+      "lng": 121.418262
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1634",
+    "place_name": "坡內市民活動中心",
+    "address": "備內街117號",
+    "village": "坡內里",
+    "remark": "全里",
+    "seq": 1634,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.9906449,
+      "lng": 121.405242
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1635",
+    "place_name": "樹林區農會所(本會)停車場",
+    "address": "鎮前街77號",
+    "village": "樹東里",
+    "remark": "全里",
+    "seq": 1635,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.990575,
+      "lng": 121.4248334
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1636",
+    "place_name": "樹林義消分隊隊部",
+    "address": "鎮前街31號",
+    "village": "樹北里",
+    "remark": "全里",
+    "seq": 1636,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.9855483,
+      "lng": 121.4191242
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1637",
+    "place_name": "彭福國小",
+    "address": "忠孝街30號",
+    "village": "彭福里",
+    "remark": "1-10",
+    "seq": 1637,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.9814636,
+      "lng": 121.4239611
+    },
+    "power": 6
+  },
+  {
+    "id": "tpq1640",
+    "place_name": "樹林中學",
+    "address": "中華路8號",
+    "village": "和平里",
+    "remark": "1-9",
+    "seq": 1640,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.9829633,
+      "lng": 121.4223883
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq1646",
+    "place_name": "慈恩宮",
+    "address": "太平路227號",
+    "village": "彭興里",
+    "remark": "10-22",
+    "seq": 1646,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.9767408,
+      "lng": 121.4183925
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1648",
+    "place_name": "哈佛幼兒園",
+    "address": "太平路221號",
+    "village": "彭厝里",
+    "remark": "12-15,30,34,36-40",
+    "seq": 1648,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.9773223,
+      "lng": 121.4186513
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1649",
+    "place_name": "大同國小",
+    "address": "大同街43號",
+    "village": "彭厝里",
+    "remark": "1-11,35",
+    "seq": 1649,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.9826272,
+      "lng": 121.4181767
+    },
+    "power": 11
+  },
+  {
+    "id": "tpq1662",
+    "place_name": "東陽市民活動中心",
+    "address": "鎮前街467號",
+    "village": "東陽里",
+    "remark": "11-13,19-21,28-30",
+    "seq": 1662,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.9823203,
+      "lng": 121.412679
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1663",
+    "place_name": "東山市民活動中心",
+    "address": "中山路二段173號",
+    "village": "東山里",
+    "remark": "1-3,6,7,16-1",
+    "seq": 1663,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.9763746,
+      "lng": 121.4027532
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1664",
+    "place_name": "山佳國小",
+    "address": "中山路三段5號",
+    "village": "東山里",
+    "remark": "4,5,8-15,20",
+    "seq": 1664,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.97555,
+      "lng": 121.4017536
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq1667",
+    "place_name": "育德國小",
+    "address": "佳園路一段34號",
+    "village": "山佳里",
+    "remark": "1,2",
+    "seq": 1667,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.9708726,
+      "lng": 121.3925044
+    },
+    "power": 6
+  },
+  {
+    "id": "tpq1673",
+    "place_name": "柑園國小",
+    "address": "柑園街一段353號",
+    "village": "柑園里",
+    "remark": "1-7,9-12",
+    "seq": 1673,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.9560066,
+      "lng": 121.3893298
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq1674",
+    "place_name": "桃子腳國民中小學",
+    "address": "學勤路555號",
+    "village": "柑園里",
+    "remark": "8,13-18",
+    "seq": 1674,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.9489184,
+      "lng": 121.3828976
+    },
+    "power": 11
+  },
+  {
+    "id": "tpq1678",
+    "place_name": "土地公廟旁鐵皮屋",
+    "address": "柑園街二段363巷口",
+    "village": "西園里",
+    "remark": "全里",
+    "seq": 1678,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.9485911,
+      "lng": 121.3687593
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1686",
+    "place_name": "民宅",
+    "address": "柑園街一段23號",
+    "village": "東園里",
+    "remark": "全里",
+    "seq": 1686,
+    "county": "TPQ",
+    "town": "樹林區",
+    "location": {
+      "lat": 24.9600808,
+      "lng": 121.4045993
+    },
+    "power": 1
+  }
+]

@@ -1,0 +1,647 @@
+[
+  {
+    "id": "tpq1738",
+    "place_name": "祖田市民活動中心",
+    "address": "中央路四段283之1號2樓",
+    "village": "祖田里",
+    "remark": "全里",
+    "seq": 1738,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.953947,
+      "lng": 121.412755
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1739",
+    "place_name": "頂新市民活動中心",
+    "address": "中央路四段283之1號",
+    "village": "頂新里",
+    "remark": "1-5",
+    "seq": 1739,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.953947,
+      "lng": 121.412755
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1740",
+    "place_name": "原住民族活動中心",
+    "address": "中央路四段283之1號3樓",
+    "village": "頂新里",
+    "remark": "6-10",
+    "seq": 1740,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.953947,
+      "lng": 121.412755
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1741",
+    "place_name": "頂埔國小",
+    "address": "中央路四段205號",
+    "village": "頂福里",
+    "remark": "1-8,15",
+    "seq": 1741,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9562302,
+      "lng": 121.4144033
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1743",
+    "place_name": "頂福巿民活動中心",
+    "address": "中州路28巷28號",
+    "village": "頂福里",
+    "remark": "11-14,16-19",
+    "seq": 1743,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9579064,
+      "lng": 121.4147337
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1744",
+    "place_name": "頂埔市民活動中心",
+    "address": "中央路四段55之12號1樓",
+    "village": "頂埔里",
+    "remark": "1-10",
+    "seq": 1744,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9585185,
+      "lng": 121.4175473
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1746",
+    "place_name": "頂埔巿民活動中心",
+    "address": "中央路四段55之12號2樓",
+    "village": "頂埔里",
+    "remark": "21-31",
+    "seq": 1746,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9585185,
+      "lng": 121.4175473
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1747",
+    "place_name": "沛陂巿民活動中心",
+    "address": "三民路23巷8弄9號1樓(沛陂社區公園內)",
+    "village": "沛陂里",
+    "remark": "1,2,9,10",
+    "seq": 1747,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 25.01849,
+      "lng": 121.479449
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1748",
+    "place_name": "沛陂巿民活動中心",
+    "address": "三民路23巷8弄9號2樓(沛陂社區公園內)",
+    "village": "沛陂里",
+    "remark": "11,12,15-21",
+    "seq": 1748,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 25.01849,
+      "lng": 121.479449
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1749",
+    "place_name": "沛陂社區活動中心",
+    "address": "福安街15號",
+    "village": "沛陂里",
+    "remark": "3-8,13,14",
+    "seq": 1749,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9650996,
+      "lng": 121.4201219
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1750",
+    "place_name": "土城國中",
+    "address": "永寧路18號",
+    "village": "永寧里",
+    "remark": "1-10,16,17",
+    "seq": 1750,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9625224,
+      "lng": 121.4301923
+    },
+    "power": 5
+  },
+  {
+    "id": "tpq1755",
+    "place_name": "大安集會所",
+    "address": "中央路三段134號",
+    "village": "大安里",
+    "remark": "1-6,16-18,25",
+    "seq": 1755,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9658498,
+      "lng": 121.4345556
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1756",
+    "place_name": "臺北市政府捷運工程局北區工程處第五土木工務所",
+    "address": "承天路2號(永寧站2號出口前之工務所)",
+    "village": "大安里",
+    "remark": "7-10,13,19-2",
+    "seq": 1756,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9645989,
+      "lng": 121.437225
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1757",
+    "place_name": "南天母新城社區會議室",
+    "address": "南天母路67號",
+    "village": "大安里",
+    "remark": "11,12,14,15,23,24",
+    "seq": 1757,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9534409,
+      "lng": 121.4476723
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1758",
+    "place_name": "土城國小",
+    "address": "興城路17號",
+    "village": "員仁里",
+    "remark": "1-6,26-28",
+    "seq": 1758,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9712098,
+      "lng": 121.4424389
+    },
+    "power": 18
+  },
+  {
+    "id": "tpq1760",
+    "place_name": "員仁社區活動中心",
+    "address": "中華路二段90號",
+    "village": "員仁里",
+    "remark": "15-22",
+    "seq": 1760,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9746513,
+      "lng": 121.4382617
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1767",
+    "place_name": "長風巿民活動中心",
+    "address": "順風路27號",
+    "village": "長風里",
+    "remark": "全里",
+    "seq": 1767,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9767699,
+      "lng": 121.440311
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1779",
+    "place_name": "樂利國小",
+    "address": "裕生路65號",
+    "village": "日和里",
+    "remark": "1-9",
+    "seq": 1779,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9845662,
+      "lng": 121.4470228
+    },
+    "power": 15
+  },
+  {
+    "id": "tpq1785",
+    "place_name": "日新巿民活動中心",
+    "address": "裕生路100巷5號",
+    "village": "日新里",
+    "remark": "12-17,23",
+    "seq": 1785,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9850508,
+      "lng": 121.4462309
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1786",
+    "place_name": "莒光四村活動中心",
+    "address": "中央路一段189巷2號",
+    "village": "裕生里",
+    "remark": "1-8,15,16",
+    "seq": 1786,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.986833,
+      "lng": 121.446224
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1793",
+    "place_name": "信義國小",
+    "address": "四川路二段245巷60號",
+    "village": "瑞興里",
+    "remark": "1-13",
+    "seq": 1793,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9917854,
+      "lng": 121.4526816
+    },
+    "power": 5
+  },
+  {
+    "id": "tpq1798",
+    "place_name": "廣福國小",
+    "address": "學府路一段127號",
+    "village": "廣福里",
+    "remark": "1,2,13,26,28-32",
+    "seq": 1798,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9868018,
+      "lng": 121.454677
+    },
+    "power": 11
+  },
+  {
+    "id": "tpq1800",
+    "place_name": "廣福巿民活動中心",
+    "address": "學府路一段99巷底",
+    "village": "廣福里",
+    "remark": "5-12,14,24,3",
+    "seq": 1800,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9871133,
+      "lng": 121.4566783
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1802",
+    "place_name": "學成巿民活動中心",
+    "address": "學成路97巷8號",
+    "village": "學成里",
+    "remark": "3-12",
+    "seq": 1802,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9884577,
+      "lng": 121.4501882
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1814",
+    "place_name": "新北高工",
+    "address": "學府路一段241號",
+    "village": "學府里",
+    "remark": "3-9,11-13",
+    "seq": 1814,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9839456,
+      "lng": 121.4509434
+    },
+    "power": 4
+  },
+  {
+    "id": "tpq1818",
+    "place_name": "中正國中",
+    "address": "金城路二段247號",
+    "village": "學士里",
+    "remark": "1-6,8,9",
+    "seq": 1818,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9835198,
+      "lng": 121.4567578
+    },
+    "power": 6
+  },
+  {
+    "id": "tpq1824",
+    "place_name": "中正巿民活動中心",
+    "address": "裕民路185巷36弄2號對面",
+    "village": "中正里",
+    "remark": "11-18",
+    "seq": 1824,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9848407,
+      "lng": 121.4545067
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1825",
+    "place_name": "青雲巿民活動中心",
+    "address": "清水路141巷18號地下1樓",
+    "village": "青雲里",
+    "remark": "1-10",
+    "seq": 1825,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9819711,
+      "lng": 121.4578622
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1827",
+    "place_name": "清和巿民活動中心",
+    "address": "青雲路368號",
+    "village": "清和里",
+    "remark": "1,2,14-18",
+    "seq": 1827,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9738389,
+      "lng": 121.458606
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1828",
+    "place_name": "清水中學",
+    "address": "明德路一段72號",
+    "village": "清和里",
+    "remark": "3-9,12",
+    "seq": 1828,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9822978,
+      "lng": 121.4653601
+    },
+    "power": 16
+  },
+  {
+    "id": "tpq1831",
+    "place_name": "清化巿民活動中心",
+    "address": "青雲路368號4樓",
+    "village": "清化里",
+    "remark": "全里",
+    "seq": 1831,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9738389,
+      "lng": 121.458606
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1832",
+    "place_name": "清水國小",
+    "address": "金城路二段356號",
+    "village": "清溪里",
+    "remark": "1-12",
+    "seq": 1832,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9848823,
+      "lng": 121.4614252
+    },
+    "power": 8
+  },
+  {
+    "id": "tpq1834",
+    "place_name": "清溪巿民活動中心",
+    "address": "清水路243之1號",
+    "village": "清溪里",
+    "remark": "16-31",
+    "seq": 1834,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.983432,
+      "lng": 121.461498
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1836",
+    "place_name": "青山巿民活動中心",
+    "address": "明德路一段74之1號",
+    "village": "青山里",
+    "remark": "1-7,13",
+    "seq": 1836,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.98425,
+      "lng": 121.4653125
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1840",
+    "place_name": "清水巿民活動中心",
+    "address": "清水路234巷5號",
+    "village": "清水里",
+    "remark": "6,10-16",
+    "seq": 1840,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.982626,
+      "lng": 121.461282
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1849",
+    "place_name": "廷寮社區活動中心",
+    "address": "永豐路171號旁",
+    "village": "廷寮里",
+    "remark": "1-9,13",
+    "seq": 1849,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9804199,
+      "lng": 121.468305
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1851",
+    "place_name": "廷寮巿民活動中心",
+    "address": "永豐路240之1號",
+    "village": "廷寮里",
+    "remark": "16-23",
+    "seq": 1851,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9779387,
+      "lng": 121.4708365
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1855",
+    "place_name": "延吉峯廷巿民活動中心",
+    "address": "延吉街137巷15號",
+    "village": "峯廷里",
+    "remark": "1-6",
+    "seq": 1855,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9857585,
+      "lng": 121.471145
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1861",
+    "place_name": "延吉峯廷巿民活動中心",
+    "address": "延吉街137巷13號",
+    "village": "延吉里",
+    "remark": "8-13",
+    "seq": 1861,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9858189,
+      "lng": 121.471119
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1863",
+    "place_name": "安和國小",
+    "address": "延和路23號",
+    "village": "延壽里",
+    "remark": "1-6,16",
+    "seq": 1863,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.988886,
+      "lng": 121.4650192
+    },
+    "power": 14
+  },
+  {
+    "id": "tpq1864",
+    "place_name": "延壽巿民活動中心",
+    "address": "延和路125巷28號2樓",
+    "village": "延壽里",
+    "remark": "7-15",
+    "seq": 1864,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9909742,
+      "lng": 121.4690907
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1870",
+    "place_name": "平和巿民活動中心",
+    "address": "延和路105巷8弄7號",
+    "village": "平和里",
+    "remark": "8,10-16",
+    "seq": 1870,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.9914954,
+      "lng": 121.4675254
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1873",
+    "place_name": "安和巿民活動中心",
+    "address": "延和路88巷10弄3號",
+    "village": "安和里",
+    "remark": "1,2,10-15,2428",
+    "seq": 1873,
+    "county": "TPQ",
+    "town": "土城區",
+    "location": {
+      "lat": 24.988753,
+      "lng": 121.4666716
+    },
+    "power": 1
+  }
+]

@@ -1,0 +1,818 @@
+[
+  {
+    "id": "tpe0637",
+    "place_name": "忠駝國宅乙區管理委員會",
+    "address": "基隆路1段364巷10號1樓",
+    "village": "西村里1-8",
+    "indigenous_village": "",
+    "phone": "27223249",
+    "seq": 637,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.03513,
+      "lng": 121.560042
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0638",
+    "place_name": "西村區民活動中心",
+    "address": "基隆路1段364巷22號1樓",
+    "village": "西村里9-18",
+    "indigenous_village": "西村里全里",
+    "phone": "27586396",
+    "seq": 638,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.03501,
+      "lng": 121.559205
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0639",
+    "place_name": "忠駝國宅丙區管理委員會",
+    "address": "基隆路1段364巷26號1樓",
+    "village": "西村19-28",
+    "indigenous_village": "",
+    "phone": "27237030",
+    "seq": 639,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.034865,
+      "lng": 121.558738
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0640",
+    "place_name": "正和區民活動中心",
+    "address": "仁愛路4段452巷3號",
+    "village": "正和里1-7,10-12",
+    "indigenous_village": "正和里全里",
+    "phone": "27239777-812",
+    "seq": 640,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0371505,
+      "lng": 121.5592199
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0642",
+    "place_name": "基督教信義堂",
+    "address": "光復南路443巷9號",
+    "village": "正和里9,15,18,21-24",
+    "indigenous_village": "",
+    "phone": "27299580",
+    "seq": 642,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0357124,
+      "lng": 121.5585362
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0643",
+    "place_name": "興隆整宅管委會",
+    "address": "興隆里基隆路1段350-48號",
+    "village": "興隆里1-7",
+    "indigenous_village": "",
+    "phone": "27206149",
+    "seq": 643,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.036327,
+      "lng": 121.561179
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0644",
+    "place_name": "臺北市議會後門",
+    "address": "興隆里仁愛路4段507號(松高路門口)",
+    "village": "興隆里8-15",
+    "indigenous_village": "興隆里全里",
+    "phone": "27297708",
+    "seq": 644,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0380632,
+      "lng": 121.5619745
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0645",
+    "place_name": "三興國小",
+    "address": "基隆路2段99號",
+    "village": "中興里1-7",
+    "indigenous_village": "",
+    "phone": "27364687",
+    "seq": 645,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.029467,
+      "lng": 121.558267
+    },
+    "power": 10
+  },
+  {
+    "id": "tpe0647",
+    "place_name": "松山高中1年15班教室",
+    "address": "基隆路1段156號",
+    "village": "新仁里1-9",
+    "indigenous_village": "",
+    "phone": "27535968",
+    "seq": 647,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0437452,
+      "lng": 121.5656949
+    },
+    "power": 5
+  },
+  {
+    "id": "tpe0649",
+    "place_name": "市府捷運大廈前空地",
+    "address": "忠孝東路5段45號1樓",
+    "village": "興雅里1-8",
+    "indigenous_village": "興雅里全里",
+    "phone": "27665664",
+    "seq": 649,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.041512,
+      "lng": 121.566323
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0650",
+    "place_name": "興雅區民活動中心",
+    "address": "松隆路36號3樓",
+    "village": "興雅里9-14",
+    "indigenous_village": "",
+    "phone": "27239777-812",
+    "seq": 650,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0433609,
+      "lng": 121.567473
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe0656",
+    "place_name": "松山工農勤業樓2樓201教室",
+    "address": "忠孝東路5段236巷15號",
+    "village": "廣居里1-5",
+    "indigenous_village": "",
+    "phone": "27226616-612",
+    "seq": 656,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0399408,
+      "lng": 121.5720598
+    },
+    "power": 5
+  },
+  {
+    "id": "tpe0661",
+    "place_name": "興雅國中",
+    "address": "松德路168巷15號",
+    "village": "安康里1-5",
+    "indigenous_village": "安康里全里",
+    "phone": "27232771-50",
+    "seq": 661,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0364201,
+      "lng": 121.572237
+    },
+    "power": 12
+  },
+  {
+    "id": "tpe0668",
+    "place_name": "境靈廟對面空地",
+    "address": "永吉路180巷30弄1號",
+    "village": "六藝里1-8",
+    "indigenous_village": "六藝里全里",
+    "phone": "0911992333",
+    "seq": 668,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0447638,
+      "lng": 121.571296
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0669",
+    "place_name": "里民活動場所",
+    "address": "永吉路180巷30號",
+    "village": "六藝里9-14",
+    "indigenous_village": "",
+    "phone": "27614726",
+    "seq": 669,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.044686,
+      "lng": 121.571423
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0670",
+    "place_name": "興雅國小",
+    "address": "基隆路1段83巷9號",
+    "village": "雅祥里1-6",
+    "indigenous_village": "雅祥里全里",
+    "phone": "27616071",
+    "seq": 670,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.046751,
+      "lng": 121.5700216
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe0673",
+    "place_name": "永吉國中",
+    "address": "松隆路161號",
+    "village": "五常里1-8",
+    "indigenous_village": "五常里全里",
+    "phone": "27649066-125",
+    "seq": 673,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0482363,
+      "lng": 121.5741453
+    },
+    "power": 6
+  },
+  {
+    "id": "tpe0675",
+    "place_name": "璞真建設股份有限公司〈空屋〉",
+    "address": "永吉路200巷11弄9號",
+    "village": "五全里1-7",
+    "indigenous_village": "五全里全里",
+    "phone": "0963352539",
+    "seq": 675,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.045193,
+      "lng": 121.572996
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0676",
+    "place_name": "五全里里民活動場所",
+    "address": "永吉路278巷1弄13號",
+    "village": "五全里8-14",
+    "indigenous_village": "",
+    "phone": "27620007",
+    "seq": 676,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.04506,
+      "lng": 121.574577
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0677",
+    "place_name": "基督教宣道會松山堂福群幼稚園",
+    "address": "永吉路278巷37弄18號",
+    "village": "五全里15-22",
+    "indigenous_village": "",
+    "phone": "27652064-10",
+    "seq": 677,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0440311,
+      "lng": 121.5749362
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0678",
+    "place_name": "松山進安宮活動中心",
+    "address": "永吉路517巷8弄12-1號",
+    "village": "永吉里1-4",
+    "indigenous_village": "永吉里全里",
+    "phone": "27614286",
+    "seq": 678,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0464271,
+      "lng": 121.5804916
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0679",
+    "place_name": "松山進安宮圖書室",
+    "address": "永吉路517巷8弄12-2號",
+    "village": "永吉里5-10",
+    "indigenous_village": "",
+    "phone": "27614286",
+    "seq": 679,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0464271,
+      "lng": 121.5804916
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0680",
+    "place_name": "松山進安宮會議室",
+    "address": "永吉路517巷8弄12-3號",
+    "village": "永吉里11-17",
+    "indigenous_village": "",
+    "phone": "27614286",
+    "seq": 680,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.046427,
+      "lng": 121.580494
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0681",
+    "place_name": "永春區民活動中心",
+    "address": "松山路294號4樓",
+    "village": "長春里1-5,10",
+    "indigenous_village": "長春里全里",
+    "phone": "0963352553",
+    "seq": 681,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0430691,
+      "lng": 121.5775774
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0682",
+    "place_name": "松山福音堂",
+    "address": "虎林街108巷42號",
+    "village": "長春里7,11~15,18~19",
+    "indigenous_village": "",
+    "phone": "27676469",
+    "seq": 682,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0424529,
+      "lng": 121.575816
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0683",
+    "place_name": "里民活動場所",
+    "address": "虎林街88巷64號",
+    "village": "長春里6,8~9,16~17,20~21",
+    "indigenous_village": "",
+    "phone": "27609087",
+    "seq": 683,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0430956,
+      "lng": 121.5757497
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0688",
+    "place_name": "永春國小",
+    "address": "松山路225巷48號",
+    "village": "四維里1,16-20",
+    "indigenous_village": "四維里全里",
+    "phone": "27641314",
+    "seq": 688,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0446527,
+      "lng": 121.5790792
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe0692",
+    "place_name": "永吉國小",
+    "address": "松山路287巷5號",
+    "village": "永春里1-5",
+    "indigenous_village": "永春里全里",
+    "phone": "87858111",
+    "seq": 692,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0430088,
+      "lng": 121.5798853
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe0696",
+    "place_name": "聯勤富台新城自治會",
+    "address": "忠孝東路5段295巷3號",
+    "village": "富台里2,4-5,7,13",
+    "indigenous_village": "",
+    "phone": "27603843",
+    "seq": 696,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0416146,
+      "lng": 121.572415
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0697",
+    "place_name": "救總台北兒童福利中心",
+    "address": "虎林街120巷270號",
+    "village": "富台里6,8,14-16",
+    "indigenous_village": "富台里全里",
+    "phone": "27679264",
+    "seq": 697,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0421661,
+      "lng": 121.5740872
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0704",
+    "place_name": "松山家商視聽教室",
+    "address": "松山路655號",
+    "village": "松隆里2-7",
+    "indigenous_village": "",
+    "phone": "27261118",
+    "seq": 704,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0349631,
+      "lng": 121.5801123
+    },
+    "power": 6
+  },
+  {
+    "id": "tpe0710",
+    "place_name": "松山家商廣設大樓213教室",
+    "address": "松山路655號2樓",
+    "village": "松光里2-9",
+    "indigenous_village": "",
+    "phone": "27261118",
+    "seq": 710,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0349631,
+      "lng": 121.5801123
+    },
+    "power": 5
+  },
+  {
+    "id": "tpe0713",
+    "place_name": "瑠公國中",
+    "address": "福德街221巷15號",
+    "village": "中坡里1-4",
+    "indigenous_village": "中坡里全里",
+    "phone": "27261481-400",
+    "seq": 713,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.037071,
+      "lng": 121.5853536
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe0717",
+    "place_name": "福德國小",
+    "address": "福德街253號",
+    "village": "中行里1-6",
+    "indigenous_village": "",
+    "phone": "27277992",
+    "seq": 717,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0388994,
+      "lng": 121.5865035
+    },
+    "power": 5
+  },
+  {
+    "id": "tpe0722",
+    "place_name": "協和工商協和大樓第105教室",
+    "address": "忠孝東路5段790巷27號",
+    "village": "大道里6-10",
+    "indigenous_village": "",
+    "phone": "27265775",
+    "seq": 722,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.042601,
+      "lng": 121.58347
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe0728",
+    "place_name": "大仁里里民活動場所",
+    "address": "林口街80巷8號",
+    "village": "大仁里1-6,21-27",
+    "indigenous_village": "大仁里全里",
+    "phone": "87261376",
+    "seq": 728,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.03919,
+      "lng": 121.579637
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0729",
+    "place_name": "信義國小",
+    "address": "松勤街60號",
+    "village": "景新里1-7",
+    "indigenous_village": "",
+    "phone": "27204005",
+    "seq": 729,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0318599,
+      "lng": 121.563206
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe0732",
+    "place_name": "吳興國小",
+    "address": "松仁路226號",
+    "village": "惠安里1-6",
+    "indigenous_village": "惠安里全里",
+    "phone": "27200226",
+    "seq": 732,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0257433,
+      "lng": 121.568716
+    },
+    "power": 16
+  },
+  {
+    "id": "tpe0736",
+    "place_name": "信義國中",
+    "address": "松仁路158巷1號",
+    "village": "三張里2-3,8-13",
+    "indigenous_village": "",
+    "phone": "27236771",
+    "seq": 736,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0286441,
+      "lng": 121.5675767
+    },
+    "power": 5
+  },
+  {
+    "id": "tpe0748",
+    "place_name": "松山工農園藝科實習農場101綜合教室",
+    "address": "吳興街600巷107號之1",
+    "village": "六合里25-34",
+    "indigenous_village": "",
+    "phone": "27224771",
+    "seq": 748,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0186289,
+      "lng": 121.572297
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0760",
+    "place_name": "雙和里里民活動場所",
+    "address": "吳興街284巷24弄16號1樓",
+    "village": "雙和里14-21",
+    "indigenous_village": "雙和里全里",
+    "phone": "23770917",
+    "seq": 760,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0242554,
+      "lng": 121.5629806
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0761",
+    "place_name": "雙和社區發展協會",
+    "address": "吳興街284巷24弄12號1樓",
+    "village": "雙和里4-6,11-13",
+    "indigenous_village": "",
+    "phone": "23781447",
+    "seq": 761,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0243627,
+      "lng": 121.5630768
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0762",
+    "place_name": "廣安宮",
+    "address": "吳興街284巷30弄47號1樓",
+    "village": "雙和里7-10,24",
+    "indigenous_village": "",
+    "phone": "27371489",
+    "seq": 762,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.023183,
+      "lng": 121.563281
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0763",
+    "place_name": "台北醫學大學8101教室",
+    "address": "吳興街250號",
+    "village": "雙和里1-3,22-23",
+    "indigenous_village": "",
+    "phone": "27361161-2310",
+    "seq": 763,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0259514,
+      "lng": 121.5612671
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0766",
+    "place_name": "喬治高職浩然樓〈一〉教室",
+    "address": "基隆路2段155號",
+    "village": "黎順里1-7",
+    "indigenous_village": "黎順里全里",
+    "phone": "27386515",
+    "seq": 766,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0258184,
+      "lng": 121.5543842
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe0769",
+    "place_name": "安順宮",
+    "address": "嘉興街317號旁",
+    "village": "黎平里1-6",
+    "indigenous_village": "",
+    "phone": "27352607",
+    "seq": 769,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0228184,
+      "lng": 121.5535762
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0770",
+    "place_name": "安順宮旁空地",
+    "address": "嘉興街315號旁",
+    "village": "黎平里7-12",
+    "indigenous_village": "黎平里全里",
+    "phone": "27336243",
+    "seq": 770,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0232055,
+      "lng": 121.5544907
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0771",
+    "place_name": "福德爺宮",
+    "address": "崇德街132號旁",
+    "village": "黎平里13-18",
+    "indigenous_village": "",
+    "phone": "27322504",
+    "seq": 771,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0236259,
+      "lng": 121.5564714
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0773",
+    "place_name": "黎忠區民活動中心",
+    "address": "和平東路3段391巷16號2樓",
+    "village": "黎忠里1-7",
+    "indigenous_village": "",
+    "phone": "27331469",
+    "seq": 773,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0201941,
+      "lng": 121.5580485
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe0776",
+    "place_name": "大我新莊聯勤202廠退員宿舍大智樓1樓文康室",
+    "address": "和平東路3段555巷8號1樓",
+    "village": "黎安里1-2,7-11",
+    "indigenous_village": "黎安里全里",
+    "phone": "27382410",
+    "seq": 776,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.0163559,
+      "lng": 121.561122
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0777",
+    "place_name": "國防部大我新舍自治會大義樓中山室",
+    "address": "和平東路3段599號",
+    "village": "黎安里3-6",
+    "indigenous_village": "",
+    "phone": "27335790",
+    "seq": 777,
+    "county": "TPE",
+    "town": "信義區",
+    "location": {
+      "lat": 25.018913,
+      "lng": 121.5585068
+    },
+    "power": 1
+  }
+]

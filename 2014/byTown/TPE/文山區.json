@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "tpe1373",
+    "place_name": "景美國小",
+    "address": "景文街108號",
+    "village": "景行里1、3-6",
+    "indigenous_village": "",
+    "phone": "29322151",
+    "seq": 1373,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9895266,
+      "lng": 121.5407811
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe1377",
+    "place_name": "景美國中",
+    "address": "景中街27號",
+    "village": "景東里1-4、24-25",
+    "indigenous_village": "",
+    "phone": "89353130",
+    "seq": 1377,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9930265,
+      "lng": 121.542941
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe1378",
+    "place_name": "景興國小",
+    "address": "景華街150巷21號",
+    "village": "景東里5-8、10-12",
+    "indigenous_village": "",
+    "phone": "29329438",
+    "seq": 1378,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9964339,
+      "lng": 121.5482935
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe1381",
+    "place_name": "滬江中學信義樓101教室",
+    "address": "羅斯福路6段336號",
+    "village": "景美里1-5",
+    "indigenous_village": "",
+    "phone": "86631122",
+    "seq": 1381,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9894876,
+      "lng": 121.5388849
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe1384",
+    "place_name": "溪口國小",
+    "address": "景福街225號",
+    "village": "景慶里1-7",
+    "indigenous_village": "",
+    "phone": "29350955",
+    "seq": 1384,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.99413,
+      "lng": 121.5387574
+    },
+    "power": 5
+  },
+  {
+    "id": "tpe1389",
+    "place_name": "志清國小",
+    "address": "景福街21巷5號",
+    "village": "景仁里7-10、12",
+    "indigenous_village": "景仁里全里",
+    "phone": "29323875",
+    "seq": 1389,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9986645,
+      "lng": 121.5389076
+    },
+    "power": 6
+  },
+  {
+    "id": "tpe1393",
+    "place_name": "景興國中",
+    "address": "景興路46巷2號",
+    "village": "景華里8、13-17",
+    "indigenous_village": "",
+    "phone": "29323794",
+    "seq": 1393,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9961868,
+      "lng": 121.5442252
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe1395",
+    "place_name": "臺電臺北供電區營運處單身宿舍1樓",
+    "address": "景隆街35號",
+    "village": "萬有里1-8",
+    "indigenous_village": "萬有里全里",
+    "phone": "23675969",
+    "seq": 1395,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9995562,
+      "lng": 121.5419374
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1398",
+    "place_name": "武功國小",
+    "address": "興隆路1段68號",
+    "village": "萬祥里1-7",
+    "indigenous_village": "",
+    "phone": "29314360",
+    "seq": 1398,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 25.0038887,
+      "lng": 121.5404927
+    },
+    "power": 6
+  },
+  {
+    "id": "tpe1401",
+    "place_name": "萬隆里里民活動場所",
+    "address": "羅斯福路5段218巷9弄3號",
+    "village": "萬隆里1-3、5-7",
+    "indigenous_village": "",
+    "phone": "89316961",
+    "seq": 1401,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 25.0016877,
+      "lng": 121.5384752
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1406",
+    "place_name": "萬福國小",
+    "address": "羅斯福路5段170巷32號",
+    "village": "萬年里1-3、5、7",
+    "indigenous_village": "",
+    "phone": "29353123-132",
+    "seq": 1406,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 25.0048928,
+      "lng": 121.5367124
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe1410",
+    "place_name": "萬福國小",
+    "address": "羅斯福路五段170巷32號",
+    "village": "萬和里1-7",
+    "indigenous_village": "",
+    "phone": "29353123",
+    "seq": 1410,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 25.0048928,
+      "lng": 121.5367124
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1415",
+    "place_name": "靜心中小學3年信班教室",
+    "address": "興隆路2段46號",
+    "village": "興豐里1-7",
+    "indigenous_village": "29323118-163",
+    "phone": "29355795",
+    "seq": 1415,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.99892,
+      "lng": 121.5466851
+    },
+    "power": 7
+  },
+  {
+    "id": "tpe1418",
+    "place_name": "興德國小",
+    "address": "興隆路2段235號",
+    "village": "興邦里1-6",
+    "indigenous_village": "",
+    "phone": "29329431",
+    "seq": 1418,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 25.0016317,
+      "lng": 121.550769
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe1421",
+    "place_name": "興華國小",
+    "address": "興隆路3段125巷6號",
+    "village": "興光里1-8",
+    "indigenous_village": "興光里全里",
+    "phone": "22393070",
+    "seq": 1421,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9988344,
+      "lng": 121.5587218
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1423",
+    "place_name": "興家社區停車場A11、A12",
+    "address": "興隆路3段207巷7弄11號地下室",
+    "village": "興家里1-3、13、25-26",
+    "indigenous_village": "22304327",
+    "phone": "0910121013",
+    "seq": 1423,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9955912,
+      "lng": 121.5607964
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1424",
+    "place_name": "興家社區停車場C1、C2",
+    "address": "興隆路3段207巷13弄11號地下室",
+    "village": "興家里4-6、8-10",
+    "indigenous_village": "22304327",
+    "phone": "0910121013",
+    "seq": 1424,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9948244,
+      "lng": 121.5618127
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1425",
+    "place_name": "興隆社區停車場C1、C2、C2-1",
+    "address": "興隆路3段185巷9弄1號地下室",
+    "village": "興家里7、14、27-30",
+    "indigenous_village": "",
+    "phone": "22301555",
+    "seq": 1425,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9954467,
+      "lng": 121.5619813
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1426",
+    "place_name": "家家社區媽媽教室",
+    "address": "興隆路3段221巷4弄6號地下室",
+    "village": "興家里11-12、15-20",
+    "indigenous_village": "興家里全里",
+    "phone": "22307463",
+    "seq": 1426,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9934936,
+      "lng": 121.5601335
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1427",
+    "place_name": "興隆宮",
+    "address": "興隆路3段229巷臨5之2號",
+    "village": "興家里21-24",
+    "indigenous_village": "",
+    "phone": "22307585,22307837,0953419708",
+    "seq": 1427,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 25.0465658,
+      "lng": 121.5488669
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1428",
+    "place_name": "中國科技大學格致樓左川堂",
+    "address": "興隆路3段56號",
+    "village": "興得里1-8",
+    "indigenous_village": "興得里全里",
+    "phone": "29313416",
+    "seq": 1428,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9991431,
+      "lng": 121.5553747
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1430",
+    "place_name": "文山運動中心",
+    "address": "興隆路3段222號",
+    "village": "興得里17、19、21-23、25",
+    "indigenous_village": "",
+    "phone": "22308268",
+    "seq": 1430,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9970166,
+      "lng": 121.559673
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1431",
+    "place_name": "興得閱覽室",
+    "address": "興隆路3段304巷145號",
+    "village": "興得里18、20、24、26-27",
+    "indigenous_village": "",
+    "phone": "29365522",
+    "seq": 1431,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9958972,
+      "lng": 121.5544092
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1432",
+    "place_name": "興隆國小",
+    "address": "福興路2號",
+    "village": "興業里1-6",
+    "indigenous_village": "",
+    "phone": "29323131",
+    "seq": 1432,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 25.0024355,
+      "lng": 121.5518875
+    },
+    "power": 7
+  },
+  {
+    "id": "tpe1437",
+    "place_name": "中華衛理公會平安堂",
+    "address": "仙岩路16巷37號",
+    "village": "興安里4-11",
+    "indigenous_village": "",
+    "phone": "29342105",
+    "seq": 1437,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9976084,
+      "lng": 121.549768
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1438",
+    "place_name": "中華衛理公會神學院",
+    "address": "仙岩路22巷33號",
+    "village": "興安里16、18-20、24-26",
+    "indigenous_village": "",
+    "phone": "29342105",
+    "seq": 1438,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9982401,
+      "lng": 121.5496687
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1439",
+    "place_name": "興安宮",
+    "address": "仙岩路16巷64號",
+    "village": "興安里12-15、17、27-29",
+    "indigenous_village": "",
+    "phone": "86632817",
+    "seq": 1439,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9963819,
+      "lng": 121.550212
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1444",
+    "place_name": "興福國中",
+    "address": "福興路80號",
+    "village": "興旺里1-6",
+    "indigenous_village": "興旺里全里",
+    "phone": "29324794,29322024",
+    "seq": 1444,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 25.0048845,
+      "lng": 121.5498485
+    },
+    "power": 5
+  },
+  {
+    "id": "tpe1452",
+    "place_name": "辛亥國小",
+    "address": "辛亥路4段103號",
+    "village": "興昌里1-4、11、21",
+    "indigenous_village": "",
+    "phone": "29357282",
+    "seq": 1452,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 25.0064295,
+      "lng": 121.5592422
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe1456",
+    "place_name": "永建國小",
+    "address": "試院路2號",
+    "village": "試院里1-2、4-8",
+    "indigenous_village": "",
+    "phone": "22363855",
+    "seq": 1456,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9875796,
+      "lng": 121.5500432
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe1457",
+    "place_name": "世新管理學院1樓(博洋咖啡屋)",
+    "address": "木柵路1段111號",
+    "village": "試院里3、24-30",
+    "indigenous_village": "",
+    "phone": "22368225",
+    "seq": 1457,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9871909,
+      "lng": 121.547812
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1458",
+    "place_name": "早安綠莊社區活動中心",
+    "address": "木柵路1段59巷4號旁",
+    "village": "試院里16-23",
+    "indigenous_village": "試院里全里",
+    "phone": "22369559",
+    "seq": 1458,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 25.0465658,
+      "lng": 121.5488669
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1459",
+    "place_name": "YMCA青年會1樓",
+    "address": "和興路2號",
+    "village": "試院里9-15",
+    "indigenous_village": "",
+    "phone": "22362817",
+    "seq": 1459,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9862992,
+      "lng": 121.5457824
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1460",
+    "place_name": "中山小學2年民主班教室",
+    "address": "木柵路1段292號",
+    "village": "華興里25-30",
+    "indigenous_village": "",
+    "phone": "29360935",
+    "seq": 1460,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9883007,
+      "lng": 121.5563279
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1465",
+    "place_name": "安康社區希望工坊(一)",
+    "address": "興隆路4段46巷2號",
+    "village": "明義里1-7",
+    "indigenous_village": "",
+    "phone": "29390404-233",
+    "seq": 1465,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.987843,
+      "lng": 121.560225
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1466",
+    "place_name": "安康社區希望工坊(二)",
+    "address": "興隆路4段46巷4號",
+    "village": "明義里8-13",
+    "indigenous_village": "明義里全里",
+    "phone": "29390404-234",
+    "seq": 1466,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.987845,
+      "lng": 121.560194
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1467",
+    "place_name": "安康社區服務站",
+    "address": "興隆路4段105巷2號",
+    "village": "明義里14-21",
+    "indigenous_village": "",
+    "phone": "29390404-231",
+    "seq": 1467,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.987567,
+      "lng": 121.560796
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1468",
+    "place_name": "明道國小",
+    "address": "木柵路2段138巷61號",
+    "village": "明興里1-8",
+    "indigenous_village": "",
+    "phone": "29392821",
+    "seq": 1468,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9873333,
+      "lng": 121.5625578
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe1472",
+    "place_name": "木柵國小",
+    "address": "木柵路3段191號",
+    "village": "木柵里1-7",
+    "indigenous_village": "",
+    "phone": "29391234",
+    "seq": 1472,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9902695,
+      "lng": 121.5701489
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe1475",
+    "place_name": "木柵國中",
+    "address": "木柵路3段102巷12號",
+    "village": "木柵里26-33",
+    "indigenous_village": "",
+    "phone": "29393031",
+    "seq": 1475,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9874125,
+      "lng": 121.5676434
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1476",
+    "place_name": "文山特殊教育學校手工藝實習教室",
+    "address": "秀明路1段169號",
+    "village": "木柵里19-24",
+    "indigenous_village": "",
+    "phone": "86615183",
+    "seq": 1476,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.99154,
+      "lng": 121.567807
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1477",
+    "place_name": "臺灣基督長老教會文山教會",
+    "address": "開元街25號",
+    "village": "木新里1-7",
+    "indigenous_village": "木新里全里",
+    "phone": "29393480",
+    "seq": 1477,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.989147,
+      "lng": 121.569731
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1478",
+    "place_name": "景文高中勤勞樓101教室",
+    "address": "保儀路127號",
+    "village": "木新里8-15",
+    "indigenous_village": "",
+    "phone": "29390310",
+    "seq": 1478,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9853665,
+      "lng": 121.5673971
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe1482",
+    "place_name": "忠順廟左方室",
+    "address": "中崙路13號",
+    "village": "順興里1-3、10-11、13",
+    "indigenous_village": "",
+    "phone": "29394852",
+    "seq": 1482,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9836509,
+      "lng": 121.564602
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1484",
+    "place_name": "順興里里民活動場所",
+    "address": "忠順街2段90巷4號",
+    "village": "順興里15、23-24、26",
+    "indigenous_village": "",
+    "phone": "29392289",
+    "seq": 1484,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.984719,
+      "lng": 121.565565
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1485",
+    "place_name": "伯大尼兒少家園會議室",
+    "address": "保儀路129號",
+    "village": "順興里7-8、16-17、25",
+    "indigenous_village": "",
+    "phone": "29396396",
+    "seq": 1485,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9850685,
+      "lng": 121.5670797
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1487",
+    "place_name": "社會局老人自費安養中心",
+    "address": "興隆路四段109巷30弄6號",
+    "village": "忠順里2-4、9-11",
+    "indigenous_village": "忠順里全里",
+    "phone": "29393146",
+    "seq": 1487,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.986284,
+      "lng": 121.562475
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1489",
+    "place_name": "忠順里里民活動場所",
+    "address": "興隆路四段145巷30號",
+    "village": "忠順里1、5-8",
+    "indigenous_village": "",
+    "phone": "29399569",
+    "seq": 1489,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.985103,
+      "lng": 121.5629737
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1490",
+    "place_name": "實踐國中",
+    "address": "辛亥路7段67號",
+    "village": "樟林里1-7",
+    "indigenous_village": "樟林里全里",
+    "phone": "22362852",
+    "seq": 1490,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9834293,
+      "lng": 121.5547688
+    },
+    "power": 5
+  },
+  {
+    "id": "tpe1495",
+    "place_name": "景美女中信義樓2年和班教室",
+    "address": "木新路3段312號",
+    "village": "樟新里1-4、12",
+    "indigenous_village": "",
+    "phone": "29368847",
+    "seq": 1495,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9807382,
+      "lng": 121.5561744
+    },
+    "power": 6
+  },
+  {
+    "id": "tpe1499",
+    "place_name": "實踐國小",
+    "address": "忠順街1段4號",
+    "village": "樟文里1、6-7、9、11",
+    "indigenous_village": "",
+    "phone": "29360725",
+    "seq": 1499,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.983715,
+      "lng": 121.5576293
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe1503",
+    "place_name": "新工處南區工務所",
+    "address": "恆光街47號",
+    "village": "樟腳里1、3-7",
+    "indigenous_village": "",
+    "phone": "29379440",
+    "seq": 1503,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9828412,
+      "lng": 121.5669253
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1504",
+    "place_name": "力行國小",
+    "address": "木新路3段155巷7號",
+    "village": "樟腳里2、8-9、11",
+    "indigenous_village": "樟腳里全里",
+    "phone": "29393278,29363995",
+    "seq": 1504,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9809691,
+      "lng": 121.5611618
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe1509",
+    "place_name": "木柵高工學生活動中心",
+    "address": "木柵路4段77號",
+    "village": "萬芳里1-4、31-32",
+    "indigenous_village": "",
+    "phone": "22300506-602",
+    "seq": 1509,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9960019,
+      "lng": 121.5719253
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe1510",
+    "place_name": "萬芳國小",
+    "address": "萬和街1號",
+    "village": "萬芳里5-10",
+    "indigenous_village": "",
+    "phone": "22301232-31",
+    "seq": 1510,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 25.0012878,
+      "lng": 121.5675368
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1512",
+    "place_name": "萬芳區民活動中心",
+    "address": "萬美街1段51號3樓",
+    "village": "萬芳里17-23",
+    "indigenous_village": "",
+    "phone": "29365522-210、231",
+    "seq": 1512,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 25.002263,
+      "lng": 121.568186
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1513",
+    "place_name": "社團法人臺北市基督教萬芳浸信會",
+    "address": "萬美街1段19巷5之1號",
+    "village": "萬芳里24-30",
+    "indigenous_village": "萬芳里全里",
+    "phone": "22303518",
+    "seq": 1513,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 25.001457,
+      "lng": 121.566265
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1514",
+    "place_name": "萬芳國小",
+    "address": "萬美里8鄰萬和街1號",
+    "village": "萬美里1-7",
+    "indigenous_village": "",
+    "phone": "22301232",
+    "seq": 1514,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 25.0012878,
+      "lng": 121.5675368
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe1518",
+    "place_name": "博嘉國小",
+    "address": "木柵路4段159巷14之1號",
+    "village": "博嘉里1-6、20",
+    "indigenous_village": "博嘉里全里",
+    "phone": "22302585,22301524",
+    "seq": 1518,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 25.0017637,
+      "lng": 121.5758197
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1521",
+    "place_name": "椰城公園旁空地",
+    "address": "和平東路4段101巷4弄9號後方",
+    "village": "博嘉里12-16",
+    "indigenous_village": "",
+    "phone": "937073585",
+    "seq": 1521,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.998584,
+      "lng": 121.5745041
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1522",
+    "place_name": "萬興國小",
+    "address": "秀明路二段114號",
+    "village": "萬興里1-7",
+    "indigenous_village": "",
+    "phone": "29381721",
+    "seq": 1522,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9904294,
+      "lng": 121.5765927
+    },
+    "power": 5
+  },
+  {
+    "id": "tpe1527",
+    "place_name": "政大附中chomsky教室",
+    "address": "政大一街353號",
+    "village": "政大里1-4、19-21",
+    "indigenous_village": "",
+    "phone": "82377500",
+    "seq": 1527,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9856792,
+      "lng": 121.5840285
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe1531",
+    "place_name": "政大實小",
+    "address": "指南路3段12號",
+    "village": "指南里14-17",
+    "indigenous_village": "",
+    "phone": "29393610",
+    "seq": 1531,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9848367,
+      "lng": 121.57996
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1533",
+    "place_name": "指南國小",
+    "address": "指南路3段38巷5之2號",
+    "village": "指南里4-10、12",
+    "indigenous_village": "",
+    "phone": "29393546",
+    "seq": 1533,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9763942,
+      "lng": 121.5836353
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1534",
+    "place_name": "東山高中司機休息室",
+    "address": "老泉街26巷3號",
+    "village": "老泉里1-9",
+    "indigenous_village": "老泉里全里",
+    "phone": "29396002",
+    "seq": 1534,
+    "county": "TPE",
+    "town": "文山區",
+    "location": {
+      "lat": 24.9726891,
+      "lng": 121.5616981
+    },
+    "power": 1
+  }
+]

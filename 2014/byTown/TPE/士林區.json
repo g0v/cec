@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "tpe0140",
+    "place_name": "臺北市士林公民會館(區政文史室)",
+    "address": "大東路75號",
+    "village": "仁勇里1-9",
+    "indigenous_village": "",
+    "phone": "0972295800",
+    "seq": 140,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.090478,
+      "lng": 121.5254509
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0142",
+    "place_name": "慈諴宮東廂前廣場",
+    "address": "大南路84號",
+    "village": "義信里4、6-11",
+    "indigenous_village": "義信里全里",
+    "phone": "28802972",
+    "seq": 142,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0894903,
+      "lng": 121.5246627
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0143",
+    "place_name": "百齡高中703教室",
+    "address": "承德路4段177號",
+    "village": "義信里1-3、5、12-14",
+    "indigenous_village": "",
+    "phone": "28831568轉301",
+    "seq": 143,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0870504,
+      "lng": 121.5229913
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0144",
+    "place_name": "泰北高中松鐸樓綜一乙班教室",
+    "address": "福林路240號",
+    "village": "福林里1-7",
+    "indigenous_village": "福林里全里",
+    "phone": "28825560轉514",
+    "seq": 144,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0973651,
+      "lng": 121.5339431
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0145",
+    "place_name": "福林區民活動中心",
+    "address": "中正路187巷26號",
+    "village": "福林里8-12",
+    "indigenous_village": "",
+    "phone": "0972295802",
+    "seq": 145,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0947156,
+      "lng": 121.5273827
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0147",
+    "place_name": "士林國中",
+    "address": "中正路345號",
+    "village": "福德里1-7",
+    "indigenous_village": "",
+    "phone": "88613411轉520",
+    "seq": 147,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0943655,
+      "lng": 121.5225702
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe0151",
+    "place_name": "福林國小",
+    "address": "福志路75號",
+    "village": "福志里1-6",
+    "indigenous_village": "福志里全里",
+    "phone": "28313430",
+    "seq": 151,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0986884,
+      "lng": 121.5295965
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe0155",
+    "place_name": "神農宮西廂",
+    "address": "前街74號",
+    "village": "舊佳里1-5",
+    "indigenous_village": "",
+    "phone": "28324955",
+    "seq": 155,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0978071,
+      "lng": 121.5263809
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0157",
+    "place_name": "舊佳區民活動中心",
+    "address": "中山北路5段773之1號",
+    "village": "舊佳里11-15",
+    "indigenous_village": "",
+    "phone": "0935948090",
+    "seq": 157,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0994658,
+      "lng": 121.5266145
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0158",
+    "place_name": "基督教士林浸信會",
+    "address": "中山北路5段751巷9號",
+    "village": "舊佳里16-22",
+    "indigenous_village": "舊佳里全里",
+    "phone": "28315719",
+    "seq": 158,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0987609,
+      "lng": 121.5264933
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0159",
+    "place_name": "士林天主堂",
+    "address": "（從文林路455號進入）",
+    "village": "福佳里1-3,5-6,9,12,14-15",
+    "indigenous_village": "",
+    "phone": "28324270",
+    "seq": 159,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.1255884,
+      "lng": 121.548418
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0160",
+    "place_name": "財政部臺北國稅局士林稽徵所",
+    "address": "美崙街43號",
+    "village": "福佳里4,7-8,10-11,13,16-17",
+    "indigenous_village": "",
+    "phone": "28315171",
+    "seq": 160,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0970697,
+      "lng": 121.5226405
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0161",
+    "place_name": "臺北市立天文科學教育館(從後門停車場進入)",
+    "address": "基河路363號",
+    "village": "福佳里19-20,26",
+    "indigenous_village": "福佳里全里",
+    "phone": "0972295806",
+    "seq": 161,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0958292,
+      "lng": 121.5182994
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0162",
+    "place_name": "文昌區民活動中心",
+    "address": "文昌路166之1號",
+    "village": "福佳里18,21-25",
+    "indigenous_village": "",
+    "phone": "28315171",
+    "seq": 162,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0981705,
+      "lng": 121.5204937
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0163",
+    "place_name": "陽明高中烹飪教室",
+    "address": "中正路510號",
+    "village": "後港里1-5",
+    "indigenous_village": "",
+    "phone": "28316675",
+    "seq": 163,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0918395,
+      "lng": 121.5171309
+    },
+    "power": 5
+  },
+  {
+    "id": "tpe0168",
+    "place_name": "百齡國小",
+    "address": "）",
+    "village": "福港街205號",
+    "indigenous_village": "福中里1-6",
+    "phone": "28817683",
+    "seq": 168,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.1255884,
+      "lng": 121.548418
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe0169",
+    "place_name": "百齡國小",
+    "address": "福港街205號",
+    "village": "福中里7-9、13-14",
+    "indigenous_village": "福中里全里",
+    "phone": "28817683",
+    "seq": 169,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0862066,
+      "lng": 121.5178502
+    },
+    "power": 8
+  },
+  {
+    "id": "tpe0179",
+    "place_name": "劍潭國小",
+    "address": "通河街16號",
+    "village": "承德里1-7",
+    "indigenous_village": "",
+    "phone": "28862471",
+    "seq": 179,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0799466,
+      "lng": 121.5229841
+    },
+    "power": 8
+  },
+  {
+    "id": "tpe0184",
+    "place_name": "士林托兒所白兔教室",
+    "address": "通河街179巷2號",
+    "village": "福華里5,9,15-21",
+    "indigenous_village": "",
+    "phone": "28853842",
+    "seq": 184,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0818488,
+      "lng": 121.5195898
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0189",
+    "place_name": "慈信宮",
+    "address": "重慶北路4段49巷40弄56號",
+    "village": "福順里1-5",
+    "indigenous_village": "",
+    "phone": "28121379",
+    "seq": 189,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.080014,
+      "lng": 121.5117657
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0190",
+    "place_name": "葫蘆幼兒園",
+    "address": "延平北路5段136巷1號",
+    "village": "福順里6-9,11",
+    "indigenous_village": "福順里全里",
+    "phone": "28151220",
+    "seq": 190,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0822223,
+      "lng": 121.5108992
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0191",
+    "place_name": "臺北市立圖書館葫蘆堵分館",
+    "address": "延平北路5段136巷1號1樓梯廳",
+    "village": "福順里10,12-15",
+    "indigenous_village": "",
+    "phone": "28126513",
+    "seq": 191,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0822223,
+      "lng": 121.5108992
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0192",
+    "place_name": "海光幼稚園",
+    "address": "葫蘆街30巷25號",
+    "village": "富光里1-6、8-9",
+    "indigenous_village": "富光里全里",
+    "phone": "28111994",
+    "seq": 192,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0814429,
+      "lng": 121.5098909
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0193",
+    "place_name": "海光宮辦公室",
+    "address": "葫蘆街87號",
+    "village": "富光里7、10-17",
+    "indigenous_village": "",
+    "phone": "28127626",
+    "seq": 193,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0805763,
+      "lng": 121.5087561
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0194",
+    "place_name": "慈音聖寶宮",
+    "address": "延平北路5段163巷39號",
+    "village": "富光里18-25",
+    "indigenous_village": "",
+    "phone": "28111557",
+    "seq": 194,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0826244,
+      "lng": 121.508689
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0195",
+    "place_name": "葫蘆國小",
+    "address": "環河北路3段95號",
+    "village": "葫蘆里8-14",
+    "indigenous_village": "",
+    "phone": "28129586",
+    "seq": 195,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0837421,
+      "lng": 121.5069631
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe0199",
+    "place_name": "陽信銀行社子分行",
+    "address": "延平北路5段260號",
+    "village": "葫東里2-3,6-7,12-13",
+    "indigenous_village": "",
+    "phone": "28121112",
+    "seq": 199,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0849119,
+      "lng": 121.5099453
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0200",
+    "place_name": "葫東區民活動中心",
+    "address": "中正路589號",
+    "village": "葫東里1,4-5,8-11",
+    "indigenous_village": "葫東里全里",
+    "phone": "28826200轉6014",
+    "seq": 200,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.086613,
+      "lng": 121.5099166
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0201",
+    "place_name": "社子里里民活動場所",
+    "address": "社中街70號",
+    "village": "社子里1-3、6-7",
+    "indigenous_village": "社子里全里",
+    "phone": "28111133",
+    "seq": 201,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0883877,
+      "lng": 121.5106596
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0202",
+    "place_name": "社子里里民活動場所對面",
+    "address": "社中街53號",
+    "village": "社子里12-18",
+    "indigenous_village": "",
+    "phone": "28111133",
+    "seq": 202,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0885424,
+      "lng": 121.5105357
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0203",
+    "place_name": "社福宮活動中心",
+    "address": "社中街210巷31號",
+    "village": "社子里4-5、8-10",
+    "indigenous_village": "",
+    "phone": "28150700",
+    "seq": 203,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0879265,
+      "lng": 121.5098462
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0205",
+    "place_name": "永新區民活動中心",
+    "address": "中正路632-1號",
+    "village": "社新里1-2、5-6、16、29",
+    "indigenous_village": "",
+    "phone": "28826200轉6014",
+    "seq": 205,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.086754,
+      "lng": 121.508376
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0206",
+    "place_name": "共和宮",
+    "address": "社子街117號",
+    "village": "社新里11-12,17-18,21-22",
+    "indigenous_village": "",
+    "phone": "28124828",
+    "seq": 206,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0882206,
+      "lng": 121.5052961
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0207",
+    "place_name": "社子國小",
+    "address": "延平北路6段308號",
+    "village": "社新里3-4、7-10",
+    "indigenous_village": "",
+    "phone": "28129059",
+    "seq": 207,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0898123,
+      "lng": 121.5029481
+    },
+    "power": 7
+  },
+  {
+    "id": "tpe0210",
+    "place_name": "慈暉幼兒園",
+    "address": "永平街46巷3弄9號",
+    "village": "社園里3,19-20,23-26",
+    "indigenous_village": "",
+    "phone": "28113589",
+    "seq": 210,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0910551,
+      "lng": 121.5058989
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0211",
+    "place_name": "社子公園1樓閱覽室",
+    "address": "永平街20巷37弄17號",
+    "village": "社園里1-2,4-7",
+    "indigenous_village": "",
+    "phone": "28112371",
+    "seq": 211,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0901528,
+      "lng": 121.5058251
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0212",
+    "place_name": "社子公園松柏健身隊康樂室",
+    "address": "永平街20巷37弄10號對面社子公園內",
+    "village": "社園里8-9,11,14-16",
+    "indigenous_village": "社園里全里",
+    "phone": "28117368",
+    "seq": 212,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0905219,
+      "lng": 121.5067675
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0213",
+    "place_name": "陽信銀行社中分行",
+    "address": "社中街220號",
+    "village": "社園里10、12-13、17-18、21-22",
+    "indigenous_village": "",
+    "phone": "28151415",
+    "seq": 213,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0912726,
+      "lng": 121.5082995
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0218",
+    "place_name": "福安國中",
+    "address": "延平北路7段250號",
+    "village": "福安里1-4",
+    "indigenous_village": "",
+    "phone": "28108766轉140",
+    "seq": 218,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.1028546,
+      "lng": 121.4880705
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe0221",
+    "place_name": "富安國小",
+    "address": "延平北路8段135號",
+    "village": "富洲里1-4,14-15",
+    "indigenous_village": "富洲里全里",
+    "phone": "28103192",
+    "seq": 221,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.1058687,
+      "lng": 121.4824416
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0223",
+    "place_name": "中洲區民活動中心",
+    "address": "延平北路9段80號",
+    "village": "富洲里9-13,17",
+    "indigenous_village": "",
+    "phone": "0972295823",
+    "seq": 223,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.106337,
+      "lng": 121.474814
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0224",
+    "place_name": "雨聲國小",
+    "address": "至誠路1段62巷70號",
+    "village": "岩山里1-8",
+    "indigenous_village": "岩山里全里",
+    "phone": "28311004",
+    "seq": 224,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.1026617,
+      "lng": 121.5352647
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0226",
+    "place_name": "芝山岩區民活動中心",
+    "address": "雨聲街68號",
+    "village": "名山里1、8、10-11、18、25",
+    "indigenous_village": "",
+    "phone": "0972295825",
+    "seq": 226,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.1024648,
+      "lng": 121.5270178
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0227",
+    "place_name": "雨農國小",
+    "address": "忠義街1號",
+    "village": "名山里2-7",
+    "indigenous_village": "",
+    "phone": "28329700轉117",
+    "seq": 227,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.1052602,
+      "lng": 121.5298543
+    },
+    "power": 9
+  },
+  {
+    "id": "tpe0230",
+    "place_name": "泰安幼兒園",
+    "address": "中山北路5段829巷14號",
+    "village": "德行里1-4、6-7",
+    "indigenous_village": "",
+    "phone": "28314281",
+    "seq": 230,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.1017501,
+      "lng": 121.525121
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0231",
+    "place_name": "仰德區民活動中心",
+    "address": "德行西路30號",
+    "village": "德行里5、8-11",
+    "indigenous_village": "德行里全里",
+    "phone": "28826200-6013",
+    "seq": 231,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.1046581,
+      "lng": 121.5219827
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0233",
+    "place_name": "文昌國小",
+    "address": "文林路615巷20號",
+    "village": "德華里1-6、19",
+    "indigenous_village": "德華里全里",
+    "phone": "28365411",
+    "seq": 233,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0994098,
+      "lng": 121.5212957
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0235",
+    "place_name": "德華區民活動中心",
+    "address": "文昌路211-1號",
+    "village": "德華里13-18",
+    "indigenous_village": "",
+    "phone": "0972295827",
+    "seq": 235,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.0999691,
+      "lng": 121.5199966
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0242",
+    "place_name": "芝山國小",
+    "address": "德行東路285號",
+    "village": "芝山里1-9",
+    "indigenous_village": "",
+    "phone": "28316115轉240",
+    "seq": 242,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.1102489,
+      "lng": 121.5364388
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe0246",
+    "place_name": "臺北市職能發展學院學員餐廳",
+    "address": "士東路301號",
+    "village": "東山里16-22",
+    "indigenous_village": "",
+    "phone": "28721940轉258",
+    "seq": 246,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.11374,
+      "lng": 121.537773
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe0249",
+    "place_name": "蘭雅國中",
+    "address": "三玉里忠誠路2段51號",
+    "village": "三玉里1-8",
+    "indigenous_village": "",
+    "phone": "28329377轉500",
+    "seq": 249,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.110619,
+      "lng": 121.5308927
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe0252",
+    "place_name": "士東國小",
+    "address": "中山北路6段392號",
+    "village": "蘭雅里1-5、7",
+    "indigenous_village": "",
+    "phone": "28710064轉241",
+    "seq": 252,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.1129301,
+      "lng": 121.526828
+    },
+    "power": 7
+  },
+  {
+    "id": "tpe0255",
+    "place_name": "蘭雅國小",
+    "address": "磺溪街57號",
+    "village": "蘭雅里6、11-13、20",
+    "indigenous_village": "",
+    "phone": "28366052轉208",
+    "seq": 255,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.1084096,
+      "lng": 121.5231371
+    },
+    "power": 6
+  },
+  {
+    "id": "tpe0261",
+    "place_name": "臺北市立大學天母校區體育館選手休息室（一）",
+    "address": "忠誠路2段101號",
+    "village": "天福里1-5",
+    "indigenous_village": "",
+    "phone": "28718288",
+    "seq": 261,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.1162535,
+      "lng": 121.5360478
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe0269",
+    "place_name": "台北美國學校西校區",
+    "address": "中山北路6段765號",
+    "village": "天壽里4、6、9、11-12",
+    "indigenous_village": "",
+    "phone": "28739900轉347",
+    "seq": 269,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.116095,
+      "lng": 121.528014
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0270",
+    "place_name": "天母國小",
+    "address": "天玉街12號",
+    "village": "天壽里5、7、13-16",
+    "indigenous_village": "",
+    "phone": "28723336轉9503",
+    "seq": 270,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.1197914,
+      "lng": 121.5275331
+    },
+    "power": 10
+  },
+  {
+    "id": "tpe0271",
+    "place_name": "天母國中",
+    "address": "天母東路120號",
+    "village": "天和里1-5",
+    "indigenous_village": "天和里全里",
+    "phone": "28754864轉275",
+    "seq": 271,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.118011,
+      "lng": 121.5381651
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe0284",
+    "place_name": "天母天主堂活動中心",
+    "address": "士林中山北路7段171號",
+    "village": "天母里2、7、9-11、17",
+    "indigenous_village": "",
+    "phone": "28715168",
+    "seq": 284,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.1187621,
+      "lng": 121.5314704
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0285",
+    "place_name": "基督教天母禮拜堂",
+    "address": "中山北路7段216巷1號",
+    "village": "天母里4、12-13、18",
+    "indigenous_village": "",
+    "phone": "28711622",
+    "seq": 285,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.1258639,
+      "lng": 121.533149
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0286",
+    "place_name": "天母基督教會",
+    "address": "天玉街63號",
+    "village": "天母里6,8,15-16,19-20",
+    "indigenous_village": "",
+    "phone": "28714834",
+    "seq": 286,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.1220151,
+      "lng": 121.5307058
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0287",
+    "place_name": "道爾敦幼兒園",
+    "address": "中山北路7段224巷3號",
+    "village": "天母里1、3、5、14",
+    "indigenous_village": "天母里全里",
+    "phone": "28730225",
+    "seq": 287,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.126981,
+      "lng": 121.533307
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0288",
+    "place_name": "永福區民活動中心",
+    "address": "仰德大道2段146號",
+    "village": "永福里全里",
+    "indigenous_village": "永福里全里",
+    "phone": "0972295842",
+    "seq": 288,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.109777,
+      "lng": 121.547819
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0289",
+    "place_name": "公館里里民聚會所",
+    "address": "永公路245巷19號旁",
+    "village": "公館里全里",
+    "indigenous_village": "公館里全里",
+    "phone": "0972295843",
+    "seq": 289,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.1228563,
+      "lng": 121.5583935
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0290",
+    "place_name": "陽明山國小",
+    "address": "仰德大道3段61號",
+    "village": "新安里1-6",
+    "indigenous_village": "新安里全里",
+    "phone": "28616366",
+    "seq": 290,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.1193324,
+      "lng": 121.5528168
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0292",
+    "place_name": "臺北市立聯合醫院草山職能工作坊",
+    "address": "建業路7號",
+    "village": "陽明里1-6",
+    "indigenous_village": "",
+    "phone": "28622470",
+    "seq": 292,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.1354244,
+      "lng": 121.5474866
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0293",
+    "place_name": "陽明區民活動中心",
+    "address": "菁山路34巷1號",
+    "village": "陽明里7-15",
+    "indigenous_village": "",
+    "phone": "28618717",
+    "seq": 293,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.1380645,
+      "lng": 121.5473046
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0294",
+    "place_name": "基督教臺灣信義會陽明山錫安堂",
+    "address": "陽明路1段34號",
+    "village": "陽明里16-23",
+    "indigenous_village": "陽明里全里",
+    "phone": "28612140",
+    "seq": 294,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.149465,
+      "lng": 121.549723
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0295",
+    "place_name": "原菁山區民活動中心",
+    "address": "永公路520號",
+    "village": "菁山里1-4",
+    "indigenous_village": "菁山里全里",
+    "phone": "28610678",
+    "seq": 295,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.1386118,
+      "lng": 121.5670436
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0296",
+    "place_name": "中華電信國際電信分公司(臺北衛星通訊心)",
+    "address": "菁山路127之15號",
+    "village": "菁山里5-10",
+    "indigenous_village": "",
+    "phone": "28620070",
+    "seq": 296,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.1449297,
+      "lng": 121.5647418
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0297",
+    "place_name": "平等國小",
+    "address": "平菁街101號",
+    "village": "平等里全里",
+    "indigenous_village": "平等里全里",
+    "phone": "28610503",
+    "seq": 297,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.1291056,
+      "lng": 121.5765107
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0298",
+    "place_name": "溪山里里民活動場所",
+    "address": "至善路3段258號旁",
+    "village": "溪山里全里",
+    "indigenous_village": "溪山里全里",
+    "phone": "28411119",
+    "seq": 298,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.1193252,
+      "lng": 121.5827007
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0299",
+    "place_name": "雙溪國小",
+    "address": "中社路2段66號",
+    "village": "翠山里1-7",
+    "indigenous_village": "",
+    "phone": "28411038",
+    "seq": 299,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.1060693,
+      "lng": 121.5638863
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0300",
+    "place_name": "雙溪中央社區發展協會",
+    "address": "中社路1段36巷2-1號",
+    "village": "翠山里8-12",
+    "indigenous_village": "翠山里全里",
+    "phone": "28412197",
+    "seq": 300,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.109063,
+      "lng": 121.559858
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0301",
+    "place_name": "臨溪區民活動中心",
+    "address": "至善路2段286號",
+    "village": "臨溪里1-7",
+    "indigenous_village": "",
+    "phone": "28819429",
+    "seq": 301,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.1010367,
+      "lng": 121.5519982
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0302",
+    "place_name": "至善國中",
+    "address": "至善路2段360號",
+    "village": "臨溪里8-12",
+    "indigenous_village": "臨溪里全里",
+    "phone": "28414350",
+    "seq": 302,
+    "county": "TPE",
+    "town": "士林區",
+    "location": {
+      "lat": 25.1035869,
+      "lng": 121.5554252
+    },
+    "power": 1
+  }
+]

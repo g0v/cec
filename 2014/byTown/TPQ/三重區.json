@@ -1,0 +1,1817 @@
+[
+  {
+    "id": "tpq0628",
+    "place_name": "穀保家商（進德樓11教室）",
+    "address": "中正北路560巷38號",
+    "village": "大有里",
+    "remark": "1-9",
+    "seq": 628,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0693313,
+      "lng": 121.4710028
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq0631",
+    "place_name": "二重國小",
+    "address": "大有街10號",
+    "village": "博愛里",
+    "remark": "1-7",
+    "seq": 631,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0657511,
+      "lng": 121.477679
+    },
+    "power": 4
+  },
+  {
+    "id": "tpq0635",
+    "place_name": "中山橋市民活動中心",
+    "address": "光復路二段170號",
+    "village": "頂崁里",
+    "remark": "1-14",
+    "seq": 635,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.061665,
+      "lng": 121.471427
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0637",
+    "place_name": "清傳商職（商二忠）",
+    "address": "五谷王北街141巷1號",
+    "village": "谷王里",
+    "remark": "全里",
+    "seq": 637,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.052015,
+      "lng": 121.4768405
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0638",
+    "place_name": "興穀國小",
+    "address": "五谷王北街46號",
+    "village": "五谷里",
+    "remark": "1-17",
+    "seq": 638,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0501777,
+      "lng": 121.4756585
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0640",
+    "place_name": "興德祠",
+    "address": "中興北街臨40之2號",
+    "village": "中興里",
+    "remark": "1,2,7-10,21-30",
+    "seq": 640,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.054726,
+      "lng": 121.4690012
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0641",
+    "place_name": "空屋",
+    "address": "中興南街34號",
+    "village": "中興里",
+    "remark": "3-6,11-20,31-37",
+    "seq": 641,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.044785,
+      "lng": 121.470463
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0642",
+    "place_name": "重新橋第2市民活動中心",
+    "address": "重新路五段283號",
+    "village": "德厚里",
+    "remark": "全里",
+    "seq": 642,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0475284,
+      "lng": 121.4750427
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0643",
+    "place_name": "三重高中（綜合大樓一仁教室）",
+    "address": "集美街212號",
+    "village": "成功里",
+    "remark": "1-8",
+    "seq": 643,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0547411,
+      "lng": 121.4914967
+    },
+    "power": 8
+  },
+  {
+    "id": "tpq0645",
+    "place_name": "中興橋市民活動中心",
+    "address": "成功路9號之1",
+    "village": "成功里",
+    "remark": "13-17",
+    "seq": 645,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0504899,
+      "lng": 121.490609
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0647",
+    "place_name": "集美國小",
+    "address": "集美街10號",
+    "village": "福祉里",
+    "remark": "1-8",
+    "seq": 647,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0564706,
+      "lng": 121.4879933
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq0650",
+    "place_name": "重新橋第1市民活動中心",
+    "address": "重新路四段254之1號",
+    "village": "福德里",
+    "remark": "1-10",
+    "seq": 650,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.053229,
+      "lng": 121.485779
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0654",
+    "place_name": "過圳市民活動中心",
+    "address": "過圳街19號",
+    "village": "過田里",
+    "remark": "1-8",
+    "seq": 654,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0601787,
+      "lng": 121.4882211
+    },
+    "power": 4
+  },
+  {
+    "id": "tpq0658",
+    "place_name": "明志國中",
+    "address": "中正北路107號",
+    "village": "錦田里",
+    "remark": "1-8",
+    "seq": 658,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0634787,
+      "lng": 121.4890227
+    },
+    "power": 6
+  },
+  {
+    "id": "tpq0660",
+    "place_name": "清聖宮",
+    "address": "重陽路一段20巷10號",
+    "village": "重明里",
+    "remark": "1-10",
+    "seq": 660,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.057565,
+      "lng": 121.486322
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0661",
+    "place_name": "重陽市民活動中心",
+    "address": "重陽路一段60巷101號",
+    "village": "重明里",
+    "remark": "11-19",
+    "seq": 661,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.059562,
+      "lng": 121.4868817
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq0662",
+    "place_name": "興華市民活動中心",
+    "address": "中華路5號",
+    "village": "光田里",
+    "remark": "1-9,16",
+    "seq": 662,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.060222,
+      "lng": 121.483396
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq0664",
+    "place_name": "護山宮",
+    "address": "三陽路11號",
+    "village": "光田里",
+    "remark": "10-15,17,18,21,22",
+    "seq": 664,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0589569,
+      "lng": 121.486165
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0665",
+    "place_name": "山口廟",
+    "address": "中華路2巷31弄10號",
+    "village": "光陽里",
+    "remark": "1,29-33",
+    "seq": 665,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.060268,
+      "lng": 121.482654
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0669",
+    "place_name": "聯邦市民活動中心",
+    "address": "中華路125號",
+    "village": "田心里",
+    "remark": "1-7,12,14,1626",
+    "seq": 669,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0640299,
+      "lng": 121.483702
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0670",
+    "place_name": "私立智仁幼兒園（視聽室）",
+    "address": "洛陽街53號",
+    "village": "田心里",
+    "remark": "8-11,13,15,23,27,28,31",
+    "seq": 670,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0474919,
+      "lng": 121.508079
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0671",
+    "place_name": "二重國中",
+    "address": "忠孝路三段89號",
+    "village": "田心里",
+    "remark": "17-22,24,25,29,30,32",
+    "seq": 671,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0656964,
+      "lng": 121.4803284
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq0672",
+    "place_name": "福田市民活動中心",
+    "address": "三民街256號",
+    "village": "福田里",
+    "remark": "1-12",
+    "seq": 672,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0676085,
+      "lng": 121.47976
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0674",
+    "place_name": "三民市民活動中心",
+    "address": "忠孝路三段40巷51號",
+    "village": "田中里",
+    "remark": "1-9",
+    "seq": 674,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.065531,
+      "lng": 121.483024
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0678",
+    "place_name": "私立來來幼兒園",
+    "address": "新北大道一段100巷15號",
+    "village": "田安里",
+    "remark": "1-10,25-28",
+    "seq": 678,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0614526,
+      "lng": 121.48792
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0679",
+    "place_name": "首都巨星大廈會議室",
+    "address": "中華路49號",
+    "village": "田安里",
+    "remark": "11-15,29-33,40-42",
+    "seq": 679,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.061775,
+      "lng": 121.483833
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0687",
+    "place_name": "昭安宮",
+    "address": "集美街207巷29號",
+    "village": "光正里",
+    "remark": "全里",
+    "seq": 687,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.055767,
+      "lng": 121.487856
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0688",
+    "place_name": "三光國小",
+    "address": "大同南路157號",
+    "village": "同安里",
+    "remark": "全里",
+    "seq": 688,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0563509,
+      "lng": 121.4966397
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0690",
+    "place_name": "菜寮市民活動中心",
+    "address": "中寮街57巷18號",
+    "village": "菜寮里",
+    "remark": "1-9",
+    "seq": 690,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0579178,
+      "lng": 121.4926596
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq0692",
+    "place_name": "三千宮",
+    "address": "光明路102號",
+    "village": "永春里",
+    "remark": "全里",
+    "seq": 692,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0564739,
+      "lng": 121.4926189
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0693",
+    "place_name": "重新長老教會",
+    "address": "中寮街16巷23號",
+    "village": "中正里",
+    "remark": "全里",
+    "seq": 693,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0597725,
+      "lng": 121.4927928
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0695",
+    "place_name": "車庫",
+    "address": "重新路三段60巷10弄23號",
+    "village": "大同里",
+    "remark": "全里",
+    "seq": 695,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0606407,
+      "lng": 121.4947473
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0696",
+    "place_name": "空屋",
+    "address": "中正南路52巷17號",
+    "village": "中民里",
+    "remark": "全里",
+    "seq": 696,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0601852,
+      "lng": 121.4945856
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0697",
+    "place_name": "空屋",
+    "address": "電信街99號",
+    "village": "平和里",
+    "remark": "全里",
+    "seq": 697,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0583184,
+      "lng": 121.4963592
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0698",
+    "place_name": "空屋",
+    "address": "大同南路117巷69號",
+    "village": "大安里",
+    "remark": "全里",
+    "seq": 698,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0579732,
+      "lng": 121.4948687
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0699",
+    "place_name": "光興國小",
+    "address": "正義南路62號",
+    "village": "仁德里",
+    "remark": "1-11",
+    "seq": 699,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0590567,
+      "lng": 121.4987847
+    },
+    "power": 5
+  },
+  {
+    "id": "tpq0701",
+    "place_name": "海清宮",
+    "address": "正義南路89巷29號",
+    "village": "忠孝里",
+    "remark": "全里",
+    "seq": 701,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0596813,
+      "lng": 121.4973393
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0702",
+    "place_name": "光興閱覽室",
+    "address": "正義南路62號之1",
+    "village": "仁義里",
+    "remark": "全里",
+    "seq": 702,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0590567,
+      "lng": 121.4987847
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0703",
+    "place_name": "空屋",
+    "address": "福裕街47號",
+    "village": "光榮里",
+    "remark": "全里",
+    "seq": 703,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0616391,
+      "lng": 121.4988107
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0705",
+    "place_name": "空屋",
+    "address": "文化南路10巷7號",
+    "village": "福星里",
+    "remark": "全里",
+    "seq": 705,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0619569,
+      "lng": 121.5005632
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0708",
+    "place_name": "車庫",
+    "address": "中央南路42號",
+    "village": "清和里",
+    "remark": "1,2,7-15",
+    "seq": 708,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0620602,
+      "lng": 121.5014997
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0709",
+    "place_name": "空屋",
+    "address": "福和街23號",
+    "village": "清和里",
+    "remark": "3-6,16-20",
+    "seq": 709,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0617948,
+      "lng": 121.5020003
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0710",
+    "place_name": "臺北橋市民活動中心",
+    "address": "重新路一段1之1號對面（臺北橋下橋孔）",
+    "village": "永興里",
+    "remark": "全里",
+    "seq": 710,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0644272,
+      "lng": 121.5037157
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0711",
+    "place_name": "正義國小",
+    "address": "信義西街31號",
+    "village": "中山里",
+    "remark": "1-12",
+    "seq": 711,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0645537,
+      "lng": 121.4961518
+    },
+    "power": 8
+  },
+  {
+    "id": "tpq0715",
+    "place_name": "南聖宮",
+    "address": "大仁街27號",
+    "village": "國隆里",
+    "remark": "1-16",
+    "seq": 715,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0649792,
+      "lng": 121.4923971
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0719",
+    "place_name": "修德國小",
+    "address": "重陽路三段3號",
+    "village": "民生里",
+    "remark": "1,2,9,11,12,20-23",
+    "seq": 719,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.06579,
+      "lng": 121.4898282
+    },
+    "power": 4
+  },
+  {
+    "id": "tpq0720",
+    "place_name": "大同市民活動中心",
+    "address": "大同北路186號",
+    "village": "民生里",
+    "remark": "3-8,24,27",
+    "seq": 720,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0663418,
+      "lng": 121.4906846
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0722",
+    "place_name": "重新里活動中心",
+    "address": "正義北路28巷40號",
+    "village": "重新里",
+    "remark": "全里",
+    "seq": 722,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0630585,
+      "lng": 121.4963635
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0723",
+    "place_name": "車庫",
+    "address": "正義北路48巷26號",
+    "village": "正德里",
+    "remark": "全里",
+    "seq": 723,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0635818,
+      "lng": 121.4965948
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0725",
+    "place_name": "車庫",
+    "address": "長壽西街77號",
+    "village": "正安里",
+    "remark": "全里",
+    "seq": 725,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0671299,
+      "lng": 121.495275
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0726",
+    "place_name": "車庫",
+    "address": "雙園街57巷6號",
+    "village": "自強里",
+    "remark": "全里",
+    "seq": 726,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0676783,
+      "lng": 121.4946676
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0727",
+    "place_name": "信義長青中心",
+    "address": "信義西街1號",
+    "village": "文化里",
+    "remark": "1-14",
+    "seq": 727,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.06482,
+      "lng": 121.498013
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0730",
+    "place_name": "正義市民活動中心",
+    "address": "雙園街1號",
+    "village": "雙園里",
+    "remark": "全里",
+    "seq": 730,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0683434,
+      "lng": 121.497512
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0731",
+    "place_name": "慈惠宮會議室",
+    "address": "文化北路17號",
+    "village": "錦通里",
+    "remark": "全里",
+    "seq": 731,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.063599,
+      "lng": 121.499952
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0734",
+    "place_name": "車庫",
+    "address": "長安街41號",
+    "village": "長安里",
+    "remark": "1-14",
+    "seq": 734,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0669127,
+      "lng": 121.4996669
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0735",
+    "place_name": "車庫",
+    "address": "長安街37號",
+    "village": "長安里",
+    "remark": "15-22",
+    "seq": 735,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0668899,
+      "lng": 121.4995594
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0736",
+    "place_name": "重新市場4樓（臺北同修會）",
+    "address": "重新路一段87號4樓",
+    "village": "光華里",
+    "remark": "全里",
+    "seq": 736,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0635838,
+      "lng": 121.5012102
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0737",
+    "place_name": "車庫",
+    "address": "長生街65號",
+    "village": "長生里",
+    "remark": "全里",
+    "seq": 737,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0666866,
+      "lng": 121.500939
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0738",
+    "place_name": "開元市民活動中心",
+    "address": "開元街1號",
+    "village": "開元里",
+    "remark": "全里",
+    "seq": 738,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0807024,
+      "lng": 121.4973059
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0740",
+    "place_name": "福安宮",
+    "address": "長元街84號",
+    "village": "長元里",
+    "remark": "1-7",
+    "seq": 740,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.066628,
+      "lng": 121.501934
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0741",
+    "place_name": "三重龍門社區（社區通道）",
+    "address": "長安街98號旁",
+    "village": "長元里",
+    "remark": "8-18",
+    "seq": 741,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0676757,
+      "lng": 121.5020855
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0743",
+    "place_name": "光榮國中",
+    "address": "介壽路26號",
+    "village": "長泰里",
+    "remark": "1-7",
+    "seq": 743,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0704534,
+      "lng": 121.4999178
+    },
+    "power": 4
+  },
+  {
+    "id": "tpq0745",
+    "place_name": "民宅",
+    "address": "河邊北街96號",
+    "village": "長福里",
+    "remark": "全里",
+    "seq": 745,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0695999,
+      "lng": 121.50383
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0746",
+    "place_name": "三重國小",
+    "address": "三和路三段1號",
+    "village": "介壽里",
+    "remark": "全里",
+    "seq": 746,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0699908,
+      "lng": 121.4981736
+    },
+    "power": 4
+  },
+  {
+    "id": "tpq0747",
+    "place_name": "光榮國小",
+    "address": "介壽路32號",
+    "village": "萬壽里",
+    "remark": "1-11",
+    "seq": 747,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0708471,
+      "lng": 121.5013491
+    },
+    "power": 4
+  },
+  {
+    "id": "tpq0751",
+    "place_name": "龍濱市民活動中心",
+    "address": "秀江街28號",
+    "village": "龍濱里",
+    "remark": "1-10",
+    "seq": 751,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0729808,
+      "lng": 121.5023704
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0758",
+    "place_name": "六張市民活動中心",
+    "address": "六張街66號",
+    "village": "福安里",
+    "remark": "1-13",
+    "seq": 758,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0702882,
+      "lng": 121.4940899
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0759",
+    "place_name": "福安市民活動中心",
+    "address": "六張街73號",
+    "village": "福安里",
+    "remark": "14-25",
+    "seq": 759,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0702874,
+      "lng": 121.4934963
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0760",
+    "place_name": "厚德國小",
+    "address": "忠孝路一段70號",
+    "village": "信安里",
+    "remark": "全里",
+    "seq": 760,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0718585,
+      "lng": 121.4885912
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0761",
+    "place_name": "車庫",
+    "address": "雙園街57巷29號",
+    "village": "安慶里",
+    "remark": "1-8",
+    "seq": 761,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.068512,
+      "lng": 121.494815
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0765",
+    "place_name": "六合市民活動中心",
+    "address": "自強路二段50巷22號",
+    "village": "幸福里",
+    "remark": "8-11,18-27",
+    "seq": 765,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0691615,
+      "lng": 121.4882606
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq0768",
+    "place_name": "重陽國小",
+    "address": "中正北路113號",
+    "village": "六福里",
+    "remark": "1-7",
+    "seq": 768,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.066668,
+      "lng": 121.4839082
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq0771",
+    "place_name": "三德市民活動中心",
+    "address": "龍門路274巷36號",
+    "village": "順德里",
+    "remark": "1-11",
+    "seq": 771,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0751904,
+      "lng": 121.5009721
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq0774",
+    "place_name": "市立幼兒園崇德分班(公共空間)",
+    "address": "仁孝街62號",
+    "village": "瑞德里",
+    "remark": "1-10",
+    "seq": 774,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0746292,
+      "lng": 121.497257
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq0775",
+    "place_name": "慈雲宮",
+    "address": "仁興街42巷12號",
+    "village": "瑞德里",
+    "remark": "11-19",
+    "seq": 775,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0753776,
+      "lng": 121.4983857
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0776",
+    "place_name": "玄峯慈惠堂",
+    "address": "仁愛街77號",
+    "village": "崇德里",
+    "remark": "1-7,9-14",
+    "seq": 776,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.073067,
+      "lng": 121.496204
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0779",
+    "place_name": "市立幼兒園厚德分班",
+    "address": "忠孝路一段21巷7號",
+    "village": "厚德里",
+    "remark": "1-11",
+    "seq": 779,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.072542,
+      "lng": 121.4918577
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0780",
+    "place_name": "厚德市民活動中心",
+    "address": "三和路三段170巷49號",
+    "village": "厚德里",
+    "remark": "12-22",
+    "seq": 780,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.07273,
+      "lng": 121.490812
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0781",
+    "place_name": "車庫",
+    "address": "三和路三段125巷31號旁",
+    "village": "維德里",
+    "remark": "1-10",
+    "seq": 781,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0735307,
+      "lng": 121.4937977
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0782",
+    "place_name": "工廠",
+    "address": "溪尾街5巷27號",
+    "village": "維德里",
+    "remark": "11-21",
+    "seq": 782,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0744888,
+      "lng": 121.4927859
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0783",
+    "place_name": "德林寺",
+    "address": "三和路三段85號",
+    "village": "尚德里",
+    "remark": "1-5,16,21-29",
+    "seq": 783,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0720681,
+      "lng": 121.4946436
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0785",
+    "place_name": "市立圖書館三重培德分館",
+    "address": "忠孝路二段35號",
+    "village": "培德里",
+    "remark": "1-14",
+    "seq": 785,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.071195,
+      "lng": 121.4862159
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0787",
+    "place_name": "厚德體操館",
+    "address": "自強路二段93號",
+    "village": "立德里",
+    "remark": "1-8,11,19-20",
+    "seq": 787,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.070716,
+      "lng": 121.488418
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0788",
+    "place_name": "和平市民活動中心",
+    "address": "自強路二段90號",
+    "village": "立德里",
+    "remark": "9,10,12-18,21,22",
+    "seq": 788,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0706556,
+      "lng": 121.4878161
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0789",
+    "place_name": "永德市民活動中心",
+    "address": "自強路三段43巷23號",
+    "village": "永德里",
+    "remark": "1-12,34",
+    "seq": 789,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0728203,
+      "lng": 121.4876819
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0790",
+    "place_name": "後竹圍市民活動中心",
+    "address": "自強路三段42巷11號",
+    "village": "永德里",
+    "remark": "13-22",
+    "seq": 790,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.072085,
+      "lng": 121.48726
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0792",
+    "place_name": "車庫",
+    "address": "車路頭街44巷32號",
+    "village": "永煇里",
+    "remark": "1-6,14-16",
+    "seq": 792,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0718756,
+      "lng": 121.4830139
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0793",
+    "place_name": "六玄宮",
+    "address": "車路頭街72巷18號",
+    "village": "永煇里",
+    "remark": "7-13",
+    "seq": 793,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0728712,
+      "lng": 121.4835326
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0794",
+    "place_name": "工廠",
+    "address": "力行路一段178巷24號",
+    "village": "永發里",
+    "remark": "1-8,26",
+    "seq": 794,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0713002,
+      "lng": 121.4811833
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0795",
+    "place_name": "工廠",
+    "address": "中正北路193巷21弄25號",
+    "village": "永發里",
+    "remark": "9-14,27",
+    "seq": 795,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0707189,
+      "lng": 121.47788
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0796",
+    "place_name": "太璞宮(仙公廟)圖書室",
+    "address": "中正北路317巷1號",
+    "village": "永發里",
+    "remark": "15-25",
+    "seq": 796,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.072205,
+      "lng": 121.474323
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0797",
+    "place_name": "永盛市民活動中心",
+    "address": "車路頭街133號",
+    "village": "永盛里",
+    "remark": "1-13",
+    "seq": 797,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.076315,
+      "lng": 121.484637
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0799",
+    "place_name": "三和國中",
+    "address": "三和路四段216號",
+    "village": "永吉里",
+    "remark": "1-10",
+    "seq": 799,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0763803,
+      "lng": 121.4868247
+    },
+    "power": 7
+  },
+  {
+    "id": "tpq0801",
+    "place_name": "永安里民活動中心",
+    "address": "車路頭街108號",
+    "village": "永安里",
+    "remark": "1-4,13-15,1920",
+    "seq": 801,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.074901,
+      "lng": 121.484097
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0802",
+    "place_name": "義天宮",
+    "address": "車路頭街150號",
+    "village": "永安里",
+    "remark": "5-12,16-18",
+    "seq": 802,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0764245,
+      "lng": 121.483793
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0803",
+    "place_name": "永福國小",
+    "address": "永福街66號",
+    "village": "永豐里",
+    "remark": "1-11",
+    "seq": 803,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0770435,
+      "lng": 121.4806326
+    },
+    "power": 7
+  },
+  {
+    "id": "tpq0804",
+    "place_name": "永豐市民活動中心",
+    "address": "永福街197巷6之1號",
+    "village": "永豐里",
+    "remark": "12-21",
+    "seq": 804,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0746092,
+      "lng": 121.478258
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0807",
+    "place_name": "永福市民活動中心",
+    "address": "力行路二段162巷55號",
+    "village": "永福里",
+    "remark": "11-21",
+    "seq": 807,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0765291,
+      "lng": 121.4810339
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0815",
+    "place_name": "聖安宮",
+    "address": "仁政街49號",
+    "village": "溪美里",
+    "remark": "1-4,17-19",
+    "seq": 815,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0771117,
+      "lng": 121.4931578
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0816",
+    "place_name": "三重社會福利大樓",
+    "address": "溪尾街73號",
+    "village": "溪美里",
+    "remark": "5,8,9,15,16",
+    "seq": 816,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0776935,
+      "lng": 121.4908498
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0817",
+    "place_name": "聚善祠",
+    "address": "仁愛街266號",
+    "village": "溪美里",
+    "remark": "6,7,10,20-22",
+    "seq": 817,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.078385,
+      "lng": 121.492924
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0822",
+    "place_name": "五常圖書館樓下(1樓",
+    "address": "五華街7巷30號",
+    "village": "五常里",
+    "remark": "1,5,6,9-13,24-28",
+    "seq": 822,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.08079,
+      "lng": 121.496026
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0823",
+    "place_name": "車庫",
+    "address": "仁愛街269巷32號",
+    "village": "五常里",
+    "remark": "2-4,7,14,18,19,32-34",
+    "seq": 823,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0794563,
+      "lng": 121.4939882
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0825",
+    "place_name": "碧華國中",
+    "address": "自強路五段66號",
+    "village": "五福里",
+    "remark": "1-11",
+    "seq": 825,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0823063,
+      "lng": 121.495165
+    },
+    "power": 6
+  },
+  {
+    "id": "tpq0829",
+    "place_name": "慈福臨時活動中心",
+    "address": "三和路四段167巷111號旁",
+    "village": "慈福里",
+    "remark": "1-6,16,17",
+    "seq": 829,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0800055,
+      "lng": 121.4872644
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0830",
+    "place_name": "慈福臨時活動中心",
+    "address": "三和路四段163巷92號旁",
+    "village": "慈福里",
+    "remark": "7-15",
+    "seq": 830,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0798735,
+      "lng": 121.4873354
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0831",
+    "place_name": "慈生市民活動中心",
+    "address": "三和路四段191巷78號",
+    "village": "慈生里",
+    "remark": "1-11",
+    "seq": 831,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0798617,
+      "lng": 121.4844131
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0833",
+    "place_name": "工廠",
+    "address": "溪尾街218巷7號",
+    "village": "慈惠里",
+    "remark": "1-7",
+    "seq": 833,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0814635,
+      "lng": 121.4874758
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0834",
+    "place_name": "車庫",
+    "address": "溪尾街218巷16號",
+    "village": "慈惠里",
+    "remark": "8-15",
+    "seq": 834,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0811621,
+      "lng": 121.4873117
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0835",
+    "place_name": "慈愛市民活動中心",
+    "address": "仁美街108巷13號",
+    "village": "慈愛里",
+    "remark": "1-14",
+    "seq": 835,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0806301,
+      "lng": 121.4850054
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0837",
+    "place_name": "慈化市民活動中心",
+    "address": "溪尾街327號旁",
+    "village": "慈化里",
+    "remark": "1-9",
+    "seq": 837,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0845335,
+      "lng": 121.4879021
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0839",
+    "place_name": "靈聖宮",
+    "address": "溪尾街227巷6號",
+    "village": "慈祐里",
+    "remark": "1-10",
+    "seq": 839,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.081516,
+      "lng": 121.488486
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0840",
+    "place_name": "慈祐市民活動中心",
+    "address": "仁愛街425巷9號之1",
+    "village": "慈祐里",
+    "remark": "11-19",
+    "seq": 840,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0817707,
+      "lng": 121.4908395
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0842",
+    "place_name": "五華國小",
+    "address": "集賢路89號",
+    "village": "富華里",
+    "remark": "1-12",
+    "seq": 842,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0892717,
+      "lng": 121.4909848
+    },
+    "power": 5
+  },
+  {
+    "id": "tpq0847",
+    "place_name": "碧華國小",
+    "address": "五華街160號",
+    "village": "富福里",
+    "remark": "1-12",
+    "seq": 847,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0850812,
+      "lng": 121.4900307
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0849",
+    "place_name": "五華市民活動中心",
+    "address": "仁義街228巷12號",
+    "village": "五華里",
+    "remark": "1-5",
+    "seq": 849,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.084305,
+      "lng": 121.4941483
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq0852",
+    "place_name": "水流公廟(碧華公園內)",
+    "address": "仁華街118巷9號",
+    "village": "碧華里",
+    "remark": "1-6,8",
+    "seq": 852,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0836255,
+      "lng": 121.4858284
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0854",
+    "place_name": "碧華公園老人會辦公室",
+    "address": "仁華街118巷9之8號",
+    "village": "碧華里",
+    "remark": "9,12-16",
+    "seq": 854,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0816637,
+      "lng": 121.4835513
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0857",
+    "place_name": "蘆洲永安兒童公園活動中心",
+    "address": "永安北路二段42之6號",
+    "village": "仁華里",
+    "remark": "1-7,16,22-24",
+    "seq": 857,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0814098,
+      "lng": 121.4818488
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0858",
+    "place_name": "奉興宮",
+    "address": "永安北路二段25巷60號對面",
+    "village": "仁華里",
+    "remark": "8-15",
+    "seq": 858,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0820929,
+      "lng": 121.4833328
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0859",
+    "place_name": "優悅賞公寓大廈",
+    "address": "仁安街89號",
+    "village": "仁華里",
+    "remark": "17-21,25-27",
+    "seq": 859,
+    "county": "TPQ",
+    "town": "三重區",
+    "location": {
+      "lat": 25.0831885,
+      "lng": 121.4827267
+    },
+    "power": 1
+  }
+]

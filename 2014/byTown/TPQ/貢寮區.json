@@ -1,0 +1,257 @@
+[
+  {
+    "id": "tpq2243",
+    "place_name": "貢寮市民活動中心",
+    "address": "長泰路18之2號",
+    "village": "貢寮里",
+    "remark": "全里",
+    "seq": 2243,
+    "county": "TPQ",
+    "town": "貢寮區",
+    "location": {
+      "lat": 25.0204245,
+      "lng": 121.899213
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2244",
+    "place_name": "龍吉市民活動中心",
+    "address": "嵩陽街41號",
+    "village": "龍崗里",
+    "remark": "全里",
+    "seq": 2244,
+    "county": "TPQ",
+    "town": "貢寮區",
+    "location": {
+      "lat": 25.015356,
+      "lng": 121.9059915
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2245",
+    "place_name": "貢寮國小",
+    "address": "內寮街55號",
+    "village": "吉林里",
+    "remark": "全里",
+    "seq": 2245,
+    "county": "TPQ",
+    "town": "貢寮區",
+    "location": {
+      "lat": 24.9935795,
+      "lng": 121.8893481
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2246",
+    "place_name": "雙玉第一市民活動中心",
+    "address": "德心街11之1號",
+    "village": "雙玉里",
+    "remark": "1-12",
+    "seq": 2246,
+    "county": "TPQ",
+    "town": "貢寮區",
+    "location": {
+      "lat": 25.0159218,
+      "lng": 121.9185336
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2247",
+    "place_name": "雙玉里集會所",
+    "address": "田寮洋街44號",
+    "village": "雙玉里",
+    "remark": "13-23",
+    "seq": 2247,
+    "county": "TPQ",
+    "town": "貢寮區",
+    "location": {
+      "lat": 25.0188143,
+      "lng": 121.9279977
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2248",
+    "place_name": "利洋宮",
+    "address": "福興街25號",
+    "village": "福連里",
+    "remark": "1-9",
+    "seq": 2248,
+    "county": "TPQ",
+    "town": "貢寮區",
+    "location": {
+      "lat": 25.0120431,
+      "lng": 121.9911758
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2249",
+    "place_name": "馬崗市民活動中心",
+    "address": "馬崗街31之6號",
+    "village": "福連里",
+    "remark": "10-16",
+    "seq": 2249,
+    "county": "TPQ",
+    "town": "貢寮區",
+    "location": {
+      "lat": 25.0123045,
+      "lng": 122.0004195
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2250",
+    "place_name": "福隆國小",
+    "address": "東興街35號",
+    "village": "福隆里",
+    "remark": "1-7,18-22",
+    "seq": 2250,
+    "county": "TPQ",
+    "town": "貢寮區",
+    "location": {
+      "lat": 25.0180438,
+      "lng": 121.9493756
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2251",
+    "place_name": "福隆青少年活動中心",
+    "address": "福隆街60號",
+    "village": "福隆里",
+    "remark": "8-17",
+    "seq": 2251,
+    "county": "TPQ",
+    "town": "貢寮區",
+    "location": {
+      "lat": 25.0167194,
+      "lng": 121.9449322
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2252",
+    "place_name": "龍門市民活動中心",
+    "address": "龍門街60之1號",
+    "village": "龍門里",
+    "remark": "全里",
+    "seq": 2252,
+    "county": "TPQ",
+    "town": "貢寮區",
+    "location": {
+      "lat": 25.025557,
+      "lng": 121.9327609
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2253",
+    "place_name": "澳底國小",
+    "address": "延平街10號",
+    "village": "真理里",
+    "remark": "1-9",
+    "seq": 2253,
+    "county": "TPQ",
+    "town": "貢寮區",
+    "location": {
+      "lat": 25.0577586,
+      "lng": 121.9250371
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq2255",
+    "place_name": "仁和宮",
+    "address": "仁和路9號",
+    "village": "仁里里",
+    "remark": "1-7,14-16",
+    "seq": 2255,
+    "county": "TPQ",
+    "town": "貢寮區",
+    "location": {
+      "lat": 25.0511865,
+      "lng": 121.9230088
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2256",
+    "place_name": "仁里第一市民活動中心",
+    "address": "仁義街8號",
+    "village": "仁里里",
+    "remark": "8-13",
+    "seq": 2256,
+    "county": "TPQ",
+    "town": "貢寮區",
+    "location": {
+      "lat": 25.0525088,
+      "lng": 121.9269242
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2257",
+    "place_name": "五美市民活動中心",
+    "address": "丹裡街16之12號",
+    "village": "美豐里",
+    "remark": "1-11",
+    "seq": 2257,
+    "county": "TPQ",
+    "town": "貢寮區",
+    "location": {
+      "lat": 25.0569532,
+      "lng": 121.9142673
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2258",
+    "place_name": "福安廟",
+    "address": "雞母嶺街7號",
+    "village": "美豐里",
+    "remark": "12-21",
+    "seq": 2258,
+    "county": "TPQ",
+    "town": "貢寮區",
+    "location": {
+      "lat": 25.0619822,
+      "lng": 121.8980082
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2259",
+    "place_name": "和美市民活動中心",
+    "address": "和美街35之2號",
+    "village": "和美里",
+    "remark": "1-12",
+    "seq": 2259,
+    "county": "TPQ",
+    "town": "貢寮區",
+    "location": {
+      "lat": 25.0903854,
+      "lng": 121.9128641
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2260",
+    "place_name": "和美國小",
+    "address": "龍洞街1之9號",
+    "village": "和美里",
+    "remark": "13-21",
+    "seq": 2260,
+    "county": "TPQ",
+    "town": "貢寮區",
+    "location": {
+      "lat": 25.1117053,
+      "lng": 121.9163485
+    },
+    "power": 1
+  }
+]

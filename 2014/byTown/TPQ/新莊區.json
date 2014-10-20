@@ -1,0 +1,1127 @@
+[
+  {
+    "id": "tpq0280",
+    "place_name": "豐年國小",
+    "address": "瓊泰路116號",
+    "village": "海山里",
+    "remark": "1-11",
+    "seq": 280,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0309455,
+      "lng": 121.4432986
+    },
+    "power": 8
+  },
+  {
+    "id": "tpq0284",
+    "place_name": "擇善寺",
+    "address": "新莊路543巷11號",
+    "village": "全安里",
+    "remark": "1-3,5,12,13,15",
+    "seq": 284,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0323739,
+      "lng": 121.4478776
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0285",
+    "place_name": "覺明寺",
+    "address": "豐年街51巷17弄1號",
+    "village": "全安里",
+    "remark": "4,6-11,14",
+    "seq": 285,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0321152,
+      "lng": 121.4475132
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0286",
+    "place_name": "全安市民活動中心",
+    "address": "新莊路527號",
+    "village": "全安里",
+    "remark": "16-22",
+    "seq": 286,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0332264,
+      "lng": 121.447917
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0287",
+    "place_name": "新泰市民活動中心",
+    "address": "建中街116巷3弄2號",
+    "village": "全泰里",
+    "remark": "1-6",
+    "seq": 287,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0372131,
+      "lng": 121.4453942
+    },
+    "power": 5
+  },
+  {
+    "id": "tpq0290",
+    "place_name": "新泰國小",
+    "address": "公園一路91號",
+    "village": "忠孝里",
+    "remark": "1-11",
+    "seq": 290,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.037911,
+      "lng": 121.4437563
+    },
+    "power": 6
+  },
+  {
+    "id": "tpq0293",
+    "place_name": "新莊基督長老教會",
+    "address": "武前街27號",
+    "village": "文衡里",
+    "remark": "1-7",
+    "seq": 293,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0326342,
+      "lng": 121.4503311
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0294",
+    "place_name": "新莊基督長老教會社區福音中心",
+    "address": "武前街23號",
+    "village": "文衡里",
+    "remark": "8-16",
+    "seq": 294,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0327573,
+      "lng": 121.4504496
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0295",
+    "place_name": "天下一家社區活動中心",
+    "address": "建中街39號",
+    "village": "文聖里",
+    "remark": "1-15",
+    "seq": 295,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0371534,
+      "lng": 121.4484628
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0297",
+    "place_name": "慈惠堂餐廳",
+    "address": "新莊路415號之4",
+    "village": "興漢里",
+    "remark": "1-5,8-15",
+    "seq": 297,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.033362,
+      "lng": 121.450754
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0298",
+    "place_name": "新莊浸信會",
+    "address": "建興街4號",
+    "village": "興漢里",
+    "remark": "16-22",
+    "seq": 298,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0365249,
+      "lng": 121.450333
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0299",
+    "place_name": "鳴遠幼兒園",
+    "address": "新興街1號",
+    "village": "興漢里",
+    "remark": "6,7,23-32",
+    "seq": 299,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0358585,
+      "lng": 121.4506802
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0300",
+    "place_name": "慈祐宮文教大樓",
+    "address": "新莊路214巷9號",
+    "village": "榮和里",
+    "remark": "1-11,21,22",
+    "seq": 300,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0344196,
+      "lng": 121.4531429
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0301",
+    "place_name": "新莊區衛生所",
+    "address": "中華路一段2號1樓",
+    "village": "榮和里",
+    "remark": "12-20,23-25",
+    "seq": 301,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0363006,
+      "lng": 121.4523922
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0302",
+    "place_name": "廣福宮(三山國王廟)",
+    "address": "新莊路150號",
+    "village": "文德里",
+    "remark": "全里",
+    "seq": 302,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0356093,
+      "lng": 121.4552614
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0303",
+    "place_name": "新莊國小",
+    "address": "中正路86號",
+    "village": "文明里",
+    "remark": "全里",
+    "seq": 303,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0369306,
+      "lng": 121.455941
+    },
+    "power": 6
+  },
+  {
+    "id": "tpq0304",
+    "place_name": "化成市民活動中心",
+    "address": "化成路314巷2號",
+    "village": "化成里",
+    "remark": "1-6",
+    "seq": 304,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0420332,
+      "lng": 121.464588
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0306",
+    "place_name": "頭前國小",
+    "address": "化成路231號",
+    "village": "頭前里",
+    "remark": "1-6",
+    "seq": 306,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0528262,
+      "lng": 121.4661311
+    },
+    "power": 4
+  },
+  {
+    "id": "tpq0310",
+    "place_name": "民宅",
+    "address": "化成路373之4號",
+    "village": "福基里",
+    "remark": "1-6",
+    "seq": 310,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.057374,
+      "lng": 121.465378
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0311",
+    "place_name": "民宅",
+    "address": "化成路814巷2號",
+    "village": "福基里",
+    "remark": "7-9",
+    "seq": 311,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0420332,
+      "lng": 121.464588
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0312",
+    "place_name": "興化國小",
+    "address": "五工二路50巷2號",
+    "village": "福基里",
+    "remark": "10-17",
+    "seq": 312,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.065854,
+      "lng": 121.461594
+    },
+    "power": 5
+  },
+  {
+    "id": "tpq0317",
+    "place_name": "昌平國小",
+    "address": "昌平街200號",
+    "village": "昌平里",
+    "remark": "1-7",
+    "seq": 317,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.056208,
+      "lng": 121.4554771
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq0320",
+    "place_name": "頭前國中",
+    "address": "中原路2號",
+    "village": "和平里",
+    "remark": "1-7",
+    "seq": 320,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0545472,
+      "lng": 121.4463364
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq0323",
+    "place_name": "昌隆國小",
+    "address": "昌隆街63號",
+    "village": "幸福里",
+    "remark": "1-10",
+    "seq": 323,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0509984,
+      "lng": 121.4559874
+    },
+    "power": 13
+  },
+  {
+    "id": "tpq0336",
+    "place_name": "思賢國小",
+    "address": "自立街229號",
+    "village": "仁義里",
+    "remark": "1-9",
+    "seq": 336,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0456132,
+      "lng": 121.456604
+    },
+    "power": 12
+  },
+  {
+    "id": "tpq0340",
+    "place_name": "聯合市民活動中心",
+    "address": "自由街1號",
+    "village": "自信里",
+    "remark": "1-6",
+    "seq": 340,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0479014,
+      "lng": 121.4560279
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0350",
+    "place_name": "老人文康活動中心",
+    "address": "長青街30號",
+    "village": "思賢里",
+    "remark": "1-5",
+    "seq": 350,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0422155,
+      "lng": 121.456703
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq0353",
+    "place_name": "新北市立圖書館中港分館",
+    "address": "中港路350號",
+    "village": "中華里",
+    "remark": "1-10",
+    "seq": 353,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0464969,
+      "lng": 121.4519486
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0355",
+    "place_name": "竣業精典二期社區管理委員會警衛室",
+    "address": "中華路一段136巷14號",
+    "village": "中美里",
+    "remark": "4-6,13-16,24",
+    "seq": 355,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0411492,
+      "lng": 121.4531329
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0356",
+    "place_name": "中港第一市民活動中心",
+    "address": "中港路172號",
+    "village": "中美里",
+    "remark": "1-3,7-11",
+    "seq": 356,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.041825,
+      "lng": 121.455157
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0365",
+    "place_name": "中港國小",
+    "address": "中港一街142號",
+    "village": "中和里",
+    "remark": "1-10",
+    "seq": 365,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0453281,
+      "lng": 121.4492599
+    },
+    "power": 21
+  },
+  {
+    "id": "tpq0380",
+    "place_name": "中平國中",
+    "address": "中平路385號",
+    "village": "立廷里",
+    "remark": "16,19-22",
+    "seq": 380,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0538386,
+      "lng": 121.4444993
+    },
+    "power": 4
+  },
+  {
+    "id": "tpq0390",
+    "place_name": "榮富國小",
+    "address": "中和街193號",
+    "village": "中港里",
+    "remark": "1-5",
+    "seq": 390,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0513324,
+      "lng": 121.4473601
+    },
+    "power": 16
+  },
+  {
+    "id": "tpq0404",
+    "place_name": "中信國小",
+    "address": "中信街168號",
+    "village": "中原里",
+    "remark": "1-6",
+    "seq": 404,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0562018,
+      "lng": 121.4479722
+    },
+    "power": 6
+  },
+  {
+    "id": "tpq0410",
+    "place_name": "天莊社區圖書室",
+    "address": "中港路454號",
+    "village": "中隆里",
+    "remark": "1-14,16-19",
+    "seq": 410,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0512421,
+      "lng": 121.4519318
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0413",
+    "place_name": "新泰國中",
+    "address": "新泰路359號",
+    "village": "立功里",
+    "remark": "1-14",
+    "seq": 413,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0426138,
+      "lng": 121.4443469
+    },
+    "power": 5
+  },
+  {
+    "id": "tpq0425",
+    "place_name": "清潔大樓(清潔隊)",
+    "address": "瓊林路34號1樓",
+    "village": "泰豐里",
+    "remark": "1,3-7",
+    "seq": 425,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0309851,
+      "lng": 121.4487603
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0426",
+    "place_name": "豐年市民活動中心",
+    "address": "豐年街57之5號",
+    "village": "泰豐里",
+    "remark": "2,8-14",
+    "seq": 426,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.030505,
+      "lng": 121.4466521
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0427",
+    "place_name": "瓊泰市民活動中心",
+    "address": "瓊泰路85號",
+    "village": "瓊林里",
+    "remark": "1,2",
+    "seq": 427,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0291198,
+      "lng": 121.4431902
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0429",
+    "place_name": "新莊仁濟醫院",
+    "address": "中環路一段28號",
+    "village": "瓊林里",
+    "remark": "7-10",
+    "seq": 429,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0571146,
+      "lng": 121.4425242
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0430",
+    "place_name": "瓊林市民活動中心",
+    "address": "瓊林北路1之1號",
+    "village": "瓊林里",
+    "remark": "11-20",
+    "seq": 430,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.022778,
+      "lng": 121.440098
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0431",
+    "place_name": "福營集會所",
+    "address": "福營路29號",
+    "village": "福營里",
+    "remark": "1-10",
+    "seq": 431,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0326014,
+      "lng": 121.4370477
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0432",
+    "place_name": "新北市立新莊幼兒園中心",
+    "address": "福營路277號",
+    "village": "福營里",
+    "remark": "11-20",
+    "seq": 432,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.029391,
+      "lng": 121.427804
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0433",
+    "place_name": "國泰國小",
+    "address": "中正路386號",
+    "village": "營盤里",
+    "remark": "1-8,19",
+    "seq": 433,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0342171,
+      "lng": 121.4417041
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0434",
+    "place_name": "民宅",
+    "address": "中正路586巷2號",
+    "village": "營盤里",
+    "remark": "9-18",
+    "seq": 434,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0423814,
+      "lng": 121.4658693
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0435",
+    "place_name": "心慈托兒所",
+    "address": "中正路700之14號",
+    "village": "丹鳳里",
+    "remark": "1-7",
+    "seq": 435,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.027737,
+      "lng": 121.418322
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0436",
+    "place_name": "慈悲寺",
+    "address": "壽山路162號",
+    "village": "丹鳳里",
+    "remark": "8-13",
+    "seq": 436,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0308723,
+      "lng": 121.415447
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0438",
+    "place_name": "伊吉邦社區文教區廣場",
+    "address": "新北大道七段316號",
+    "village": "丹鳳里",
+    "remark": "17-20",
+    "seq": 438,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0284866,
+      "lng": 121.4120735
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0440",
+    "place_name": "牡丹心市民活動中心",
+    "address": "雙鳳路75號5樓",
+    "village": "合鳳里",
+    "remark": "1-8",
+    "seq": 440,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0276625,
+      "lng": 121.4148529
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq0443",
+    "place_name": "晨光幼兒園",
+    "address": "雙鳳路90巷3弄5號",
+    "village": "祥鳳里",
+    "remark": "1-8",
+    "seq": 443,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0285069,
+      "lng": 121.414521
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0445",
+    "place_name": "丹鳳國小",
+    "address": "新北大道七段437號",
+    "village": "雙鳳里",
+    "remark": "1-3",
+    "seq": 445,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0284648,
+      "lng": 121.4122412
+    },
+    "power": 6
+  },
+  {
+    "id": "tpq0451",
+    "place_name": "三和基督長老教會",
+    "address": "中正路929巷26號",
+    "village": "龍福里",
+    "remark": "1-8",
+    "seq": 451,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0197555,
+      "lng": 121.4113273
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0453",
+    "place_name": "丹鳳高中(901教室)",
+    "address": "龍安路72號",
+    "village": "龍鳳里",
+    "remark": "1-6",
+    "seq": 453,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.021049,
+      "lng": 121.416544
+    },
+    "power": 5
+  },
+  {
+    "id": "tpq0458",
+    "place_name": "裕民國小",
+    "address": "裕民街123號",
+    "village": "裕民里",
+    "remark": "1-7",
+    "seq": 458,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0218042,
+      "lng": 121.4180333
+    },
+    "power": 6
+  },
+  {
+    "id": "tpq0464",
+    "place_name": "雙富綠廊",
+    "address": "福營路378號（對面）",
+    "village": "富國里",
+    "remark": "1-7",
+    "seq": 464,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0275506,
+      "lng": 121.4231479
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0466",
+    "place_name": "富民集會所",
+    "address": "中正路787號",
+    "village": "富民里",
+    "remark": "1-12",
+    "seq": 466,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.028323,
+      "lng": 121.4216363
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0467",
+    "place_name": "雙富綠廊",
+    "address": "福營路378號(對面)",
+    "village": "富民里",
+    "remark": "13-21",
+    "seq": 467,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0275506,
+      "lng": 121.4231479
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0468",
+    "place_name": "長青文康活動中心",
+    "address": "後港一路19號Ｂ1",
+    "village": "後德里",
+    "remark": "1-7",
+    "seq": 468,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0260716,
+      "lng": 121.4240119
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0470",
+    "place_name": "福營國中",
+    "address": "富國路105號",
+    "village": "萬安里",
+    "remark": "1-9",
+    "seq": 470,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0252443,
+      "lng": 121.4226657
+    },
+    "power": 5
+  },
+  {
+    "id": "tpq0472",
+    "place_name": "後港市民活動中心",
+    "address": "建安街26巷4號2樓",
+    "village": "建福里",
+    "remark": "1-6",
+    "seq": 472,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0260018,
+      "lng": 121.4288067
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0474",
+    "place_name": "後港市民活動中心",
+    "address": "建安街26巷4號",
+    "village": "後港里",
+    "remark": "1-8",
+    "seq": 474,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0260018,
+      "lng": 121.4288067
+    },
+    "power": 4
+  },
+  {
+    "id": "tpq0481",
+    "place_name": "四維市民活動中心",
+    "address": "四維路186巷2號",
+    "village": "南港里",
+    "remark": "1-6",
+    "seq": 481,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0212417,
+      "lng": 121.4218229
+    },
+    "power": 4
+  },
+  {
+    "id": "tpq0485",
+    "place_name": "民安國小",
+    "address": "民安路261號",
+    "village": "建安里",
+    "remark": "1-9",
+    "seq": 485,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0218008,
+      "lng": 121.4279149
+    },
+    "power": 12
+  },
+  {
+    "id": "tpq0493",
+    "place_name": "光華國小",
+    "address": "龍安路452號",
+    "village": "成德里",
+    "remark": "1-8",
+    "seq": 493,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0181269,
+      "lng": 121.4253011
+    },
+    "power": 16
+  },
+  {
+    "id": "tpq0500",
+    "place_name": "四海一家文康室",
+    "address": "西盛街180號",
+    "village": "民有里",
+    "remark": "1-11",
+    "seq": 500,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.01887,
+      "lng": 121.428016
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0501",
+    "place_name": "中國海B.C棟社區會議室",
+    "address": "西盛街153巷6號",
+    "village": "民有里",
+    "remark": "12-20",
+    "seq": 501,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.017679,
+      "lng": 121.42909
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0515",
+    "place_name": "民生社會社區（多元會議室）",
+    "address": "民安西路382號2樓",
+    "village": "光華里",
+    "remark": "1-9",
+    "seq": 515,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0095098,
+      "lng": 121.4294528
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0516",
+    "place_name": "民生社會社區（視聽娛樂室）",
+    "address": "民安西路380號2樓",
+    "village": "光華里",
+    "remark": "10-17",
+    "seq": 516,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0106117,
+      "lng": 121.4281785
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0517",
+    "place_name": "民生社會社區（舞蹈韻律室）",
+    "address": "民安西路392號2樓",
+    "village": "光華里",
+    "remark": "18-23",
+    "seq": 517,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0103702,
+      "lng": 121.4284962
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0519",
+    "place_name": "西盛市民活動中心",
+    "address": "民安路393號",
+    "village": "西盛里",
+    "remark": "1-5,19,22",
+    "seq": 519,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.022972,
+      "lng": 121.4324814
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0520",
+    "place_name": "華新麗華股份有限公司",
+    "address": "新樹路256號",
+    "village": "西盛里",
+    "remark": "7,8,23",
+    "seq": 520,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0172986,
+      "lng": 121.432863
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0521",
+    "place_name": "享奎股份有限公司",
+    "address": "新樹路529號",
+    "village": "西盛里",
+    "remark": "12,13,20,21",
+    "seq": 521,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0172986,
+      "lng": 121.432863
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0522",
+    "place_name": "中華電線電纜公司",
+    "address": "新樹路290號",
+    "village": "西盛里",
+    "remark": "6,24,9-11",
+    "seq": 522,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0172986,
+      "lng": 121.432863
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0523",
+    "place_name": "民宅(現代東京)",
+    "address": "新樹路629之8號",
+    "village": "西盛里",
+    "remark": "25-29",
+    "seq": 523,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0172986,
+      "lng": 121.432863
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0524",
+    "place_name": "民宅",
+    "address": "新樹路687巷13號",
+    "village": "西盛里",
+    "remark": "14-18",
+    "seq": 524,
+    "county": "TPQ",
+    "town": "新莊區",
+    "location": {
+      "lat": 25.0022994,
+      "lng": 121.4326624
+    },
+    "power": 1
+  }
+]

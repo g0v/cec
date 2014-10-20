@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tpq1689",
+    "place_name": "建德市民活動中心",
+    "address": "中正一路建德巷11號",
+    "village": "建德里",
+    "remark": "全里",
+    "seq": 1689,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.9564305,
+      "lng": 121.3644804
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1690",
+    "place_name": "東鶯市民活動中心",
+    "address": "文化路215號",
+    "village": "東鶯里",
+    "remark": "全里",
+    "seq": 1690,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.9534381,
+      "lng": 121.3546061
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1691",
+    "place_name": "宏德宮",
+    "address": "中正一路301巷1號",
+    "village": "北鶯里",
+    "remark": "1-6,12-20",
+    "seq": 1691,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.952882,
+      "lng": 121.352445
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1693",
+    "place_name": "西鶯活動中心",
+    "address": "中正一路203號",
+    "village": "西鶯里",
+    "remark": "1-8,16,17",
+    "seq": 1693,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.95711,
+      "lng": 121.353501
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1694",
+    "place_name": "新北市立圖書館鶯歌分館(林長壽圖書館)",
+    "address": "中山路150號",
+    "village": "西鶯里",
+    "remark": "9-15,18",
+    "seq": 1694,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.9574289,
+      "lng": 121.349591
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1695",
+    "place_name": "中鶯舊集會所",
+    "address": "建國路公有市場旁",
+    "village": "中鶯里",
+    "remark": "全里",
+    "seq": 1695,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.9534921,
+      "lng": 121.3480084
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1696",
+    "place_name": "鶯歌長老教會",
+    "address": "光復街11號",
+    "village": "南鶯里",
+    "remark": "1-13",
+    "seq": 1696,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.955115,
+      "lng": 121.351345
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1697",
+    "place_name": "建國國小",
+    "address": "育英街2號",
+    "village": "南鶯里",
+    "remark": "14-24",
+    "seq": 1697,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.9549871,
+      "lng": 121.3468031
+    },
+    "power": 5
+  },
+  {
+    "id": "tpq1702",
+    "place_name": "二甲市民活動中心",
+    "address": "二甲路36之2號",
+    "village": "二甲里",
+    "remark": "全里",
+    "seq": 1702,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.9358336,
+      "lng": 121.3385645
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1703",
+    "place_name": "二橋國小",
+    "address": "中正三路106號",
+    "village": "二橋里",
+    "remark": "1,2,26",
+    "seq": 1703,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.940845,
+      "lng": 121.337613
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1705",
+    "place_name": "鶯歌高職",
+    "address": "中正三路154號",
+    "village": "二橋里",
+    "remark": "3-6,22,23",
+    "seq": 1705,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.9393432,
+      "lng": 121.335057
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1706",
+    "place_name": "二橋市民活動中心",
+    "address": "中正三路337號",
+    "village": "二橋里",
+    "remark": "7-21",
+    "seq": 1706,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.935175,
+      "lng": 121.327526
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1707",
+    "place_name": "尖山市民活動中心",
+    "address": "尖山路193號",
+    "village": "尖山里",
+    "remark": "1-3,11,12",
+    "seq": 1707,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.9469,
+      "lng": 121.34324
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1708",
+    "place_name": "尖山國中",
+    "address": "國中街1號",
+    "village": "尖山里",
+    "remark": "4-8",
+    "seq": 1708,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.9436834,
+      "lng": 121.3421355
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1710",
+    "place_name": "鶯歌衛生所",
+    "address": "文化路389號",
+    "village": "南靖里",
+    "remark": "1-6,12-14",
+    "seq": 1710,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.950582,
+      "lng": 121.352538
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1711",
+    "place_name": "南靖市民活動中心",
+    "address": "文化路395號",
+    "village": "南靖里",
+    "remark": "7,8,15,17-19",
+    "seq": 1711,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.950284,
+      "lng": 121.352776
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1712",
+    "place_name": "三鶯路福德宮",
+    "address": "三鶯路92號",
+    "village": "南靖里",
+    "remark": "9-11,16,20",
+    "seq": 1712,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.9433203,
+      "lng": 121.358398
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1713",
+    "place_name": "同慶市民活動中心",
+    "address": "尖山埔路104號",
+    "village": "同慶里",
+    "remark": "全里",
+    "seq": 1713,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.9512086,
+      "lng": 121.3468928
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1714",
+    "place_name": "昌福國小",
+    "address": "永明街22號",
+    "village": "永昌里",
+    "remark": "1-3,20,21",
+    "seq": 1714,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.9558709,
+      "lng": 121.3393858
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq1717",
+    "place_name": "鶯歌國中",
+    "address": "尖山埔路108號",
+    "village": "永昌里",
+    "remark": "9,10,13",
+    "seq": 1717,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.9504628,
+      "lng": 121.3448645
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1719",
+    "place_name": "永吉市民活動中心",
+    "address": "德昌二街3巷1號之1",
+    "village": "永吉里",
+    "remark": "1-10",
+    "seq": 1719,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.9575278,
+      "lng": 121.3332406
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1720",
+    "place_name": "永吉老人休閒中心",
+    "address": "鶯桃路206巷24弄30之1號",
+    "village": "永吉里",
+    "remark": "11-15,17-22",
+    "seq": 1720,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.9595085,
+      "lng": 121.3376792
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1721",
+    "place_name": "永福宮",
+    "address": "鶯桃路296巷55弄",
+    "village": "永吉里",
+    "remark": "16,23-32",
+    "seq": 1721,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.9618804,
+      "lng": 121.3362908
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1722",
+    "place_name": "鳳祥市民活動中心",
+    "address": "鶯桃路381巷2弄15號",
+    "village": "鳳祥里",
+    "remark": "1-11",
+    "seq": 1722,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.9637719,
+      "lng": 121.332456
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1723",
+    "place_name": "鳳鳴國中",
+    "address": "永和街33號",
+    "village": "鳳祥里",
+    "remark": "12-23",
+    "seq": 1723,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.9671451,
+      "lng": 121.3318568
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq1725",
+    "place_name": "鳳鳴國小",
+    "address": "永和街120號",
+    "village": "鳳鳴里",
+    "remark": "1-6",
+    "seq": 1725,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.969172,
+      "lng": 121.334826
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1726",
+    "place_name": "鳳鳴市民活動中心",
+    "address": "永和街34巷8號",
+    "village": "鳳鳴里",
+    "remark": "7-18",
+    "seq": 1726,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.9674932,
+      "lng": 121.3332341
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1728",
+    "place_name": "鳳福市民活動中心",
+    "address": "鳳吉一街167之1號",
+    "village": "鳳福里",
+    "remark": "1-7",
+    "seq": 1728,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.9768676,
+      "lng": 121.331244
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1730",
+    "place_name": "福德祠(長壽俱樂部)",
+    "address": "福隆一街79之1號",
+    "village": "鳳福里",
+    "remark": "13-18,23,24,26-29",
+    "seq": 1730,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.9711362,
+      "lng": 121.3241675
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1731",
+    "place_name": "謝文成宅",
+    "address": "大湖路530巷35號",
+    "village": "大湖里",
+    "remark": "1-4,14-17",
+    "seq": 1731,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.961587,
+      "lng": 121.342535
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1732",
+    "place_name": "大湖市民活動中心",
+    "address": "明圓街41號",
+    "village": "大湖里",
+    "remark": "7-13,18",
+    "seq": 1732,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.9775446,
+      "lng": 121.3365461
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1733",
+    "place_name": "簡義木宅",
+    "address": "大湖路728號",
+    "village": "大湖里",
+    "remark": "5,6,19-24",
+    "seq": 1733,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.9769911,
+      "lng": 121.3324184
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1734",
+    "place_name": "新北市立鶯歌幼兒園(地下室）",
+    "address": "大湖路336號",
+    "village": "中湖里",
+    "remark": "1-7,26,27",
+    "seq": 1734,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.9711911,
+      "lng": 121.3460244
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1735",
+    "place_name": "中湖市民活動中心",
+    "address": "中湖街23號",
+    "village": "中湖里",
+    "remark": "8-16",
+    "seq": 1735,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.9769485,
+      "lng": 121.3375851
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1736",
+    "place_name": "中湖國小",
+    "address": "中湖街25號",
+    "village": "中湖里",
+    "remark": "17-25",
+    "seq": 1736,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.9728344,
+      "lng": 121.3479281
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1737",
+    "place_name": "三湖宮",
+    "address": "三界公坑3號",
+    "village": "東湖里",
+    "remark": "全里",
+    "seq": 1737,
+    "county": "TPQ",
+    "town": "鶯歌區",
+    "location": {
+      "lat": 24.9614967,
+      "lng": 121.3427262
+    },
+    "power": 1
+  }
+]

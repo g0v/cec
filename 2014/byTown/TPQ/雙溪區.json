@@ -1,0 +1,272 @@
+[
+  {
+    "id": "tpq2225",
+    "place_name": "三忠廟",
+    "address": "長安街15號",
+    "village": "雙溪里",
+    "remark": "全里",
+    "seq": 2225,
+    "county": "TPQ",
+    "town": "雙溪區",
+    "location": {
+      "lat": 25.0348008,
+      "lng": 121.8649342
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2226",
+    "place_name": "新基市民活動中心",
+    "address": "新基北街64號",
+    "village": "新基里",
+    "remark": "8-14",
+    "seq": 2226,
+    "county": "TPQ",
+    "town": "雙溪區",
+    "location": {
+      "lat": 25.039148,
+      "lng": 121.8682668
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2227",
+    "place_name": "新基西街活動中心",
+    "address": "新基西街15號",
+    "village": "新基里",
+    "remark": "1-7,15-17",
+    "seq": 2227,
+    "county": "TPQ",
+    "town": "雙溪區",
+    "location": {
+      "lat": 25.03751,
+      "lng": 121.8657586
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2228",
+    "place_name": "三港市民活動中心",
+    "address": "三港7號",
+    "village": "三港里",
+    "remark": "全里",
+    "seq": 2228,
+    "county": "TPQ",
+    "town": "雙溪區",
+    "location": {
+      "lat": 25.061046,
+      "lng": 121.8761846
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2229",
+    "place_name": "牡丹市民活動中心",
+    "address": "下坑36號",
+    "village": "牡丹里",
+    "remark": "7-22,27-38",
+    "seq": 2229,
+    "county": "TPQ",
+    "town": "雙溪區",
+    "location": {
+      "lat": 25.0563892,
+      "lng": 121.8506596
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2230",
+    "place_name": "中正市民活動中心",
+    "address": "中正路64號",
+    "village": "牡丹里",
+    "remark": "1-6,23-26",
+    "seq": 2230,
+    "county": "TPQ",
+    "town": "雙溪區",
+    "location": {
+      "lat": 25.1075262,
+      "lng": 121.8062419
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2231",
+    "place_name": "牡丹國小",
+    "address": "政光3號",
+    "village": "三貂里",
+    "remark": "全里",
+    "seq": 2231,
+    "county": "TPQ",
+    "town": "雙溪區",
+    "location": {
+      "lat": 24.9971842,
+      "lng": 121.822098
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2232",
+    "place_name": "平林市民活動中心",
+    "address": "外平林52號",
+    "village": "平林里",
+    "remark": "4-12",
+    "seq": 2232,
+    "county": "TPQ",
+    "town": "雙溪區",
+    "location": {
+      "lat": 25.034989,
+      "lng": 121.8637226
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2233",
+    "place_name": "新北市立雙溪高中",
+    "address": "梅竹蹊3號",
+    "village": "平林里",
+    "remark": "1-3,13,14",
+    "seq": 2233,
+    "county": "TPQ",
+    "town": "雙溪區",
+    "location": {
+      "lat": 25.036519,
+      "lng": 121.860924
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2234",
+    "place_name": "上林國小",
+    "address": "內平林60號",
+    "village": "上林里",
+    "remark": "全里",
+    "seq": 2234,
+    "county": "TPQ",
+    "town": "雙溪區",
+    "location": {
+      "lat": 25.016943,
+      "lng": 121.7983522
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2235",
+    "place_name": "外柑市民活動中心",
+    "address": "外柑腳49號",
+    "village": "外柑里",
+    "remark": "全里",
+    "seq": 2235,
+    "county": "TPQ",
+    "town": "雙溪區",
+    "location": {
+      "lat": 25.016943,
+      "lng": 121.7983522
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2236",
+    "place_name": "長源市民活動中心",
+    "address": "柑腳19號",
+    "village": "長源里",
+    "remark": "全里",
+    "seq": 2236,
+    "county": "TPQ",
+    "town": "雙溪區",
+    "location": {
+      "lat": 25.0183861,
+      "lng": 121.8091723
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2237",
+    "place_name": "雙溪國小",
+    "address": "東榮街54號",
+    "village": "共和里",
+    "remark": "1-7",
+    "seq": 2237,
+    "county": "TPQ",
+    "town": "雙溪區",
+    "location": {
+      "lat": 25.0331703,
+      "lng": 121.8668683
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2238",
+    "place_name": "共和市民活動中心",
+    "address": "中山路41巷6號",
+    "village": "共和里",
+    "remark": "8-13",
+    "seq": 2238,
+    "county": "TPQ",
+    "town": "雙溪區",
+    "location": {
+      "lat": 25.031896,
+      "lng": 121.8660995
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2239",
+    "place_name": "保民殿",
+    "address": "魚杭1號",
+    "village": "魚行里",
+    "remark": "1-14",
+    "seq": 2239,
+    "county": "TPQ",
+    "town": "雙溪區",
+    "location": {
+      "lat": 24.9971842,
+      "lng": 121.822098
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2240",
+    "place_name": "合壽產業股份有限公司",
+    "address": "坤溪3之5號",
+    "village": "魚行里",
+    "remark": "15-29",
+    "seq": 2240,
+    "county": "TPQ",
+    "town": "雙溪區",
+    "location": {
+      "lat": 25.0237502,
+      "lng": 121.8756392
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2241",
+    "place_name": "泰平市民活動中心",
+    "address": "溪尾寮46號",
+    "village": "泰平里",
+    "remark": "1-15",
+    "seq": 2241,
+    "county": "TPQ",
+    "town": "雙溪區",
+    "location": {
+      "lat": 24.96127,
+      "lng": 121.819618
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2242",
+    "place_name": "聖寶宮",
+    "address": "烏山40號",
+    "village": "泰平里",
+    "remark": "16-20",
+    "seq": 2242,
+    "county": "TPQ",
+    "town": "雙溪區",
+    "location": {
+      "lat": 24.9372656,
+      "lng": 121.8204672
+    },
+    "power": 1
+  }
+]

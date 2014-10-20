@@ -1,0 +1,527 @@
+[
+  {
+    "id": "tpq0525",
+    "place_name": "蘆洲國小",
+    "address": "中正路100號",
+    "village": "光華里",
+    "remark": "1-8",
+    "seq": 525,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0841284,
+      "lng": 121.4699515
+    },
+    "power": 8
+  },
+  {
+    "id": "tpq0531",
+    "place_name": "民宅",
+    "address": "和平路111巷16號",
+    "village": "中路里",
+    "remark": "1-10",
+    "seq": 531,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0792709,
+      "lng": 121.467112
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0532",
+    "place_name": "中路市民活動中心",
+    "address": "光華路107巷11號",
+    "village": "中路里",
+    "remark": "11-17",
+    "seq": 532,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.082038,
+      "lng": 121.467521
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq0533",
+    "place_name": "永安華廈社區",
+    "address": "永安南路二段16巷18號",
+    "village": "永安里",
+    "remark": "1-7",
+    "seq": 533,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0769271,
+      "lng": 121.4675645
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0534",
+    "place_name": "永安華廈社區",
+    "address": "永安南路二段16巷12號",
+    "village": "永安里",
+    "remark": "8-13",
+    "seq": 534,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0769023,
+      "lng": 121.4676414
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0535",
+    "place_name": "永安華廈社區",
+    "address": "永安南路二段16巷10號",
+    "village": "永安里",
+    "remark": "14-19",
+    "seq": 535,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0769023,
+      "lng": 121.4676414
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0536",
+    "place_name": "成功國小",
+    "address": "長安街311號",
+    "village": "九芎里",
+    "remark": "1-8",
+    "seq": 536,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0859546,
+      "lng": 121.4574978
+    },
+    "power": 16
+  },
+  {
+    "id": "tpq0539",
+    "place_name": "永安市民活動中心",
+    "address": "永安南路二段134號",
+    "village": "延平里",
+    "remark": "1-7",
+    "seq": 539,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0792859,
+      "lng": 121.46278
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0543",
+    "place_name": "蘆洲國中",
+    "address": "中正路265號",
+    "village": "中原里",
+    "remark": "1-15",
+    "seq": 543,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0869185,
+      "lng": 121.4665637
+    },
+    "power": 5
+  },
+  {
+    "id": "tpq0549",
+    "place_name": "長安市民活動中心",
+    "address": "長安街96號4樓",
+    "village": "忠義里",
+    "remark": "1-7",
+    "seq": 549,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0806393,
+      "lng": 121.4619398
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0551",
+    "place_name": "忠義國小",
+    "address": "光榮路99號",
+    "village": "正義里",
+    "remark": "1,2,4,5",
+    "seq": 551,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0892105,
+      "lng": 121.4639043
+    },
+    "power": 6
+  },
+  {
+    "id": "tpq0557",
+    "place_name": "鷺江國中",
+    "address": "長樂路235號",
+    "village": "南港里",
+    "remark": "1-6,20",
+    "seq": 557,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0902502,
+      "lng": 121.4620383
+    },
+    "power": 6
+  },
+  {
+    "id": "tpq0573",
+    "place_name": "樓厝社區活動中心",
+    "address": "中興街72號",
+    "village": "樓厝里",
+    "remark": "1,22-24",
+    "seq": 573,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0879904,
+      "lng": 121.4821822
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0574",
+    "place_name": "民宅",
+    "address": "民族路236巷49號",
+    "village": "樓厝里",
+    "remark": "2-9,21",
+    "seq": 574,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0854502,
+      "lng": 121.47845
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0575",
+    "place_name": "民宅",
+    "address": "復興路234號",
+    "village": "樓厝里",
+    "remark": "10-20",
+    "seq": 575,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0894069,
+      "lng": 121.4794637
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0576",
+    "place_name": "鷺江國小",
+    "address": "民族路7號",
+    "village": "信義里",
+    "remark": "1-13",
+    "seq": 576,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0842803,
+      "lng": 121.4761723
+    },
+    "power": 12
+  },
+  {
+    "id": "tpq0578",
+    "place_name": "重陽市民活動中心",
+    "address": "集賢路221巷11號2樓",
+    "village": "玉清里",
+    "remark": "1-10",
+    "seq": 578,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0857186,
+      "lng": 121.483695
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0579",
+    "place_name": "重陽市民活動中心",
+    "address": "集賢路221巷11號",
+    "village": "玉清里",
+    "remark": "11-17",
+    "seq": 579,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0857186,
+      "lng": 121.483695
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0581",
+    "place_name": "護天宮",
+    "address": "復興路227巷26號",
+    "village": "復興里",
+    "remark": "1-7",
+    "seq": 581,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.091132,
+      "lng": 121.479439
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0583",
+    "place_name": "民宅",
+    "address": "民族路213號",
+    "village": "福安里",
+    "remark": "1-7",
+    "seq": 583,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.089422,
+      "lng": 121.47799
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0584",
+    "place_name": "鷺江社區活動中心",
+    "address": "民權路68巷4號",
+    "village": "福安里",
+    "remark": "8-11",
+    "seq": 584,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0873022,
+      "lng": 121.4750013
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0590",
+    "place_name": "永安兒童公園市民活動中心",
+    "address": "永安北路二段42之6號",
+    "village": "恆德里",
+    "remark": "7-9,18-21",
+    "seq": 590,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.081397,
+      "lng": 121.4817891
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0593",
+    "place_name": "仁復市民活動中心",
+    "address": "中山二路36巷7號",
+    "village": "仁復里",
+    "remark": "全里",
+    "seq": 593,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0826427,
+      "lng": 121.4742727
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0597",
+    "place_name": "玉清市民活動中心",
+    "address": "集賢路255號",
+    "village": "仁義里",
+    "remark": "1-5,15-18",
+    "seq": 597,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0895014,
+      "lng": 121.4761555
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0598",
+    "place_name": "仁義市民活動中心",
+    "address": "信義路222巷32弄31之1號",
+    "village": "仁義里",
+    "remark": "6-14",
+    "seq": 598,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.084386,
+      "lng": 121.480717
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0599",
+    "place_name": "湧蓮寺",
+    "address": "得勝街96號",
+    "village": "得勝里",
+    "remark": "1-7,9,21",
+    "seq": 599,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0832607,
+      "lng": 121.4713551
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0600",
+    "place_name": "蘆洲監理站",
+    "address": "中山二路163號",
+    "village": "得勝里",
+    "remark": "8,10-20",
+    "seq": 600,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0807512,
+      "lng": 121.4718001
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0601",
+    "place_name": "民生市民活動中心",
+    "address": "民生街129巷14號",
+    "village": "得仁里",
+    "remark": "1-9",
+    "seq": 601,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0783614,
+      "lng": 121.4728405
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0602",
+    "place_name": "民生市民活動中心",
+    "address": "民生街129巷16號",
+    "village": "得仁里",
+    "remark": "10-15",
+    "seq": 602,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0782689,
+      "lng": 121.472831
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0605",
+    "place_name": "景福宮活動中心",
+    "address": "信義路27巷7號",
+    "village": "樹德里",
+    "remark": "1,2,9-14",
+    "seq": 605,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0796423,
+      "lng": 121.4739087
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0606",
+    "place_name": "民宅",
+    "address": "成功路72巷15號",
+    "village": "樹德里",
+    "remark": "3-8",
+    "seq": 606,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0784579,
+      "lng": 121.4735241
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0607",
+    "place_name": "蘆洲代天府",
+    "address": "信義路30巷55號",
+    "village": "民和里",
+    "remark": "1-4,7-9",
+    "seq": 607,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0780955,
+      "lng": 121.4747286
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0608",
+    "place_name": "蘆洲奉安宮",
+    "address": "永安北路一段66巷2號",
+    "village": "民和里",
+    "remark": "5,6,10-15",
+    "seq": 608,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0766167,
+      "lng": 121.4764403
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0609",
+    "place_name": "仁愛國小",
+    "address": "民族路488號",
+    "village": "水湳里",
+    "remark": "1-7",
+    "seq": 609,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0912245,
+      "lng": 121.4705266
+    },
+    "power": 12
+  },
+  {
+    "id": "tpq0619",
+    "place_name": "三民高中",
+    "address": "三民路96號",
+    "village": "仁愛里",
+    "remark": "1-5",
+    "seq": 619,
+    "county": "TPQ",
+    "town": "蘆洲區",
+    "location": {
+      "lat": 25.0859048,
+      "lng": 121.4731687
+    },
+    "power": 5
+  }
+]

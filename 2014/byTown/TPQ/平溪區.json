@@ -1,0 +1,167 @@
+[
+  {
+    "id": "tpq2167",
+    "place_name": "薯榔市民活動中心",
+    "address": "靜安路二段63號",
+    "village": "薯榔里",
+    "remark": "全里",
+    "seq": 2167,
+    "county": "TPQ",
+    "town": "平溪區",
+    "location": {
+      "lat": 25.0345984,
+      "lng": 121.7537404
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2168",
+    "place_name": "菁桐市民活動中心",
+    "address": "菁桐街65之1號",
+    "village": "菁桐里",
+    "remark": "全里",
+    "seq": 2168,
+    "county": "TPQ",
+    "town": "平溪區",
+    "location": {
+      "lat": 25.02396,
+      "lng": 121.7251531
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2169",
+    "place_name": "白石市民活動中心",
+    "address": "靜安路二段241號",
+    "village": "白石里",
+    "remark": "全里",
+    "seq": 2169,
+    "county": "TPQ",
+    "town": "平溪區",
+    "location": {
+      "lat": 25.0345984,
+      "lng": 121.7537404
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2170",
+    "place_name": "平溪市民活動中心",
+    "address": "公園街17號",
+    "village": "石底里",
+    "remark": "全里",
+    "seq": 2170,
+    "county": "TPQ",
+    "town": "平溪區",
+    "location": {
+      "lat": 25.0251042,
+      "lng": 121.7379809
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2171",
+    "place_name": "平溪國小",
+    "address": "平溪街56號",
+    "village": "平溪里",
+    "remark": "全里",
+    "seq": 2171,
+    "county": "TPQ",
+    "town": "平溪區",
+    "location": {
+      "lat": 25.0292313,
+      "lng": 121.7364822
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2172",
+    "place_name": "嶺腳市民活動中心",
+    "address": "嶺腳寮14號",
+    "village": "嶺腳里",
+    "remark": "全里",
+    "seq": 2172,
+    "county": "TPQ",
+    "town": "平溪區",
+    "location": {
+      "lat": 25.0303776,
+      "lng": 121.7793344
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2173",
+    "place_name": "東勢市民活動中心",
+    "address": "竿蓁林62之1號",
+    "village": "東勢里",
+    "remark": "全里",
+    "seq": 2173,
+    "county": "TPQ",
+    "town": "平溪區",
+    "location": {
+      "lat": 25.0345984,
+      "lng": 121.7537404
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2174",
+    "place_name": "十分市民活動中心",
+    "address": "十分街159號",
+    "village": "十分里",
+    "remark": "全里",
+    "seq": 2174,
+    "county": "TPQ",
+    "town": "平溪區",
+    "location": {
+      "lat": 25.0430998,
+      "lng": 121.7767203
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2175",
+    "place_name": "十分國小",
+    "address": "十分街157號",
+    "village": "望古里",
+    "remark": "全里",
+    "seq": 2175,
+    "county": "TPQ",
+    "town": "平溪區",
+    "location": {
+      "lat": 25.0430998,
+      "lng": 121.7767203
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq2176",
+    "place_name": "南山市民活動中心",
+    "address": "靜安路三段232號",
+    "village": "南山里",
+    "remark": "全里",
+    "seq": 2176,
+    "county": "TPQ",
+    "town": "平溪區",
+    "location": {
+      "lat": 25.0345984,
+      "lng": 121.7537404
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2178",
+    "place_name": "平湖市民活動中心",
+    "address": "大湖10號",
+    "village": "平湖里",
+    "remark": "全里",
+    "seq": 2178,
+    "county": "TPQ",
+    "town": "平溪區",
+    "location": {
+      "lat": 25.0193152,
+      "lng": 121.6981908
+    },
+    "power": 1
+  }
+]

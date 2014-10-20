@@ -1,0 +1,930 @@
+[
+  {
+    "id": "tpe0984",
+    "place_name": "水源區民活動中心",
+    "address": "羅斯福路4段92號4樓",
+    "village": "水源里1-4,6",
+    "indigenous_village": "",
+    "phone": "23416721轉255",
+    "seq": 984,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0137429,
+      "lng": 121.535005
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0986",
+    "place_name": "南華高中",
+    "address": "汀州路3段58號",
+    "village": "富水里1-5,9,10",
+    "indigenous_village": "富水里全里",
+    "phone": "23686818",
+    "seq": 986,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0157229,
+      "lng": 121.531117
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0987",
+    "place_name": "富水區民活動中心",
+    "address": "水源路臨28號",
+    "village": "富水里6-8,11-12",
+    "indigenous_village": "",
+    "phone": "23656541",
+    "seq": 987,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0465658,
+      "lng": 121.5488669
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0988",
+    "place_name": "永興宮",
+    "address": "羅斯福路3段210巷12號",
+    "village": "文盛里1-5",
+    "indigenous_village": "文盛里全里",
+    "phone": "23670773",
+    "seq": 988,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.018118,
+      "lng": 121.52867
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0989",
+    "place_name": "中華福音神學院會客室",
+    "address": "汀州路3段101號",
+    "village": "文盛里6-10",
+    "indigenous_village": "",
+    "phone": "23659151",
+    "seq": 989,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.017144,
+      "lng": 121.529566
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0990",
+    "place_name": "螢橋國中",
+    "address": "汀州路3段4號",
+    "village": "林興里1-7",
+    "indigenous_village": "林興里全里",
+    "phone": "23688667轉234",
+    "seq": 990,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0193552,
+      "lng": 121.5262353
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0992",
+    "place_name": "客家主題園區一樓多功能教室",
+    "address": "汀州路3段2號",
+    "village": "林興里17-21",
+    "indigenous_village": "",
+    "phone": "23691198轉102",
+    "seq": 992,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0202345,
+      "lng": 121.5254259
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0993",
+    "place_name": "河堤國小",
+    "address": "汀州路2段180號",
+    "village": "河堤里1-6",
+    "indigenous_village": "河堤里全里",
+    "phone": "23677144轉32",
+    "seq": 993,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0232298,
+      "lng": 121.522699
+    },
+    "power": 5
+  },
+  {
+    "id": "tpe0996",
+    "place_name": "王貫英先生紀念圖書館（視聽室）",
+    "address": "汀州路2段265號",
+    "village": "頂東里13-17",
+    "indigenous_village": "",
+    "phone": "23678734",
+    "seq": 996,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0225453,
+      "lng": 121.5238039
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0997",
+    "place_name": "十普寺",
+    "address": "南昌路2段140號",
+    "village": "頂東里8-12",
+    "indigenous_village": "頂東里全里",
+    "phone": "23653701",
+    "seq": 997,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0252509,
+      "lng": 121.5228224
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0998",
+    "place_name": "金融研訓院",
+    "address": "羅斯福路3段62號",
+    "village": "頂東里5-7,18-20,22",
+    "indigenous_village": "",
+    "phone": "33653604",
+    "seq": 998,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0212309,
+      "lng": 121.527174
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0999",
+    "place_name": "保固大樓1樓大廳",
+    "address": "羅斯福路3段100號",
+    "village": "頂東里1-4,21,23-24",
+    "indigenous_village": "",
+    "phone": "23679498",
+    "seq": 999,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0213532,
+      "lng": 121.5271049
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1002",
+    "place_name": "莆仙同鄉會",
+    "address": "同安街90號",
+    "village": "網溪里1,3,5,11,14,20,24",
+    "indigenous_village": "網溪里全里",
+    "phone": "23654837",
+    "seq": 1002,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.021621,
+      "lng": 121.52014
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1003",
+    "place_name": "河堤國小",
+    "address": "汀洲路2段180號",
+    "village": "網溪里4,6,7,13,15,16",
+    "indigenous_village": "",
+    "phone": "23677561",
+    "seq": 1003,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0232298,
+      "lng": 121.522699
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1004",
+    "place_name": "強恕中學禮堂旁停車場",
+    "address": "汀州路2段143號",
+    "village": "板溪里1-6,8",
+    "indigenous_village": "",
+    "phone": "23656574",
+    "seq": 1004,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0250164,
+      "lng": 121.5199408
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1006",
+    "place_name": "基督教廈門街浸信會",
+    "address": "廈門街81巷20號",
+    "village": "螢圃里2-3,9-10,12,14,15,17,18",
+    "indigenous_village": "",
+    "phone": "23687582轉211",
+    "seq": 1006,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0242949,
+      "lng": 121.5192893
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1007",
+    "place_name": "通法禪寺",
+    "address": "廈門街34巷15號",
+    "village": "螢圃里1,4,5,21-26",
+    "indigenous_village": "螢圃里全里",
+    "phone": "23653573",
+    "seq": 1007,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0260964,
+      "lng": 121.5170223
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1008",
+    "place_name": "螢橋國小",
+    "address": "詔安街29號",
+    "village": "螢圃里6-8,11,13,16,19,20",
+    "indigenous_village": "",
+    "phone": "23054620轉109",
+    "seq": 1008,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0250745,
+      "lng": 121.514332
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe1012",
+    "place_name": "古亭國中",
+    "address": "中華路2段465號",
+    "village": "永功里1-7",
+    "indigenous_village": "",
+    "phone": "23090986轉511",
+    "seq": 1012,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0246115,
+      "lng": 121.5110468
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe1016",
+    "place_name": "永昌里里民活動場所",
+    "address": "汀州路1段242巷17號",
+    "village": "永昌里1-6",
+    "indigenous_village": "",
+    "phone": "23073916",
+    "seq": 1016,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0271042,
+      "lng": 121.5098648
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1017",
+    "place_name": "聖維雅納天主堂",
+    "address": "詔安街236號",
+    "village": "永昌里14-21",
+    "indigenous_village": "",
+    "phone": "23073916",
+    "seq": 1017,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.026712,
+      "lng": 121.5091512
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1018",
+    "place_name": "榮美基督教協會",
+    "address": "中華路2段441巷10號",
+    "village": "永昌里7-13",
+    "indigenous_village": "永昌里全里",
+    "phone": "23378231",
+    "seq": 1018,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0257355,
+      "lng": 121.5092066
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1019",
+    "place_name": "國語實驗小學1年5班教室",
+    "address": "南海路58號",
+    "village": "龍興里1-7,9,12",
+    "indigenous_village": "",
+    "phone": "23033555轉600",
+    "seq": 1019,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0307543,
+      "lng": 121.5104794
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe1021",
+    "place_name": "忠義國小",
+    "address": "中華路2段307巷17號",
+    "village": "忠勤里1-10",
+    "indigenous_village": "忠勤里全里",
+    "phone": "23038752",
+    "seq": 1021,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.02963,
+      "lng": 121.5063464
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe1027",
+    "place_name": "南門國小",
+    "address": "廣州街6號",
+    "village": "愛國里1-8",
+    "indigenous_village": "愛國里全里",
+    "phone": "23715052轉401",
+    "seq": 1027,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0352657,
+      "lng": 121.5090687
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe1031",
+    "place_name": "建國中",
+    "address": "南海路56號",
+    "village": "龍光里1-8",
+    "indigenous_village": "",
+    "phone": "23034381轉501",
+    "seq": 1031,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0311997,
+      "lng": 121.5121518
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1033",
+    "place_name": "南福宮文教活動中心",
+    "address": "南昌路2段42巷2號",
+    "village": "南福里1-2,5-8",
+    "indigenous_village": "",
+    "phone": "23975252",
+    "seq": 1033,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0273369,
+      "lng": 121.519967
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1034",
+    "place_name": "南福宮",
+    "address": "和平西路1段55巷1號",
+    "village": "南福里9-12,14",
+    "indigenous_village": "",
+    "phone": "23975252",
+    "seq": 1034,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.027025,
+      "lng": 121.519892
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1035",
+    "place_name": "臺北市立聯合醫院婦幼院區第二醫療大樓",
+    "address": "福州街10巷7號",
+    "village": "南福里3-4,13,26-29",
+    "indigenous_village": "",
+    "phone": "23916470",
+    "seq": 1035,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0297028,
+      "lng": 121.5197554
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1036",
+    "place_name": "臺灣基督長老教會臺北南門教會禮拜堂",
+    "address": "重慶南路3段27巷4號",
+    "village": "南福里15-20",
+    "indigenous_village": "南福里全里",
+    "phone": "23411016",
+    "seq": 1036,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.028516,
+      "lng": 121.516018
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1037",
+    "place_name": "臺北自來水事業處西區營業分處",
+    "address": "牯嶺街38號",
+    "village": "南福里21-25",
+    "indigenous_village": "",
+    "phone": "33431678",
+    "seq": 1037,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0297154,
+      "lng": 121.5164992
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1038",
+    "place_name": "臺北市立聯合醫院和平院區中正門診部",
+    "address": "牯嶺街24號1樓",
+    "village": "龍福里1-6",
+    "indigenous_village": "",
+    "phone": "23215158",
+    "seq": 1038,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0304292,
+      "lng": 121.5160121
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1039",
+    "place_name": "臺灣菸酒股份有限公司（大禮堂）",
+    "address": "南昌路1段4號後門",
+    "village": "龍福里7-13",
+    "indigenous_village": "",
+    "phone": "23214567轉315",
+    "seq": 1039,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0340699,
+      "lng": 121.514877
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1040",
+    "place_name": "臺北市中正區健康服務中心",
+    "address": "牯嶺街24號4樓",
+    "village": "龍福里14-21",
+    "indigenous_village": "龍福里全里",
+    "phone": "23215158轉262",
+    "seq": 1040,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0304292,
+      "lng": 121.5160121
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1041",
+    "place_name": "中正國中",
+    "address": "愛國東路158號",
+    "village": "新營里1-4,10",
+    "indigenous_village": "",
+    "phone": "23916697轉511",
+    "seq": 1041,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0323588,
+      "lng": 121.5219754
+    },
+    "power": 5
+  },
+  {
+    "id": "tpe1046",
+    "place_name": "衡陽108大樓",
+    "address": "衡陽路108號1樓",
+    "village": "建國里1-6",
+    "indigenous_village": "建國里全里",
+    "phone": "23830377",
+    "seq": 1046,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.042133,
+      "lng": 121.510129
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1047",
+    "place_name": "臺北市臺灣省城隍廟",
+    "address": "武昌街1段14號",
+    "village": "光復里4-9",
+    "indigenous_village": "",
+    "phone": "23615080",
+    "seq": 1047,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0440379,
+      "lng": 121.512715
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1048",
+    "place_name": "福星國小",
+    "address": "中華路1段66號",
+    "village": "光復里1-3,11",
+    "indigenous_village": "",
+    "phone": "23144668",
+    "seq": 1048,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0467829,
+      "lng": 121.5089051
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1050",
+    "place_name": "曾氏民宅",
+    "address": "忠孝西路1段29巷7號",
+    "village": "黎明里1-4,11-13",
+    "indigenous_village": "黎明里全里",
+    "phone": "23610895",
+    "seq": 1050,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0464184,
+      "lng": 121.5191335
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1051",
+    "place_name": "臺灣土地銀行川堂",
+    "address": "館前路46號",
+    "village": "黎明里5-10",
+    "indigenous_village": "",
+    "phone": "23483126",
+    "seq": 1051,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0440769,
+      "lng": 121.5148958
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1052",
+    "place_name": "梅花區民活動中心",
+    "address": "林森北路5巷4號",
+    "village": "梅花里2-7,9-11",
+    "indigenous_village": "梅花里全里",
+    "phone": "23416721轉255",
+    "seq": 1052,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0451949,
+      "lng": 121.523806
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1053",
+    "place_name": "忠孝國小",
+    "address": "忠孝東路2段101號",
+    "village": "梅花里1,8,12-15",
+    "indigenous_village": "",
+    "phone": "23918170轉814",
+    "seq": 1053,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0429269,
+      "lng": 121.5315325
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1054",
+    "place_name": "中正公民會館",
+    "address": "忠孝東路1段108號8樓",
+    "village": "幸福里1-5",
+    "indigenous_village": "幸福里全里",
+    "phone": "23416721轉255",
+    "seq": 1054,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0442251,
+      "lng": 121.5248293
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1055",
+    "place_name": "臺北商業大學學生活動中心",
+    "address": "濟南路1段321號",
+    "village": "幸福里6-11",
+    "indigenous_village": "",
+    "phone": "23226142",
+    "seq": 1055,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0418977,
+      "lng": 121.5256616
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1057",
+    "place_name": "幸市區民活動中心",
+    "address": "臨沂街10巷1號",
+    "village": "幸市里1-4,6",
+    "indigenous_village": "幸市里全里",
+    "phone": "23416721轉255",
+    "seq": 1057,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0416819,
+      "lng": 121.530211
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1058",
+    "place_name": "停車場",
+    "address": "濟南路2段42號",
+    "village": "幸市里8,10-11,16-17",
+    "indigenous_village": "",
+    "phone": "23961266轉1820",
+    "seq": 1058,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0404329,
+      "lng": 121.5304131
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1059",
+    "place_name": "臺北市家庭暴力暨性侵害防治中心",
+    "address": "新生南路1段54巷5弄2號",
+    "village": "幸市里5,7,9,12-15",
+    "indigenous_village": "",
+    "phone": "23961996轉234",
+    "seq": 1059,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0411817,
+      "lng": 121.5321099
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1060",
+    "place_name": "東門國小",
+    "address": "仁愛路1段2之4號",
+    "village": "東門里1-5",
+    "indigenous_village": "",
+    "phone": "23414916",
+    "seq": 1060,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0386417,
+      "lng": 121.5208757
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe1063",
+    "place_name": "私立巨勝幼兒園",
+    "address": "金山南路1段67巷8號",
+    "village": "文北里2-5,13,18,24-25",
+    "indigenous_village": "文北里全里",
+    "phone": "23936965",
+    "seq": 1063,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0376382,
+      "lng": 121.5286995
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1064",
+    "place_name": "文北里里民活動場所",
+    "address": "杭州南路1段77巷3號1樓",
+    "village": "文北里1,6-12",
+    "indigenous_village": "",
+    "phone": "23218919",
+    "seq": 1064,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0392153,
+      "lng": 121.525984
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1065",
+    "place_name": "臺北市溫州同鄉會",
+    "address": "泰安街2巷9號",
+    "village": "文北里14-17,19-23,26-27",
+    "indigenous_village": "",
+    "phone": "23210930",
+    "seq": 1065,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0406778,
+      "lng": 121.5269588
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1066",
+    "place_name": "金甌女中203教室",
+    "address": "杭州南路2段1號",
+    "village": "文祥里1-5,14",
+    "indigenous_village": "文祥里全里",
+    "phone": "23577992",
+    "seq": 1066,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0291905,
+      "lng": 121.5217897
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1068",
+    "place_name": "基督教救恩堂",
+    "address": "杭州南路1段129號",
+    "village": "文祥里17-22",
+    "indigenous_village": "",
+    "phone": "23216988",
+    "seq": 1068,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0366702,
+      "lng": 121.524922
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1069",
+    "place_name": "孫睿亮診所",
+    "address": "金山南路1段121號",
+    "village": "文祥里7-8,11-12,15,16",
+    "indigenous_village": "",
+    "phone": "23926233",
+    "seq": 1069,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0360636,
+      "lng": 121.5278554
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1070",
+    "place_name": "幸安國小",
+    "address": "仁愛路3段22號",
+    "village": "三愛里1-5,13-14",
+    "indigenous_village": "",
+    "phone": "27074191",
+    "seq": 1070,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.037684,
+      "lng": 121.5349702
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe1071",
+    "place_name": "連雲禪苑",
+    "address": "連雲街74巷5號",
+    "village": "三愛里23-27",
+    "indigenous_village": "",
+    "phone": "23515258",
+    "seq": 1071,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0344793,
+      "lng": 121.5297491
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1072",
+    "place_name": "大雄精舍",
+    "address": "信義路2段271號",
+    "village": "三愛里15-20,22",
+    "indigenous_village": "",
+    "phone": "23411775",
+    "seq": 1072,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0337925,
+      "lng": 121.5319906
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe1073",
+    "place_name": "東門基督長老教會",
+    "address": "仁愛路2段76號",
+    "village": "三愛里7-12",
+    "indigenous_village": "三愛里全里",
+    "phone": "23513589",
+    "seq": 1073,
+    "county": "TPE",
+    "town": "中正區",
+    "location": {
+      "lat": 25.0380621,
+      "lng": 121.5302588
+    },
+    "power": 1
+  }
+]

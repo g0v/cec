@@ -1,0 +1,2597 @@
+[
+  {
+    "id": "tpq1196",
+    "place_name": "中和區公所路面搶修組",
+    "address": "永和路89巷2號",
+    "village": "中原里",
+    "remark": "1-4,9-13",
+    "seq": 1196,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.007682,
+      "lng": 121.4955176
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1197",
+    "place_name": "霹靂宮",
+    "address": "永和路514號地下室",
+    "village": "中原里",
+    "remark": "5-8,14,18-20",
+    "seq": 1197,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0078156,
+      "lng": 121.4906478
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1198",
+    "place_name": "城龍登科文康中心",
+    "address": "永和路128巷41號",
+    "village": "中原里",
+    "remark": "15-17,21-24",
+    "seq": 1198,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.006424,
+      "lng": 121.497913
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1199",
+    "place_name": "連和市民活動中心",
+    "address": "連城路54號",
+    "village": "連和里",
+    "remark": "1,2,16,18-23",
+    "seq": 1199,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.001663,
+      "lng": 121.497764
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1200",
+    "place_name": "四知新城活動中心",
+    "address": "連城路148號",
+    "village": "連和里",
+    "remark": "3-15,17",
+    "seq": 1200,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9985118,
+      "lng": 121.4953387
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1201",
+    "place_name": "美國華城(文康室)",
+    "address": "連城路89巷9號",
+    "village": "連城里",
+    "remark": "1-4,6,8,9,3742-46",
+    "seq": 1201,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.999089,
+      "lng": 121.497648
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1202",
+    "place_name": "連城里活動中心",
+    "address": "連城路171巷7號(安邦街16號)",
+    "village": "連城里",
+    "remark": "5,7,10-21,31-36,38",
+    "seq": 1202,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9967786,
+      "lng": 121.4967596
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1203",
+    "place_name": "美國華城EF棟(會議室)",
+    "address": "連城路89巷38號",
+    "village": "連城里",
+    "remark": "22-33,39-41,47,48",
+    "seq": 1203,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.99861,
+      "lng": 121.497553
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1204",
+    "place_name": "聖慈宮",
+    "address": "圓通路158巷9弄11號",
+    "village": "力行里",
+    "remark": "1-6,16-18,3235-45",
+    "seq": 1204,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.989063,
+      "lng": 121.488337
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1205",
+    "place_name": "力行里巡守崗亭",
+    "address": "圓通路176號旁",
+    "village": "力行里",
+    "remark": "7-15,34",
+    "seq": 1205,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9946273,
+      "lng": 121.4972683
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1206",
+    "place_name": "我的故鄉管委會",
+    "address": "圓通路240巷5號",
+    "village": "力行里",
+    "remark": "19-31,33",
+    "seq": 1206,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.99276,
+      "lng": 121.494218
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1207",
+    "place_name": "崇愛發展中心",
+    "address": "圓通路143之1號",
+    "village": "正行里",
+    "remark": "1-10",
+    "seq": 1207,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.995287,
+      "lng": 121.498811
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1209",
+    "place_name": "天喜花園社區活動中心",
+    "address": "中正路167巷27號",
+    "village": "德行里",
+    "remark": "1-12,38-41",
+    "seq": 1209,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9925401,
+      "lng": 121.4992018
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1210",
+    "place_name": "捷運森林社區活動中心",
+    "address": "中正路211巷38號",
+    "village": "德行里",
+    "remark": "13-21,24-27",
+    "seq": 1210,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9926577,
+      "lng": 121.4976198
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1211",
+    "place_name": "國泰晶鑽社區活動中心",
+    "address": "圓通路297巷9弄8號",
+    "village": "德行里",
+    "remark": "22,23,28-37,42",
+    "seq": 1211,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.991691,
+      "lng": 121.4953262
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1212",
+    "place_name": "漳和國中",
+    "address": "廣福路39號",
+    "village": "枋寮里",
+    "remark": "1-20",
+    "seq": 1212,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.002636,
+      "lng": 121.5054821
+    },
+    "power": 8
+  },
+  {
+    "id": "tpq1214",
+    "place_name": "中和國小",
+    "address": "中和路100號",
+    "village": "漳和里",
+    "remark": "1-21",
+    "seq": 1214,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9999388,
+      "lng": 121.5015935
+    },
+    "power": 8
+  },
+  {
+    "id": "tpq1219",
+    "place_name": "福真里活動中心",
+    "address": "中山路二段312巷33弄29號旁",
+    "village": "福真里",
+    "remark": "1-10,31,32,34,35,37,38,42,43",
+    "seq": 1219,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.003693,
+      "lng": 121.495173
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1220",
+    "place_name": "德明幼兒園",
+    "address": "中山路二段312巷3弄7號",
+    "village": "福真里",
+    "remark": "11-30,33,36,39-41",
+    "seq": 1220,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.002641,
+      "lng": 121.495443
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1221",
+    "place_name": "一江社區會議室",
+    "address": "永和路9巷1號",
+    "village": "福善里",
+    "remark": "1-7,21-23,39-42",
+    "seq": 1221,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.003853,
+      "lng": 121.499092
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1222",
+    "place_name": "福善市民活動中心",
+    "address": "福美路301巷23號",
+    "village": "福善里",
+    "remark": "8-20,38",
+    "seq": 1222,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0040039,
+      "lng": 121.497637
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1223",
+    "place_name": "福善市民活動中心",
+    "address": "福美路301巷25號",
+    "village": "福善里",
+    "remark": "24-37",
+    "seq": 1223,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.003889,
+      "lng": 121.497733
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1224",
+    "place_name": "中和新城管委會",
+    "address": "莊敬路49巷20弄12號",
+    "village": "福美里",
+    "remark": "1,6,7,13-18,25-29,32",
+    "seq": 1224,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.005756,
+      "lng": 121.502269
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1225",
+    "place_name": "山北市民活動中心",
+    "address": "莊敬路49巷29弄2號",
+    "village": "福美里",
+    "remark": "2-5,20-23,3435",
+    "seq": 1225,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.006149,
+      "lng": 121.501556
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1227",
+    "place_name": "惜福社區中庭（B棟）",
+    "address": "永和路8巷7號",
+    "village": "福祥里",
+    "remark": "1-6,28-32",
+    "seq": 1227,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0123395,
+      "lng": 121.5146889
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1228",
+    "place_name": "美麗時代社區",
+    "address": "福祥路68號",
+    "village": "福祥里",
+    "remark": "7-12,35-38",
+    "seq": 1228,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0045839,
+      "lng": 121.499455
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1229",
+    "place_name": "大眾爺廟",
+    "address": "福美路256巷18之1號",
+    "village": "福祥里",
+    "remark": "13-27,33,34",
+    "seq": 1229,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.005918,
+      "lng": 121.497881
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1236",
+    "place_name": "自強游泳池側門",
+    "address": "中山路二段64巷7弄底",
+    "village": "佳和里",
+    "remark": "1-8,29-40",
+    "seq": 1236,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0046927,
+      "lng": 121.503129
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1237",
+    "place_name": "自強游泳池正門",
+    "address": "中山路二段64巷9號",
+    "village": "佳和里",
+    "remark": "9-11,14-17,24-27",
+    "seq": 1237,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0050059,
+      "lng": 121.503575
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1238",
+    "place_name": "雙和慈安宮",
+    "address": "中山路二段2巷63號",
+    "village": "佳和里",
+    "remark": "12,13,18-23,28",
+    "seq": 1238,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0073019,
+      "lng": 121.501584
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1239",
+    "place_name": "中和大同圖書閱覽室",
+    "address": "圓通路121巷5號",
+    "village": "新南里",
+    "remark": "1,4-10,12,2425,32",
+    "seq": 1239,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.995588,
+      "lng": 121.499546
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1240",
+    "place_name": "九玄宮",
+    "address": "景平路493巷12弄16號",
+    "village": "新南里",
+    "remark": "2,3,33-38",
+    "seq": 1240,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9907161,
+      "lng": 121.5238054
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1241",
+    "place_name": "中和社區管理委員會",
+    "address": "景平路610巷2號地下室",
+    "village": "新南里",
+    "remark": "11,13-23,26-31",
+    "seq": 1241,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9968514,
+      "lng": 121.5007795
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1242",
+    "place_name": "華南名人巷A棟庭院",
+    "address": "景平路431巷",
+    "village": "新南里",
+    "remark": "39-49",
+    "seq": 1242,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9950921,
+      "lng": 121.5007286
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1246",
+    "place_name": "騰達汽車有限公司",
+    "address": "中山路二段439巷1號",
+    "village": "平河里",
+    "remark": "1-7,17-30,42",
+    "seq": 1246,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0046469,
+      "lng": 121.48489
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1247",
+    "place_name": "連戰連勝社區活動中心",
+    "address": "中正路751巷3弄4號",
+    "village": "平河里",
+    "remark": "8-11,36-41,56-61",
+    "seq": 1247,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.999569,
+      "lng": 121.48424
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1248",
+    "place_name": "積穗國小",
+    "address": "員山路154號",
+    "village": "平河里",
+    "remark": "12-16,31-35,53-55",
+    "seq": 1248,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9991599,
+      "lng": 121.481461
+    },
+    "power": 6
+  },
+  {
+    "id": "tpq1249",
+    "place_name": "花園廣場社區媽媽教室",
+    "address": "中正路831號",
+    "village": "平河里",
+    "remark": "43-52",
+    "seq": 1249,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0022609,
+      "lng": 121.484601
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1250",
+    "place_name": "心中市大廈大廳",
+    "address": "中正路681號",
+    "village": "平河里",
+    "remark": "62-67",
+    "seq": 1250,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9965508,
+      "lng": 121.4849639
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1251",
+    "place_name": "聖中幼兒園",
+    "address": "新生街166巷18號",
+    "village": "信和里",
+    "remark": "1-5,22-24,32-35",
+    "seq": 1251,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0041779,
+      "lng": 121.4830501
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1252",
+    "place_name": "勝利幼兒園",
+    "address": "新生街186巷5弄13號",
+    "village": "信和里",
+    "remark": "6-13,25-29",
+    "seq": 1252,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.999222,
+      "lng": 121.48303
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1253",
+    "place_name": "八府龍鳳宮會議室",
+    "address": "員山路148巷23弄15號",
+    "village": "信和里",
+    "remark": "14-21,30,31,36-41",
+    "seq": 1253,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9978969,
+      "lng": 121.482258
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1254",
+    "place_name": "中正花園廣場社區會議室",
+    "address": "連城路469巷7弄27號",
+    "village": "仁和里",
+    "remark": "1-11,16,21,22,39-42",
+    "seq": 1254,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.994851,
+      "lng": 121.483711
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1255",
+    "place_name": "安邦幼兒園",
+    "address": "連城路477巷6弄1號",
+    "village": "仁和里",
+    "remark": "12-15,17,26-28,33-36",
+    "seq": 1255,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.994978,
+      "lng": 121.483027
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1256",
+    "place_name": "元護宮",
+    "address": "連城路469巷79弄2號",
+    "village": "仁和里",
+    "remark": "18-20,23-25,29-32,37,38",
+    "seq": 1256,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9939759,
+      "lng": 121.483525
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1257",
+    "place_name": "歡喜城社區活動中心",
+    "address": "連城路369號",
+    "village": "中正里",
+    "remark": "1-6,19,20,25-28,30,33,34",
+    "seq": 1257,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.996133,
+      "lng": 121.487313
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1258",
+    "place_name": "育心寶貝幼兒園(操場)",
+    "address": "連城路389巷11號",
+    "village": "中正里",
+    "remark": "7-18,21-24,29,31,32",
+    "seq": 1258,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0020709,
+      "lng": 121.499137
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1259",
+    "place_name": "和東市民活動中心",
+    "address": "連城路263巷4號",
+    "village": "建和里",
+    "remark": "1-9,27",
+    "seq": 1259,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9966284,
+      "lng": 121.4919263
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1260",
+    "place_name": "和東市民活動中心",
+    "address": "連城路263巷4弄2號",
+    "village": "建和里",
+    "remark": "10-15,28-31",
+    "seq": 1260,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9957864,
+      "lng": 121.4918062
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1261",
+    "place_name": "民宅",
+    "address": "錦和路93巷3號",
+    "village": "建和里",
+    "remark": "16-26,32-34",
+    "seq": 1261,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.995712,
+      "lng": 121.4901556
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1262",
+    "place_name": "民宅",
+    "address": "連城路319巷3弄10號",
+    "village": "中山里",
+    "remark": "1,4-9,15,16,20,21",
+    "seq": 1262,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9955638,
+      "lng": 121.4896228
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1263",
+    "place_name": "民宅",
+    "address": "錦和路196巷4弄5號",
+    "village": "中山里",
+    "remark": "2,3,10-14,17-19,22",
+    "seq": 1263,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9954453,
+      "lng": 121.4905874
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1264",
+    "place_name": "全晟幼兒園",
+    "address": "連城路219巷9號",
+    "village": "碧河里",
+    "remark": "1,2,5,6,8,1011,14-17,26,27",
+    "seq": 1264,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9967112,
+      "lng": 121.4948901
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1265",
+    "place_name": "碧河宮",
+    "address": "連城路249巷2號",
+    "village": "碧河里",
+    "remark": "3,4,7,9,12,13,18-25",
+    "seq": 1265,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.002472,
+      "lng": 121.499235
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1266",
+    "place_name": "新南山語文技藝補習班",
+    "address": "興南路二段89巷4號1樓",
+    "village": "正南里",
+    "remark": "1-12",
+    "seq": 1266,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.986214,
+      "lng": 121.507728
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1267",
+    "place_name": "凱旋大廈活動中心",
+    "address": "華新街126號",
+    "village": "正南里",
+    "remark": "13-20,23",
+    "seq": 1267,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9827337,
+      "lng": 121.5082323
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1268",
+    "place_name": "游氏祠堂",
+    "address": "華新街192巷6弄9號",
+    "village": "正南里",
+    "remark": "21,22,24-30",
+    "seq": 1268,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9832201,
+      "lng": 121.5065735
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1269",
+    "place_name": "頂南市民活動中心",
+    "address": "興南路二段159巷28號",
+    "village": "頂南里",
+    "remark": "1-13",
+    "seq": 1269,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9827238,
+      "lng": 121.5053275
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1270",
+    "place_name": "飛駝社區管理委員會",
+    "address": "興南路二段159巷2號",
+    "village": "頂南里",
+    "remark": "14-26",
+    "seq": 1270,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.983398,
+      "lng": 121.504858
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1271",
+    "place_name": "華夏技術學院(教學大樓)",
+    "address": "工專路111號",
+    "village": "華新里",
+    "remark": "1,38-48",
+    "seq": 1271,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9810876,
+      "lng": 121.5075153
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1273",
+    "place_name": "竹林高中",
+    "address": "華新街143巷12號",
+    "village": "華新里",
+    "remark": "5-15",
+    "seq": 1273,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9799183,
+      "lng": 121.5060253
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1275",
+    "place_name": "興南國小",
+    "address": "興南路一段135巷24號",
+    "village": "東南里",
+    "remark": "1-10,12",
+    "seq": 1275,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9870353,
+      "lng": 121.5096652
+    },
+    "power": 6
+  },
+  {
+    "id": "tpq1278",
+    "place_name": "飛駝市民活動中心",
+    "address": "忠孝街48號2樓",
+    "village": "華南里",
+    "remark": "1,4,6,7,9-1221,22",
+    "seq": 1278,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9834121,
+      "lng": 121.511103
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1279",
+    "place_name": "桔運青山管委會活動中心",
+    "address": "忠孝街2巷14弄9號",
+    "village": "華南里",
+    "remark": "2,3,5,8,18-2",
+    "seq": 1279,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.981018,
+      "lng": 121.510571
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1280",
+    "place_name": "放生寺",
+    "address": "忠孝街108號",
+    "village": "華南里",
+    "remark": "13-17,23,24",
+    "seq": 1280,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9850193,
+      "lng": 121.5122272
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1283",
+    "place_name": "中和國中",
+    "address": "興南路二段3巷17號",
+    "village": "忠孝里",
+    "remark": "6-13,35-38",
+    "seq": 1283,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9862444,
+      "lng": 121.5086327
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1285",
+    "place_name": "崇南市民活動中心",
+    "address": "景新街496巷26弄2號",
+    "village": "崇南里",
+    "remark": "1-20",
+    "seq": 1285,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9863007,
+      "lng": 121.5131653
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1286",
+    "place_name": "名家花園社區活動中心",
+    "address": "景新街496巷33弄1號地下室",
+    "village": "崇南里",
+    "remark": "21-41",
+    "seq": 1286,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9859096,
+      "lng": 121.5137528
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1287",
+    "place_name": "興南市民活動中心",
+    "address": "信義街41巷12號",
+    "village": "興南里",
+    "remark": "1-18",
+    "seq": 1287,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9891875,
+      "lng": 121.511677
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1288",
+    "place_name": "興南市民活動中心",
+    "address": "信義街41巷16號",
+    "village": "興南里",
+    "remark": "19-37",
+    "seq": 1288,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9892915,
+      "lng": 121.510919
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1289",
+    "place_name": "受殿宮",
+    "address": "景新街467巷35弄2號",
+    "village": "景南里",
+    "remark": "1-21",
+    "seq": 1289,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9884268,
+      "lng": 121.5140295
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1290",
+    "place_name": "三介廟",
+    "address": "景新街467巷50弄20號",
+    "village": "景南里",
+    "remark": "22-34",
+    "seq": 1290,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.988089,
+      "lng": 121.516271
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1291",
+    "place_name": "景新國小",
+    "address": "景新街467巷37號",
+    "village": "景本里",
+    "remark": "1-10,21",
+    "seq": 1291,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9892174,
+      "lng": 121.5149504
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1292",
+    "place_name": "停車場",
+    "address": "景新街437巷31號旁",
+    "village": "景本里",
+    "remark": "11-20,22",
+    "seq": 1292,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9898858,
+      "lng": 121.5147527
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1293",
+    "place_name": "農民活動中心",
+    "address": "興南路三段52巷2之5號",
+    "village": "橫路里",
+    "remark": "全里",
+    "seq": 1293,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9763249,
+      "lng": 121.494381
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1294",
+    "place_name": "內南市民活動中心",
+    "address": "興南路二段242巷5號",
+    "village": "內南里",
+    "remark": "1-11",
+    "seq": 1294,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9827065,
+      "lng": 121.5027893
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1295",
+    "place_name": "大地新象社區中庭",
+    "address": "興南路二段142巷10號",
+    "village": "內南里",
+    "remark": "12-23,39",
+    "seq": 1295,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9839648,
+      "lng": 121.5031264
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1296",
+    "place_name": "福神宮",
+    "address": "興南路二段242巷3號旁",
+    "village": "內南里",
+    "remark": "24-38",
+    "seq": 1296,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9863748,
+      "lng": 121.5081242
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1297",
+    "place_name": "裕和祠土地公廟",
+    "address": "南山路320巷10弄6號旁",
+    "village": "壽南里",
+    "remark": "1-11,21-23",
+    "seq": 1297,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9866244,
+      "lng": 121.5070894
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1299",
+    "place_name": "歌德花園城活動中心",
+    "address": "興南路二段34巷57弄12號地下1樓",
+    "village": "福南里",
+    "remark": "1-13",
+    "seq": 1299,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9858151,
+      "lng": 121.5053645
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1301",
+    "place_name": "復興國小",
+    "address": "復興路301巷6號",
+    "village": "外南里",
+    "remark": "1-10",
+    "seq": 1301,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9896836,
+      "lng": 121.5018857
+    },
+    "power": 9
+  },
+  {
+    "id": "tpq1310",
+    "place_name": "中和區客家文化會館",
+    "address": "復興路280巷6號",
+    "village": "復興里",
+    "remark": "1-11,13,14,22,39-41,54,55",
+    "seq": 1310,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9910154,
+      "lng": 121.5024346
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1312",
+    "place_name": "兆元幼兒園",
+    "address": "復興路280巷46弄3號",
+    "village": "復興里",
+    "remark": "15,16,20,36-38,43-45,47-50,53",
+    "seq": 1312,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9910073,
+      "lng": 121.5018198
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1313",
+    "place_name": "和興里巡守隊崗亭前廣場",
+    "address": "板南路160號對面",
+    "village": "和興里",
+    "remark": "1-3,15-18,2025,26,29",
+    "seq": 1313,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9928022,
+      "lng": 121.5017493
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1314",
+    "place_name": "和興汽車商行",
+    "address": "中正路46號前",
+    "village": "和興里",
+    "remark": "4-14,19,21-24,27,28,30,42",
+    "seq": 1314,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9937665,
+      "lng": 121.502077
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1315",
+    "place_name": "北聖宮",
+    "address": "復興路280巷18弄11號(板南路150號對面)",
+    "village": "和興里",
+    "remark": "31-41",
+    "seq": 1315,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.994446,
+      "lng": 121.4970294
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1316",
+    "place_name": "巡守隊崗亭",
+    "address": "景新街273巷32號旁",
+    "village": "景平里",
+    "remark": "1-7,28-33",
+    "seq": 1316,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.99926,
+      "lng": 121.503281
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1317",
+    "place_name": "冠德新世界",
+    "address": "景平路153號",
+    "village": "景平里",
+    "remark": "11-27,34-41",
+    "seq": 1317,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9922769,
+      "lng": 121.5137265
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1318",
+    "place_name": "快易居管委會",
+    "address": "景平路290號",
+    "village": "景平里",
+    "remark": "8-10,42,43",
+    "seq": 1318,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9926714,
+      "lng": 121.5137324
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1319",
+    "place_name": "豪門大亨大廈管委會中庭",
+    "address": "興南路一段20號(由34巷進入)",
+    "village": "景新里",
+    "remark": "1-13,24-27",
+    "seq": 1319,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9913162,
+      "lng": 121.511248
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1320",
+    "place_name": "民宅",
+    "address": "興南路一段56巷32號(景新里辦公處旁)",
+    "village": "景新里",
+    "remark": "14-23,28-32",
+    "seq": 1320,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9908335,
+      "lng": 121.5111549
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1321",
+    "place_name": "台電K書中心",
+    "address": "和平街33號",
+    "village": "景福里",
+    "remark": "11-20,35-37,41,43,44",
+    "seq": 1321,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9916294,
+      "lng": 121.5066084
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1322",
+    "place_name": "景福市民活動中心",
+    "address": "和平街164巷2號",
+    "village": "景福里",
+    "remark": "21-34",
+    "seq": 1322,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9922288,
+      "lng": 121.5057947
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1324",
+    "place_name": "明仁大樓社區會議室",
+    "address": "明仁街15號",
+    "village": "景安里",
+    "remark": "1-4,11,18,2728",
+    "seq": 1324,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9956515,
+      "lng": 121.5060162
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1325",
+    "place_name": "台貿景安社區管委會",
+    "address": "景安路177巷19號地下室",
+    "village": "景安里",
+    "remark": "5-10,12,13,29-33",
+    "seq": 1325,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9940805,
+      "lng": 121.5054524
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1326",
+    "place_name": "景新幼兒園",
+    "address": "景新街231之6號",
+    "village": "景安里",
+    "remark": "14-16,19-21,34-39,41,42",
+    "seq": 1326,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9946849,
+      "lng": 121.5081888
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1327",
+    "place_name": "民宅",
+    "address": "安平路10號",
+    "village": "景安里",
+    "remark": "17,22-26,40,43,44",
+    "seq": 1327,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9940288,
+      "lng": 121.5092075
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1328",
+    "place_name": "新元幼兒園",
+    "address": "景安路82巷8弄3號",
+    "village": "景文里",
+    "remark": "1-7,18-20,22-29",
+    "seq": 1328,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9939181,
+      "lng": 121.5051919
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1329",
+    "place_name": "土地公廟",
+    "address": "景平路504巷10號",
+    "village": "景文里",
+    "remark": "8-17,21",
+    "seq": 1329,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.993676,
+      "lng": 121.5040092
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1330",
+    "place_name": "錦和市民活動中心",
+    "address": "圓通路369巷2號",
+    "village": "錦和里",
+    "remark": "1-5,8-11",
+    "seq": 1330,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.989371,
+      "lng": 121.491012
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1331",
+    "place_name": "錦和國小",
+    "address": "圓通路292號",
+    "village": "錦和里",
+    "remark": "6,7,13",
+    "seq": 1331,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9892888,
+      "lng": 121.4896609
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq1333",
+    "place_name": "中和新莊餐廳大樓",
+    "address": "圓通路365號",
+    "village": "錦昌里",
+    "remark": "全里",
+    "seq": 1333,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9896222,
+      "lng": 121.4912915
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1334",
+    "place_name": "灰磘里活動中心",
+    "address": "員山路26號",
+    "village": "灰磘里",
+    "remark": "全里",
+    "seq": 1334,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9860969,
+      "lng": 121.481801
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1335",
+    "place_name": "東德宮",
+    "address": "新生街112巷20號",
+    "village": "積穗里",
+    "remark": "1-4,13-19",
+    "seq": 1335,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0041329,
+      "lng": 121.4830913
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1336",
+    "place_name": "捷年高昇社區圖書室",
+    "address": "台新街5至35號",
+    "village": "積穗里",
+    "remark": "5-9,12,34-37",
+    "seq": 1336,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.994446,
+      "lng": 121.4970294
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1337",
+    "place_name": "元氣大鎮F棟會議室",
+    "address": "中山路三段37巷2號",
+    "village": "積穗里",
+    "remark": "38-41",
+    "seq": 1337,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0062025,
+      "lng": 121.4797448
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1338",
+    "place_name": "元氣大鎮G棟會議室",
+    "address": "中山路三段39號",
+    "village": "積穗里",
+    "remark": "42-45",
+    "seq": 1338,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.005313,
+      "lng": 121.477696
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1339",
+    "place_name": "廣福宮",
+    "address": "中山路三段63巷27號",
+    "village": "積穗里",
+    "remark": "10,11,32,33",
+    "seq": 1339,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.005799,
+      "lng": 121.479257
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1340",
+    "place_name": "江南園林活動中心",
+    "address": "中山路二段523巷35號",
+    "village": "積穗里",
+    "remark": "20-31",
+    "seq": 1340,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0036057,
+      "lng": 121.4820655
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1341",
+    "place_name": "民宅",
+    "address": "民治街134巷4號",
+    "village": "民享里",
+    "remark": "1-10",
+    "seq": 1341,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0020879,
+      "lng": 121.475232
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1342",
+    "place_name": "民宅",
+    "address": "民享街89巷4弄2號",
+    "village": "民享里",
+    "remark": "11-20",
+    "seq": 1342,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0008022,
+      "lng": 121.4749554
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1343",
+    "place_name": "捷和國際大樓中庭",
+    "address": "員山路502號",
+    "village": "員山里",
+    "remark": "1-7,9,10,23,24,36",
+    "seq": 1343,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.007452,
+      "lng": 121.479782
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1344",
+    "place_name": "飛躍21科技園區",
+    "address": "中山路三段102號",
+    "village": "員山里",
+    "remark": "8,11-21",
+    "seq": 1344,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0057827,
+      "lng": 121.4770471
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1345",
+    "place_name": "環球購物社教中心",
+    "address": "中山路三段120號",
+    "village": "員山里",
+    "remark": "22,25-35",
+    "seq": 1345,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0060706,
+      "lng": 121.4757201
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1346",
+    "place_name": "嘉穗市民活動中心",
+    "address": "民利街85巷4號",
+    "village": "嘉穗里",
+    "remark": "1-7",
+    "seq": 1346,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9980823,
+      "lng": 121.4782789
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1350",
+    "place_name": "中和牧心堂",
+    "address": "連城路523巷13弄2號",
+    "village": "文元里",
+    "remark": "21-24,31-35",
+    "seq": 1350,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9938741,
+      "lng": 121.4815477
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1351",
+    "place_name": "積穗國中",
+    "address": "民安街66號",
+    "village": "嘉新里",
+    "remark": "1-10,19,20",
+    "seq": 1351,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0003134,
+      "lng": 121.4796959
+    },
+    "power": 5
+  },
+  {
+    "id": "tpq1356",
+    "place_name": "安穗市民活動中心",
+    "address": "員山路294巷7號",
+    "village": "安穗里",
+    "remark": "1-3,10,13,17",
+    "seq": 1356,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0025049,
+      "lng": 121.481886
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1359",
+    "place_name": "日新國宅",
+    "address": "中山路三段181巷20至30號地下室",
+    "village": "瑞穗里",
+    "remark": "1-9",
+    "seq": 1359,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.005156,
+      "lng": 121.472906
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1361",
+    "place_name": "私立中仁幼兒園",
+    "address": "民享街92巷23號",
+    "village": "明穗里",
+    "remark": "1-17",
+    "seq": 1361,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.999559,
+      "lng": 121.473783
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1362",
+    "place_name": "明穗市民活動中心",
+    "address": "民享街114巷9號",
+    "village": "明穗里",
+    "remark": "18-33",
+    "seq": 1362,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.999223,
+      "lng": 121.474054
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1363",
+    "place_name": "明德市民活動中心",
+    "address": "民德路197號（明德公園內）",
+    "village": "清穗里",
+    "remark": "1-4,12-19",
+    "seq": 1363,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9983934,
+      "lng": 121.4683509
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1365",
+    "place_name": "自強國小",
+    "address": "莒光路200號（後門進入）",
+    "village": "自強里",
+    "remark": "1-9",
+    "seq": 1365,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9983535,
+      "lng": 121.4718279
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq1368",
+    "place_name": "德穗國華市民活動中心",
+    "address": "國光街1號",
+    "village": "德穗里",
+    "remark": "1-7,17-20",
+    "seq": 1368,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0019935,
+      "lng": 121.4668165
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1369",
+    "place_name": "時代幼兒園",
+    "address": "莒光路84巷22號",
+    "village": "德穗里",
+    "remark": "8-16,30,31",
+    "seq": 1369,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.002134,
+      "lng": 121.471649
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1370",
+    "place_name": "尊爵富邑聯誼廳",
+    "address": "莒光路84巷46號",
+    "village": "德穗里",
+    "remark": "21-29,32",
+    "seq": 1370,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.003643,
+      "lng": 121.472049
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1371",
+    "place_name": "民生市民活動中心",
+    "address": "民生街28巷2之1號",
+    "village": "民生里",
+    "remark": "1-14,23",
+    "seq": 1371,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0062969,
+      "lng": 121.4709549
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1372",
+    "place_name": "民宅",
+    "address": "民生街28巷2號",
+    "village": "民生里",
+    "remark": "15-22,24-30",
+    "seq": 1372,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0064369,
+      "lng": 121.47136
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1373",
+    "place_name": "松柏幼兒園",
+    "address": "國光街112巷42號",
+    "village": "國光里",
+    "remark": "1-5,9-16",
+    "seq": 1373,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0025829,
+      "lng": 121.469636
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1374",
+    "place_name": "天下為公社區會議室",
+    "address": "民德路54號",
+    "village": "國光里",
+    "remark": "6-8,17-39",
+    "seq": 1374,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0023149,
+      "lng": 121.468678
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1375",
+    "place_name": "大順天廈社區活動中心",
+    "address": "民德路370號",
+    "village": "壽德里",
+    "remark": "1-3,5,27-31",
+    "seq": 1375,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.994497,
+      "lng": 121.465717
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1376",
+    "place_name": "壽德丙區管委會",
+    "address": "華順街136號",
+    "village": "壽德里",
+    "remark": "4,6-14",
+    "seq": 1376,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9962709,
+      "lng": 121.4650793
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1377",
+    "place_name": "壽德甲區管委會",
+    "address": "壽德街25號",
+    "village": "壽德里",
+    "remark": "15-26",
+    "seq": 1377,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0001157,
+      "lng": 121.480592
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1378",
+    "place_name": "華福市民活動中心",
+    "address": "民德路311號",
+    "village": "明德里",
+    "remark": "1-4,14-17",
+    "seq": 1378,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9981929,
+      "lng": 121.4681988
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq1381",
+    "place_name": "錦和高中",
+    "address": "錦和路163號",
+    "village": "錦中里",
+    "remark": "2-6",
+    "seq": 1381,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9925436,
+      "lng": 121.4910843
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1384",
+    "place_name": "錦和園社區管理委員會",
+    "address": "圓通路305巷18號",
+    "village": "錦盛里",
+    "remark": "1-10,13",
+    "seq": 1384,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9888704,
+      "lng": 121.4946064
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1385",
+    "place_name": "錦盛市民活動中心",
+    "address": "圓通路335巷37弄12號",
+    "village": "錦盛里",
+    "remark": "11,12,14-26",
+    "seq": 1385,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9888052,
+      "lng": 121.4937472
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1386",
+    "place_name": "民有市民活動中心",
+    "address": "自治街57號",
+    "village": "民有里",
+    "remark": "1-13",
+    "seq": 1386,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0480751,
+      "lng": 121.4548424
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1387",
+    "place_name": "莒東社區長壽俱樂部",
+    "address": "民享街37號",
+    "village": "民有里",
+    "remark": "14-24",
+    "seq": 1387,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.00354,
+      "lng": 121.474151
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1388",
+    "place_name": "富貴賞社區中庭",
+    "address": "中正路1205號",
+    "village": "員富里",
+    "remark": "1-4,21,22",
+    "seq": 1388,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0101361,
+      "lng": 121.4799881
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1389",
+    "place_name": "慈安宮",
+    "address": "員山路611巷11弄4號",
+    "village": "員富里",
+    "remark": "5-20,23",
+    "seq": 1389,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0105759,
+      "lng": 121.477689
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1390",
+    "place_name": "中和高中至誠樓社團辦公室",
+    "address": "連城路460號",
+    "village": "嘉慶里",
+    "remark": "1-10",
+    "seq": 1390,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9939994,
+      "lng": 121.4783997
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq1393",
+    "place_name": "名人花園廣場活動中心",
+    "address": "民享街36巷1號",
+    "village": "冠穗里",
+    "remark": "1-10,12,13,2",
+    "seq": 1393,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.005823,
+      "lng": 121.473931
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1394",
+    "place_name": "冠穗市民活動中心",
+    "address": "莒光路129巷2弄24號",
+    "village": "冠穗里",
+    "remark": "11,14-22,24",
+    "seq": 1394,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0011354,
+      "lng": 121.473116
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1395",
+    "place_name": "鎮南宮",
+    "address": "國光街81號",
+    "village": "國華里",
+    "remark": "1-8,11",
+    "seq": 1395,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0002236,
+      "lng": 121.4705455
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1396",
+    "place_name": "頂天立地公寓大廈",
+    "address": "民德路69號",
+    "village": "國華里",
+    "remark": "9,10,12-22",
+    "seq": 1396,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.00144,
+      "lng": 121.469227
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1397",
+    "place_name": "停車場旁",
+    "address": "宜安路32號旁",
+    "village": "宜安里",
+    "remark": "全里",
+    "seq": 1397,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.99622,
+      "lng": 121.5126337
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1398",
+    "place_name": "觀音禪院",
+    "address": "安樂路217巷22號",
+    "village": "安樂里",
+    "remark": "1-9,15,19,21-23,25",
+    "seq": 1398,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9985815,
+      "lng": 121.5137301
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1399",
+    "place_name": "空地",
+    "address": "安平路與中安街口(四號公園角落)",
+    "village": "安樂里",
+    "remark": "10-14,16-18,20,24,26-33",
+    "seq": 1399,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9968649,
+      "lng": 121.5111776
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1400",
+    "place_name": "安和市民活動中心",
+    "address": "保健路44巷2號",
+    "village": "安和里",
+    "remark": "1-12,26,27",
+    "seq": 1400,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9972501,
+      "lng": 121.5093168
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1401",
+    "place_name": "樂墘宮",
+    "address": "安平路99號",
+    "village": "安和里",
+    "remark": "13-25",
+    "seq": 1401,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9970918,
+      "lng": 121.511334
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1402",
+    "place_name": "甜蕃茄社區中庭",
+    "address": "安平路36巷53號",
+    "village": "安順里",
+    "remark": "1-10,13,16,23,24,32,33",
+    "seq": 1402,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.968187,
+      "lng": 121.519699
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1403",
+    "place_name": "華泰椰城椰林區中庭",
+    "address": "安平路72號",
+    "village": "安順里",
+    "remark": "11,12,14,15,17-22,25-31,34",
+    "seq": 1403,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9964332,
+      "lng": 121.5110185
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1404",
+    "place_name": "配天宮",
+    "address": "保健路29巷2號",
+    "village": "安平里",
+    "remark": "1-7,22-26,38",
+    "seq": 1404,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9982215,
+      "lng": 121.5089538
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1405",
+    "place_name": "協和紀社區大樓森活館",
+    "address": "宜安路168巷6號",
+    "village": "安平里",
+    "remark": "8-15,19,27-29,32,33,39",
+    "seq": 1405,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9955943,
+      "lng": 121.513423
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1406",
+    "place_name": "林氏公廳",
+    "address": "中和路350巷8弄1之2號",
+    "village": "安平里",
+    "remark": "16-18,20,21,30,31,34-37,40-43",
+    "seq": 1406,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0013751,
+      "lng": 121.5103069
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1407",
+    "place_name": "中央圖書館台灣分館B1樂學室",
+    "address": "中安街85號地下室",
+    "village": "中安里",
+    "remark": "1-14",
+    "seq": 1407,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 25.0013791,
+      "lng": 121.5118653
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq1410",
+    "place_name": "中華幼兒園",
+    "address": "中和路244巷10號",
+    "village": "泰安里",
+    "remark": "1-5,32,33,38-42",
+    "seq": 1410,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9991269,
+      "lng": 121.5070907
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1411",
+    "place_name": "雙和幼兒園",
+    "address": "保健路40號",
+    "village": "泰安里",
+    "remark": "6,13-18,24-27,31,36",
+    "seq": 1411,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9973444,
+      "lng": 121.5091176
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1412",
+    "place_name": "玉聖宮",
+    "address": "保健路10巷24號",
+    "village": "泰安里",
+    "remark": "7-12,19-23,28-30,34,35,37",
+    "seq": 1412,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9978411,
+      "lng": 121.5084043
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1413",
+    "place_name": "秀山國小",
+    "address": "立人街2號",
+    "village": "秀山里",
+    "remark": "1-10",
+    "seq": 1413,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9942416,
+      "lng": 121.5208583
+    },
+    "power": 13
+  },
+  {
+    "id": "tpq1418",
+    "place_name": "永愛幼兒園中庭",
+    "address": "秀朗路三段114號",
+    "village": "秀義里",
+    "remark": "1-4,13-18",
+    "seq": 1418,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9964999,
+      "lng": 121.5265634
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1419",
+    "place_name": "民宅",
+    "address": "秀朗路三段78巷1弄3號",
+    "village": "秀義里",
+    "remark": "5-12",
+    "seq": 1419,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9942236,
+      "lng": 121.5261846
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1423",
+    "place_name": "力霸大廈活動中心",
+    "address": "成功路131號",
+    "village": "秀景里",
+    "remark": "1,12,14,25,29,35-40",
+    "seq": 1423,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9907933,
+      "lng": 121.5260235
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1424",
+    "place_name": "百年好合親子園",
+    "address": "秀朗路三段175巷10號",
+    "village": "秀景里",
+    "remark": "2-7,10,11,26-28,41,42",
+    "seq": 1424,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9913039,
+      "lng": 121.524955
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1425",
+    "place_name": "尖山腳市民活動中心",
+    "address": "成功路97巷7號",
+    "village": "秀景里",
+    "remark": "8,9,13,17-1924,30-32",
+    "seq": 1425,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.991372,
+      "lng": 121.526799
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1426",
+    "place_name": "翠隄雙星中庭",
+    "address": "成功路9至23號",
+    "village": "秀景里",
+    "remark": "15,16,20-23,33,34,43",
+    "seq": 1426,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.994446,
+      "lng": 121.4970294
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1427",
+    "place_name": "中和基督之家",
+    "address": "景平路278巷14弄16號",
+    "village": "秀明里",
+    "remark": "1-5,31-35,56",
+    "seq": 1427,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9933689,
+      "lng": 121.5149805
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1428",
+    "place_name": "東帝巿大廈管理室",
+    "address": "景平路200號內",
+    "village": "秀明里",
+    "remark": "6-8,27-29,36-55",
+    "seq": 1428,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.992432,
+      "lng": 121.5160717
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1429",
+    "place_name": "秀明公園",
+    "address": "大勇街29巷1號對面",
+    "village": "秀明里",
+    "remark": "9-26,30",
+    "seq": 1429,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9941274,
+      "lng": 121.5161071
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1430",
+    "place_name": "土地公廟活動中心",
+    "address": "秀峰街85巷33號",
+    "village": "秀峰里",
+    "remark": "1-13",
+    "seq": 1430,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9902688,
+      "lng": 121.521546
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1432",
+    "place_name": "冠德住易中庭",
+    "address": "景德街26號旁",
+    "village": "秀峰里",
+    "remark": "20,23,32-47",
+    "seq": 1432,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9914532,
+      "lng": 121.5190265
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1433",
+    "place_name": "景新國小",
+    "address": "景平路111巷19號旁(景新國小後門)",
+    "village": "秀士里",
+    "remark": "1-4,13-15,20-22",
+    "seq": 1433,
+    "county": "TPQ",
+    "town": "中和區",
+    "location": {
+      "lat": 24.9908495,
+      "lng": 121.5207073
+    },
+    "power": 2
+  }
+]

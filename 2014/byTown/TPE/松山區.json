@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "tpe0522",
+    "place_name": "民權區民活動中心",
+    "address": "民權東路5段臨43號(民權大橋下)",
+    "village": "莊敬里1~8",
+    "indigenous_village": "",
+    "phone": "87878787轉829",
+    "seq": 522,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.063144,
+      "lng": 121.5660384
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0523",
+    "place_name": "三民國小",
+    "address": "民權東路5段1號",
+    "village": "莊敬里9~15",
+    "indigenous_village": "",
+    "phone": "27646080轉231",
+    "seq": 523,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0631782,
+      "lng": 121.5642857
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0525",
+    "place_name": "基督教新生教團台北民生教會",
+    "address": "新中街10巷2號",
+    "village": "東榮里1~6",
+    "indigenous_village": "東榮里全里",
+    "phone": "27682905",
+    "seq": 525,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0596658,
+      "lng": 121.5606001
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0526",
+    "place_name": "民權國小",
+    "address": "民權東路4段200號",
+    "village": "東榮里7~13",
+    "indigenous_village": "",
+    "phone": "27652327轉33",
+    "seq": 526,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0625251,
+      "lng": 121.562292
+    },
+    "power": 6
+  },
+  {
+    "id": "tpe0528",
+    "place_name": "二村基石中心",
+    "address": "民生東路5段69巷2弄10號",
+    "village": "東榮里20~25",
+    "indigenous_village": "",
+    "phone": "276383040912578940",
+    "seq": 528,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.059083,
+      "lng": 121.558734
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0529",
+    "place_name": "聯合二村教會",
+    "address": "民生東路5段69巷2弄12號",
+    "village": "東榮里26~33",
+    "indigenous_village": "",
+    "phone": "276383040912578940",
+    "seq": 529,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.059087,
+      "lng": 121.558799
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0530",
+    "place_name": "健康國小",
+    "address": "延壽街168號",
+    "village": "三民里1~10",
+    "indigenous_village": "",
+    "phone": "25282814轉136",
+    "seq": 530,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0566674,
+      "lng": 121.5627846
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe0531",
+    "place_name": "臺北市立圖書館三民分館視廳室",
+    "address": "民生東路5段163之1號6樓",
+    "village": "三民里11~17",
+    "indigenous_village": "三民里全里",
+    "phone": "27600408轉16",
+    "seq": 531,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.059274,
+      "lng": 121.562837
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0535",
+    "place_name": "民生國中",
+    "address": "新東街30巷1號",
+    "village": "新益里8~12",
+    "indigenous_village": "",
+    "phone": "27653433轉300",
+    "seq": 535,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0598048,
+      "lng": 121.5667367
+    },
+    "power": 5
+  },
+  {
+    "id": "tpe0537",
+    "place_name": "海華大廈休閒中心",
+    "address": "民生東路5段171號地下1樓",
+    "village": "富錦里1~3、5~8",
+    "indigenous_village": "",
+    "phone": "27661804",
+    "seq": 537,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0592657,
+      "lng": 121.5647559
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0544",
+    "place_name": "民生社區中心",
+    "address": "民生東路5段163之1號8樓",
+    "village": "富泰里6~8、16~20",
+    "indigenous_village": "富泰里全里",
+    "phone": "87878787轉829",
+    "seq": 544,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.059274,
+      "lng": 121.562837
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0545",
+    "place_name": "民生社區中心",
+    "address": "民生東路5段163之1號4樓",
+    "village": "富泰里10~15",
+    "indigenous_village": "",
+    "phone": "27666959",
+    "seq": 545,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.059274,
+      "lng": 121.562837
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0546",
+    "place_name": "介壽國中",
+    "address": "延壽街401號",
+    "village": "介壽里1~8",
+    "indigenous_village": "",
+    "phone": "27674496轉510",
+    "seq": 546,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0564119,
+      "lng": 121.5564366
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe0549",
+    "place_name": "民族國小",
+    "address": "民生東路4段97巷7號",
+    "village": "精忠里1~5",
+    "indigenous_village": "精忠里全里",
+    "phone": "27124872",
+    "seq": 549,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0594726,
+      "lng": 121.5518154
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe0552",
+    "place_name": "西松國小",
+    "address": "三民路5號(由南京東路5段147巷側門進入)",
+    "village": "東光里1~8",
+    "indigenous_village": "",
+    "phone": "27609221",
+    "seq": 552,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0522116,
+      "lng": 121.5636714
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe0556",
+    "place_name": "平安新村甲區管理委員會",
+    "address": "延壽街348號1樓",
+    "village": "龍田里1~4、37~39",
+    "indigenous_village": "",
+    "phone": "27655730",
+    "seq": 556,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0563737,
+      "lng": 121.5593137
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0557",
+    "place_name": "介壽國中",
+    "address": "延壽街401號1樓",
+    "village": "龍田里5~11",
+    "indigenous_village": "",
+    "phone": "27674496轉500",
+    "seq": 557,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0564119,
+      "lng": 121.5564366
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0559",
+    "place_name": "民生國小",
+    "address": "敦化北路199巷18號1樓",
+    "village": "龍田里15~19",
+    "indigenous_village": "",
+    "phone": "27122452轉830",
+    "seq": 559,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0565153,
+      "lng": 121.5521795
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe0562",
+    "place_name": "東昌里民活動場所",
+    "address": "民生東路4段112巷7弄24號",
+    "village": "東昌里7~12",
+    "indigenous_village": "東昌里全里",
+    "phone": "0919395565",
+    "seq": 562,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0565696,
+      "lng": 121.5552676
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0563",
+    "place_name": "車庫",
+    "address": "民生東路4段112巷3弄3號",
+    "village": "東昌里1~6",
+    "indigenous_village": "",
+    "phone": "0919395565",
+    "seq": 563,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.05747,
+      "lng": 121.554621
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0564",
+    "place_name": "漢家幼兒園",
+    "address": "南京東路4段133巷6弄2號1樓",
+    "village": "東勢里1~6",
+    "indigenous_village": "",
+    "phone": "27131091",
+    "seq": 564,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0527353,
+      "lng": 121.554998
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0565",
+    "place_name": "歐先生宅",
+    "address": "南京東路4段133巷7弄11號1樓",
+    "village": "東勢里7~13",
+    "indigenous_village": "東勢里全里",
+    "phone": "27172185",
+    "seq": 565,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.052546,
+      "lng": 121.555548
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0566",
+    "place_name": "金陵教會",
+    "address": "南京東路4段133巷6弄20號1樓",
+    "village": "東勢里14~18",
+    "indigenous_village": "",
+    "phone": "0926068727",
+    "seq": 566,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.052843,
+      "lng": 121.5544277
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0567",
+    "place_name": "臺北浸信會頌恩堂",
+    "address": "敦化北路145巷30號1樓",
+    "village": "中華里8~10、20、25",
+    "indigenous_village": "",
+    "phone": "87122215",
+    "seq": 567,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0539282,
+      "lng": 121.5519659
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0568",
+    "place_name": "賀瑞幼兒園",
+    "address": "南京東路4段53巷11弄1號",
+    "village": "中華里11~16",
+    "indigenous_village": "中華里全里",
+    "phone": "27127575",
+    "seq": 568,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0532687,
+      "lng": 121.5510195
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0569",
+    "place_name": "臺北市立圖書館啟明分館1樓",
+    "address": "敦化北路155巷76號1樓",
+    "village": "中華里5~7、17~19、24",
+    "indigenous_village": "",
+    "phone": "2514-8443",
+    "seq": 569,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0543394,
+      "lng": 121.551794
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0571",
+    "place_name": "思高幼兒園思高中心",
+    "address": "民生東路3段125號",
+    "village": "民有里1~4、12",
+    "indigenous_village": "",
+    "phone": "27133897",
+    "seq": 571,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.05808,
+      "lng": 121.547388
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0572",
+    "place_name": "中山國中",
+    "address": "復興北路361巷7號",
+    "village": "民有里5~10",
+    "indigenous_village": "",
+    "phone": "27126701轉501",
+    "seq": 572,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0606072,
+      "lng": 121.5455306
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe0576",
+    "place_name": "民福里民活動場所",
+    "address": "民權東路3段103巷5弄5號1樓",
+    "village": "民福里4~5、8、10、11~13",
+    "indigenous_village": "民福里全里",
+    "phone": "0934332936",
+    "seq": 576,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0629166,
+      "lng": 121.5452768
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0577",
+    "place_name": "民福社區服務中心",
+    "address": "民權東路3段191巷34之1號1樓",
+    "village": "民福里3、6、7、9、14、18、20、26",
+    "indigenous_village": "",
+    "phone": "0934332936",
+    "seq": 577,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.063747,
+      "lng": 121.54641
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0578",
+    "place_name": "上達汽車有限公司",
+    "address": "民族東路687號1樓",
+    "village": "民福里21~25、27",
+    "indigenous_village": "",
+    "phone": "87123456",
+    "seq": 578,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.06351,
+      "lng": 121.548291
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0579",
+    "place_name": "恩光教會",
+    "address": "民權東路3段191巷74號1樓",
+    "village": "民福里1~2、15~17、19",
+    "indigenous_village": "",
+    "phone": "0963266909",
+    "seq": 579,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0650639,
+      "lng": 121.544996
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0580",
+    "place_name": "松基區民活動中心",
+    "address": "長春路339巷2號地下1樓",
+    "village": "松基里1~9",
+    "indigenous_village": "",
+    "phone": "87878787轉854",
+    "seq": 580,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0494643,
+      "lng": 121.5563418
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0582",
+    "place_name": "松山國小",
+    "address": "八德路4段746號",
+    "village": "慈祐里1~5、19~21",
+    "indigenous_village": "",
+    "phone": "27672907轉601",
+    "seq": 582,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0504124,
+      "lng": 121.5798423
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0583",
+    "place_name": "更新大樓中庭",
+    "address": "八德路4段606號",
+    "village": "慈祐里12~16、22",
+    "indigenous_village": "",
+    "phone": "0928283701",
+    "seq": 583,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0499328,
+      "lng": 121.5745187
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0584",
+    "place_name": "松山長老教會1樓",
+    "address": "饒河街105號",
+    "village": "慈祐里6~11、17、18",
+    "indigenous_village": "慈祐里全里",
+    "phone": "27684081",
+    "seq": 584,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.050634,
+      "lng": 121.5759243
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0585",
+    "place_name": "西松國小",
+    "address": "三民路5號",
+    "village": "安平里3~7、11、33",
+    "indigenous_village": "",
+    "phone": "27609221",
+    "seq": 585,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0522116,
+      "lng": 121.5636714
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0586",
+    "place_name": "沐恩堂",
+    "address": "南京東路5段251巷45號",
+    "village": "安平里1~2、9~10、12~13",
+    "indigenous_village": "",
+    "phone": "27686926",
+    "seq": 586,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0538477,
+      "lng": 121.5652531
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0587",
+    "place_name": "安平區民活動中心",
+    "address": "南京東路5段291巷44弄23之1號2樓",
+    "village": "安平里16~21",
+    "indigenous_village": "",
+    "phone": "0935865368",
+    "seq": 587,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0534628,
+      "lng": 121.565603
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0588",
+    "place_name": "恩友堂第1交誼廳",
+    "address": "寶清街123號",
+    "village": "安平里14~15、22~27",
+    "indigenous_village": "",
+    "phone": "27670760",
+    "seq": 588,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0541478,
+      "lng": 121.5674872
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0590",
+    "place_name": "西松高中(多功能教室1)",
+    "address": "健康路325巷7號",
+    "village": "鵬程里1、14~18",
+    "indigenous_village": "",
+    "phone": "25282295",
+    "seq": 590,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0555538,
+      "lng": 121.567082
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe0591",
+    "place_name": "鵬程區民活動中心",
+    "address": "健康路399號3樓",
+    "village": "鵬程里2~7、9",
+    "indigenous_village": "",
+    "phone": "87878787轉829",
+    "seq": 591,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0546665,
+      "lng": 121.5688035
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0596",
+    "place_name": "自強區民活動中心",
+    "address": "三民路35巷9號",
+    "village": "自強里7、16~19、23",
+    "indigenous_village": "",
+    "phone": "87878787轉829",
+    "seq": 596,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.055465,
+      "lng": 121.5626246
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0597",
+    "place_name": "健安新城G區管委會辦公室",
+    "address": "三民路80巷1號",
+    "village": "自強里8~9、11~12、22、26",
+    "indigenous_village": "",
+    "phone": "25287735",
+    "seq": 597,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.056578,
+      "lng": 121.565156
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0598",
+    "place_name": "中崙高中2樓7年8班教室",
+    "address": "八德路4段101號2樓",
+    "village": "吉祥里1~5",
+    "indigenous_village": "",
+    "phone": "27535316轉400",
+    "seq": 598,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0487226,
+      "lng": 121.5611946
+    },
+    "power": 5
+  },
+  {
+    "id": "tpe0603",
+    "place_name": "新聚區民活動中心",
+    "address": "南京東路5段374號1樓",
+    "village": "新聚里3~8、10、12",
+    "indigenous_village": "新聚里全里",
+    "phone": "87878787轉829",
+    "seq": 603,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0511311,
+      "lng": 121.5694386
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0605",
+    "place_name": "9號車庫",
+    "address": "南京東路5段250巷9之3號(揚登牙醫)旁停車場",
+    "village": "新聚里11、17、19、21~22、26~28",
+    "indigenous_village": "",
+    "phone": "0910273876",
+    "seq": 605,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0500325,
+      "lng": 121.5660325
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0606",
+    "place_name": "財團法人萬國道德總會(立德長青活動中心",
+    "address": "南京東路5段250巷18弄46號1樓",
+    "village": "新聚里1~2、13~16、23",
+    "indigenous_village": "",
+    "phone": "0970126384",
+    "seq": 606,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0501581,
+      "lng": 121.5682638
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0607",
+    "place_name": "復盛區民活動中心",
+    "address": "市民大道5段99之1號(八德路4段106巷內)",
+    "village": "復盛里15~21",
+    "indigenous_village": "",
+    "phone": "87878787轉829",
+    "seq": 607,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0466248,
+      "lng": 121.561205
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe0610",
+    "place_name": "張先生宅",
+    "address": "臺北市松山區八德路4段182號",
+    "village": "復盛里22~26",
+    "indigenous_village": "",
+    "phone": "87878787轉846",
+    "seq": 610,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.049801,
+      "lng": 121.57719
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0611",
+    "place_name": "敦化國中",
+    "address": "南京東路3段300號1樓",
+    "village": "中正里1~5",
+    "indigenous_village": "",
+    "phone": "87717890轉51",
+    "seq": 611,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0515711,
+      "lng": 121.5467135
+    },
+    "power": 5
+  },
+  {
+    "id": "tpe0616",
+    "place_name": "張先生宅",
+    "address": "八德路2段366巷17號",
+    "village": "中崙里1~9",
+    "indigenous_village": "中崙里全里",
+    "phone": "27719791",
+    "seq": 616,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.047309,
+      "lng": 121.546117
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0617",
+    "place_name": "周先生宅",
+    "address": "八德路2段366巷22號",
+    "village": "中崙里10~18",
+    "indigenous_village": "",
+    "phone": "0933092641",
+    "seq": 617,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.047384,
+      "lng": 121.545911
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0618",
+    "place_name": "育達商職105教室",
+    "address": "寧安街12號",
+    "village": "美仁里1~6",
+    "indigenous_village": "美仁里全里",
+    "phone": "25706767轉402",
+    "seq": 618,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0499523,
+      "lng": 121.5544578
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe0620",
+    "place_name": "華南社區中庭(1)",
+    "address": "延吉街46巷8號旁",
+    "village": "吉仁里1~7",
+    "indigenous_village": "",
+    "phone": "25787714.25792333",
+    "seq": 620,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0455545,
+      "lng": 121.5531009
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0621",
+    "place_name": "華南社區中庭(2)",
+    "address": "延吉街46巷3號旁",
+    "village": "吉仁里8~16",
+    "indigenous_village": "吉仁里全里",
+    "phone": "25787714.25792333",
+    "seq": 621,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0452659,
+      "lng": 121.5534668
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0622",
+    "place_name": "陳先生車庫",
+    "address": "市民大道4段臨119號(八德路3段8巷底)",
+    "village": "敦化里1~7、12~13",
+    "indigenous_village": "",
+    "phone": "25778430",
+    "seq": 622,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0452898,
+      "lng": 121.5449292
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0623",
+    "place_name": "馨兒園幼兒園",
+    "address": "八德路3段12巷60號",
+    "village": "敦化里8~11、20~24",
+    "indigenous_village": "敦化里全里",
+    "phone": "25775928",
+    "seq": 623,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0458821,
+      "lng": 121.5505774
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0624",
+    "place_name": "卡兒堡幼兒園",
+    "address": "八德路12巷57弄39號",
+    "village": "敦化里16、25~28、30",
+    "indigenous_village": "",
+    "phone": "25784555",
+    "seq": 624,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0485057,
+      "lng": 121.5595167
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0625",
+    "place_name": "慈賢宮",
+    "address": "八德路3段74巷14弄18號",
+    "village": "敦化里14~15、17~19、29",
+    "indigenous_village": "",
+    "phone": "257840760910215841",
+    "seq": 625,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0476974,
+      "lng": 121.5520398
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0626",
+    "place_name": "聖若瑟天主堂",
+    "address": "八德路3段158巷22號1樓",
+    "village": "復源里1~2、5、11~14",
+    "indigenous_village": "復源里全里",
+    "phone": "25775286.,0932318680",
+    "seq": 626,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.047792,
+      "lng": 121.5549304
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0627",
+    "place_name": "美仁浸信會",
+    "address": "八德路3段106巷106號1樓",
+    "village": "復源里3~4、6~10",
+    "indigenous_village": "",
+    "phone": "25792065",
+    "seq": 627,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0449985,
+      "lng": 121.5542399
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0628",
+    "place_name": "門諾會光復教會",
+    "address": "光復南路46巷1之2號",
+    "village": "復建里1~2、5、7、9",
+    "indigenous_village": "",
+    "phone": "25782238",
+    "seq": 628,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0462621,
+      "lng": 121.5572159
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0629",
+    "place_name": "復建區民活動中心",
+    "address": "八德路3段158巷7弄20號",
+    "village": "復建里6、11、12、14",
+    "indigenous_village": "復建里全里",
+    "phone": "25779061",
+    "seq": 629,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0473119,
+      "lng": 121.5560236
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0630",
+    "place_name": "台北蒙恩堂",
+    "address": "光復南路32巷3號",
+    "village": "復建里3、4、8、10、13",
+    "indigenous_village": "",
+    "phone": "25700564",
+    "seq": 630,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0467016,
+      "lng": 121.5570812
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0632",
+    "place_name": "育達大學臺北推廣教育中心",
+    "address": "南京東路4段120巷27號",
+    "village": "復勢里7~11",
+    "indigenous_village": "",
+    "phone": "25706949轉1121",
+    "seq": 632,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0504343,
+      "lng": 121.5551612
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0633",
+    "place_name": "法光寺",
+    "address": "光復北路60巷20號",
+    "village": "復勢里12~15",
+    "indigenous_village": "復勢里全里",
+    "phone": "25791940",
+    "seq": 633,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.049964,
+      "lng": 121.55694
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0634",
+    "place_name": "博仁社區健康中心",
+    "address": "光復北路82號",
+    "village": "復勢里16~21",
+    "indigenous_village": "",
+    "phone": "25786677轉2229",
+    "seq": 634,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0502157,
+      "lng": 121.5576479
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0635",
+    "place_name": "中崙教會教育館",
+    "address": "敦化南路1段80巷36號",
+    "village": "福成里1~5",
+    "indigenous_village": "福成里全里",
+    "phone": "27216181",
+    "seq": 635,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.046568,
+      "lng": 121.54713
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0636",
+    "place_name": "財團法人臺北市中崙福成宮",
+    "address": "市民大道4段71號",
+    "village": "福成里6~10",
+    "indigenous_village": "",
+    "phone": "27516796",
+    "seq": 636,
+    "county": "TPE",
+    "town": "松山區",
+    "location": {
+      "lat": 25.0453464,
+      "lng": 121.5469414
+    },
+    "power": 1
+  }
+]

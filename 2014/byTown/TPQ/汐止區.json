@@ -1,0 +1,1112 @@
+[
+  {
+    "id": "tpq2296",
+    "place_name": "仁德市民活動中心",
+    "address": "和平街6巷1弄1號",
+    "village": "仁德里",
+    "remark": "全里",
+    "seq": 2296,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0711059,
+      "lng": 121.66316
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2297",
+    "place_name": "汐止區老人活動中心",
+    "address": "公園路2號",
+    "village": "義民里",
+    "remark": "全里",
+    "seq": 2297,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0680489,
+      "lng": 121.659196
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2298",
+    "place_name": "汐止國民中學",
+    "address": "大同路二段394號",
+    "village": "禮門里",
+    "remark": "全里",
+    "seq": 2298,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0669567,
+      "lng": 121.6583371
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2299",
+    "place_name": "汐止國民小學",
+    "address": "大同路二段313號",
+    "village": "智慧里",
+    "remark": "1-14",
+    "seq": 2299,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0666943,
+      "lng": 121.6548968
+    },
+    "power": 4
+  },
+  {
+    "id": "tpq2303",
+    "place_name": "信望、義民市民活動中心",
+    "address": "公園路6號",
+    "village": "信望里",
+    "remark": "全里",
+    "seq": 2303,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.068418,
+      "lng": 121.659564
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2304",
+    "place_name": "虎形山福德宮",
+    "address": "招商街1號",
+    "village": "新昌里",
+    "remark": "1-5,7,8,33-3",
+    "seq": 2304,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0698787,
+      "lng": 121.6655227
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2305",
+    "place_name": "新昌市民活動中心",
+    "address": "仁愛路318號",
+    "village": "新昌里",
+    "remark": "6,21,23-32",
+    "seq": 2305,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.067715,
+      "lng": 121.664806
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2306",
+    "place_name": "秀峰高級中學",
+    "address": "忠孝東路201號",
+    "village": "新昌里",
+    "remark": "9-20,22",
+    "seq": 2306,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0668073,
+      "lng": 121.6622569
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq2307",
+    "place_name": "秀峰國民小學",
+    "address": "仁愛路90號",
+    "village": "福安里",
+    "remark": "1-5,7-9",
+    "seq": 2307,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0628738,
+      "lng": 121.6613771
+    },
+    "power": 6
+  },
+  {
+    "id": "tpq2315",
+    "place_name": "復興市民活動中心",
+    "address": "復興路2號前",
+    "village": "復興里",
+    "remark": "1-7,9,15",
+    "seq": 2315,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0683614,
+      "lng": 121.6334477
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2316",
+    "place_name": "陽光四季社區中庭",
+    "address": "龍安路36號",
+    "village": "復興里",
+    "remark": "10,19-24",
+    "seq": 2316,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.063734,
+      "lng": 121.654708
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq2318",
+    "place_name": "青山國中",
+    "address": "莊敬街33號",
+    "village": "自強里",
+    "remark": "1-8",
+    "seq": 2318,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0611576,
+      "lng": 121.6566533
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq2321",
+    "place_name": "文化市民活動中心",
+    "address": "汐碇路14巷2弄11號之2",
+    "village": "文化里",
+    "remark": "1-13",
+    "seq": 2321,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0591675,
+      "lng": 121.653491
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2322",
+    "place_name": "福興宮(地下室)",
+    "address": "汐碇路14巷2弄11號之1",
+    "village": "文化里",
+    "remark": "14-21",
+    "seq": 2322,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0591675,
+      "lng": 121.653491
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2323",
+    "place_name": "白雲市民活動中心",
+    "address": "水源路二段112號",
+    "village": "白雲里",
+    "remark": "1-16",
+    "seq": 2323,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0554202,
+      "lng": 121.656768
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq2325",
+    "place_name": "崇德國民小學",
+    "address": "茄苳路158號",
+    "village": "茄苳里",
+    "remark": "1-8",
+    "seq": 2325,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0695778,
+      "lng": 121.6691867
+    },
+    "power": 5
+  },
+  {
+    "id": "tpq2330",
+    "place_name": "江山萬里社區會議室",
+    "address": "新台五路二段170至218號",
+    "village": "崇德里",
+    "remark": "26-29",
+    "seq": 2330,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.067325,
+      "lng": 121.667845
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2331",
+    "place_name": "建成市場",
+    "address": "建成路37巷6號",
+    "village": "城中里",
+    "remark": "1-13",
+    "seq": 2331,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0728171,
+      "lng": 121.6636489
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq2333",
+    "place_name": "摩登家庭社區",
+    "address": "忠孝東路424至428號",
+    "village": "橋東里",
+    "remark": "1-9",
+    "seq": 2333,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.071673,
+      "lng": 121.66607
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2334",
+    "place_name": "華慶幼兒園",
+    "address": "忠孝東路447、449號",
+    "village": "橋東里",
+    "remark": "10-20",
+    "seq": 2334,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.072365,
+      "lng": 121.665764
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2335",
+    "place_name": "青年守則商場",
+    "address": "建成路58號前",
+    "village": "建成里",
+    "remark": "1-9",
+    "seq": 2335,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0730384,
+      "lng": 121.6628497
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2336",
+    "place_name": "青年守則商場",
+    "address": "建成路56巷9號前",
+    "village": "建成里",
+    "remark": "10-18",
+    "seq": 2336,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0589389,
+      "lng": 121.6524508
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2337",
+    "place_name": "貨櫃聯絡道橋下籃球場",
+    "address": "鄉長路一段45巷旁",
+    "village": "建成里",
+    "remark": "19-23",
+    "seq": 2337,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0753915,
+      "lng": 121.6650814
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2338",
+    "place_name": "長安市民活動中心",
+    "address": "長興街一段50號",
+    "village": "長安里",
+    "remark": "全里",
+    "seq": 2338,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0790731,
+      "lng": 121.6705293
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2339",
+    "place_name": "保長國民小學",
+    "address": "大同路三段553號",
+    "village": "保安里",
+    "remark": "全里",
+    "seq": 2339,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.071773,
+      "lng": 121.680851
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2340",
+    "place_name": "東山國民小學",
+    "address": "汐平路二段76號",
+    "village": "東山里",
+    "remark": "全里",
+    "seq": 2340,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0596364,
+      "lng": 121.700309
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2341",
+    "place_name": "保長市民活動中心",
+    "address": "保長路51巷11號",
+    "village": "保長里",
+    "remark": "11-21",
+    "seq": 2341,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.079018,
+      "lng": 121.673732
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2342",
+    "place_name": "長安慈惠堂",
+    "address": "長興街二段50巷50號",
+    "village": "保長里",
+    "remark": "1-10,22",
+    "seq": 2342,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.08081,
+      "lng": 121.675658
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2343",
+    "place_name": "摩天鎮社區聯誼室",
+    "address": "大同路三段617號",
+    "village": "保新里",
+    "remark": "3-9",
+    "seq": 2343,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0734659,
+      "lng": 121.6835005
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2344",
+    "place_name": "保長坑橋頭福德宮",
+    "address": "大同路三段424號",
+    "village": "保新里",
+    "remark": "1,2,10-13",
+    "seq": 2344,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0723182,
+      "lng": 121.6828393
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2345",
+    "place_name": "鄉長市民活動中心",
+    "address": "鄉友街10號",
+    "village": "鄉長里",
+    "remark": "全里",
+    "seq": 2345,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.08071,
+      "lng": 121.668291
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2346",
+    "place_name": "江北里老人休閒中心",
+    "address": "長江街71號對面",
+    "village": "江北里",
+    "remark": "1-5,28-30",
+    "seq": 2346,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0720765,
+      "lng": 121.6569535
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2347",
+    "place_name": "江北市民活動中心",
+    "address": "汐萬路一段81號",
+    "village": "江北里",
+    "remark": "6-14,24-27",
+    "seq": 2347,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.069794,
+      "lng": 121.65471
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2348",
+    "place_name": "福正宮(土地公廟)",
+    "address": "汐萬路一段312號",
+    "village": "江北里",
+    "remark": "15-23",
+    "seq": 2348,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0721654,
+      "lng": 121.652153
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2349",
+    "place_name": "北港國民小學",
+    "address": "汐萬路二段279號",
+    "village": "拱北里",
+    "remark": "1-8",
+    "seq": 2349,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0894044,
+      "lng": 121.6455949
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq2351",
+    "place_name": "雙璽帝堡大廈管理委員會",
+    "address": "汐萬路二段228巷31弄1號",
+    "village": "拱北里",
+    "remark": "10,18-31",
+    "seq": 2351,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.090009,
+      "lng": 121.648107
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2352",
+    "place_name": "烘內市民活動中心",
+    "address": "汐萬路三段252巷27號",
+    "village": "烘內里",
+    "remark": "全里",
+    "seq": 2352,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.105293,
+      "lng": 121.644949
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2353",
+    "place_name": "福興宮自強育樂中心",
+    "address": "八連路一段253號",
+    "village": "八連里",
+    "remark": "全里",
+    "seq": 2353,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0854634,
+      "lng": 121.6403462
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2354",
+    "place_name": "國家公園別墅活動中心",
+    "address": "長青路134號",
+    "village": "長青里",
+    "remark": "全里",
+    "seq": 2354,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.1097093,
+      "lng": 121.6052705
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2355",
+    "place_name": "金龍國民小學",
+    "address": "明峰街201號",
+    "village": "北峰里",
+    "remark": "1-15",
+    "seq": 2355,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0688063,
+      "lng": 121.6270463
+    },
+    "power": 4
+  },
+  {
+    "id": "tpq2359",
+    "place_name": "金龍市民活動中心",
+    "address": "湖前街31巷2弄2號",
+    "village": "金龍里",
+    "remark": "24-36",
+    "seq": 2359,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.069386,
+      "lng": 121.631893
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2360",
+    "place_name": "樟樹市民活動中心",
+    "address": "大同路一段339號之2",
+    "village": "樟樹里",
+    "remark": "全里",
+    "seq": 2360,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.059628,
+      "lng": 121.638535
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2361",
+    "place_name": "和德宮會議廳",
+    "address": "樟樹一路129巷34弄6號",
+    "village": "忠孝里",
+    "remark": "10,12,14,16,24-27",
+    "seq": 2361,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.065389,
+      "lng": 121.640702
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2362",
+    "place_name": "忠孝市民活動中心",
+    "address": "工建路62號",
+    "village": "忠孝里",
+    "remark": "13,15,19,28-34",
+    "seq": 2362,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.063142,
+      "lng": 121.640802
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2363",
+    "place_name": "樟樹國民中學",
+    "address": "樟樹二路135號",
+    "village": "忠孝里",
+    "remark": "2-9,11,17",
+    "seq": 2363,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0659397,
+      "lng": 121.6398933
+    },
+    "power": 4
+  },
+  {
+    "id": "tpq2365",
+    "place_name": "樟樹國民小學",
+    "address": "樟樹一路141巷2號",
+    "village": "厚德里",
+    "remark": "1-12",
+    "seq": 2365,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0664982,
+      "lng": 121.6417674
+    },
+    "power": 4
+  },
+  {
+    "id": "tpq2371",
+    "place_name": "北峰國民小學",
+    "address": "環河街1號",
+    "village": "中興里",
+    "remark": "1-9",
+    "seq": 2371,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0589559,
+      "lng": 121.6291059
+    },
+    "power": 6
+  },
+  {
+    "id": "tpq2377",
+    "place_name": "興福市民活動中心",
+    "address": "福德一路141巷52號",
+    "village": "興福里",
+    "remark": "1-9",
+    "seq": 2377,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0689716,
+      "lng": 121.6384932
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2378",
+    "place_name": "朝熙大樓",
+    "address": "福德路38號",
+    "village": "興福里",
+    "remark": "10-20",
+    "seq": 2378,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0667714,
+      "lng": 121.6359639
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2379",
+    "place_name": "康福市民活動中心",
+    "address": "福德三路9號",
+    "village": "康福里",
+    "remark": "1-16",
+    "seq": 2379,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0671828,
+      "lng": 121.6320522
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq2381",
+    "place_name": "長堤社區管理中心",
+    "address": "福德一路109之2號",
+    "village": "康福里",
+    "remark": "17-22",
+    "seq": 2381,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0680543,
+      "lng": 121.6378528
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2382",
+    "place_name": "湖光市民活動中心",
+    "address": "康寧街520之1號",
+    "village": "湖光里",
+    "remark": "1-8,10",
+    "seq": 2382,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0687062,
+      "lng": 121.6338066
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2383",
+    "place_name": "湖光餐廳旁停車場",
+    "address": "康寧街680號之2旁",
+    "village": "湖光里",
+    "remark": "9,11-22",
+    "seq": 2383,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0718448,
+      "lng": 121.6372196
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2384",
+    "place_name": "日月光社區活動中心",
+    "address": "康寧街751巷13號地下1樓",
+    "village": "湖光里",
+    "remark": "23-30",
+    "seq": 2384,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0733826,
+      "lng": 121.6386772
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2385",
+    "place_name": "水蓮山莊A3棟旁空地",
+    "address": "湖前街110巷97弄3號",
+    "village": "湖蓮里",
+    "remark": "1-6",
+    "seq": 2385,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0714729,
+      "lng": 121.6312942
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2386",
+    "place_name": "水蓮山莊服務中心",
+    "address": "湖前街110巷97弄24號",
+    "village": "湖蓮里",
+    "remark": "7-12",
+    "seq": 2386,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0765816,
+      "lng": 121.6319664
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2387",
+    "place_name": "聯合幼兒園",
+    "address": "翠峰街2巷2號",
+    "village": "湖興里",
+    "remark": "1-10,12-14",
+    "seq": 2387,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0765829,
+      "lng": 121.645539
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2388",
+    "place_name": "伯爵五代社區活動中心",
+    "address": "伯爵街35巷口",
+    "village": "湖興里",
+    "remark": "11,15-22",
+    "seq": 2388,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.079399,
+      "lng": 121.63787
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2389",
+    "place_name": "博市社區活動中心",
+    "address": "伯爵街96巷底",
+    "village": "湖興里",
+    "remark": "29,30,35-38",
+    "seq": 2389,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0839127,
+      "lng": 121.636735
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2390",
+    "place_name": "伯爵夫人社區管理中心",
+    "address": "伯爵街57巷口",
+    "village": "湖興里",
+    "remark": "23-28,31-34",
+    "seq": 2390,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.079399,
+      "lng": 121.63787
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2391",
+    "place_name": "三和舊市場空地",
+    "address": "康寧街61巷23號前（康寧街63號旁）",
+    "village": "北山里",
+    "remark": "1,2,4,5,7,13",
+    "seq": 2391,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0673773,
+      "lng": 121.6190899
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2392",
+    "place_name": "大湖國家管理委員會",
+    "address": "康寧街141巷20弄1之8號",
+    "village": "北山里",
+    "remark": "3,6,8-12",
+    "seq": 2392,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0678419,
+      "lng": 121.621497
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2393",
+    "place_name": "北山市民活動中心",
+    "address": "明峰街298巷3弄旁",
+    "village": "北山里",
+    "remark": "16-22",
+    "seq": 2393,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0682265,
+      "lng": 121.6250956
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2394",
+    "place_name": "紫明代天府建凌宮(五府千歲)",
+    "address": "明峰街288號",
+    "village": "北山里",
+    "remark": "14,15,23-25",
+    "seq": 2394,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0684759,
+      "lng": 121.6256348
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2395",
+    "place_name": "瓏山林社區",
+    "address": "忠三街26巷33號",
+    "village": "忠山里",
+    "remark": "13-22",
+    "seq": 2395,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0776527,
+      "lng": 121.6296987
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2396",
+    "place_name": "忠山市民活動中心",
+    "address": "忠三街8號",
+    "village": "忠山里",
+    "remark": "1-12",
+    "seq": 2396,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0779724,
+      "lng": 121.6291227
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2397",
+    "place_name": "環河市民活動中心",
+    "address": "南陽街123號之1",
+    "village": "環河里",
+    "remark": "全里",
+    "seq": 2397,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0600965,
+      "lng": 121.6244091
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2398",
+    "place_name": "橫科市民活動中心",
+    "address": "橫科路119號",
+    "village": "橫科里",
+    "remark": "1-20",
+    "seq": 2398,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0504501,
+      "lng": 121.6201815
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq2400",
+    "place_name": "白雲國民小學",
+    "address": "民權街二段90號",
+    "village": "福山里",
+    "remark": "1-10",
+    "seq": 2400,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0476413,
+      "lng": 121.6188825
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq2402",
+    "place_name": "名人社區管理委員會",
+    "address": "宜興街50巷1號2樓",
+    "village": "宜興里",
+    "remark": "1-13",
+    "seq": 2402,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0427974,
+      "lng": 121.6222229
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2403",
+    "place_name": "宜興福德宮",
+    "address": "林森街70號",
+    "village": "宜興里",
+    "remark": "14-25",
+    "seq": 2403,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0408381,
+      "lng": 121.6231686
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2404",
+    "place_name": "宜興、東勢市民活動中心",
+    "address": "東勢街15號之1",
+    "village": "東勢里",
+    "remark": "1-6,17,18",
+    "seq": 2404,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0861924,
+      "lng": 121.7446421
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2405",
+    "place_name": "北后雲天宮",
+    "address": "東勢街76巷26號",
+    "village": "東勢里",
+    "remark": "7-9,12,16",
+    "seq": 2405,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.0399083,
+      "lng": 121.6337179
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2406",
+    "place_name": "研究苑別墅社區管理委員會管理中心",
+    "address": "東勢街201巷129弄2號",
+    "village": "東勢里",
+    "remark": "10,11,13-15,19-21",
+    "seq": 2406,
+    "county": "TPQ",
+    "town": "汐止區",
+    "location": {
+      "lat": 25.03881,
+      "lng": 121.6387838
+    },
+    "power": 1
+  }
+]

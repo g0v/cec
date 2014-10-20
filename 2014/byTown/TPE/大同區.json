@@ -1,0 +1,658 @@
+[
+  {
+    "id": "tpe0907",
+    "place_name": "忠孝國中",
+    "address": "西寧北路32號",
+    "village": "玉泉里1-6",
+    "indigenous_village": "玉泉里全里",
+    "phone": "25524890",
+    "seq": 907,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0512227,
+      "lng": 121.5082177
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0909",
+    "place_name": "北門教會",
+    "address": "長安西路78巷3弄5號",
+    "village": "建明里1-6,8,11,19-26",
+    "indigenous_village": "建明里全里",
+    "phone": "25554483,0933903328",
+    "seq": 909,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0498322,
+      "lng": 121.5194188
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0910",
+    "place_name": "普濟寺",
+    "address": "華陰街100號",
+    "village": "建明里7,9-10,12-18",
+    "indigenous_village": "25587046",
+    "phone": "0952416598",
+    "seq": 910,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0505139,
+      "lng": 121.5141042
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0911",
+    "place_name": "日新國小",
+    "address": "太原路151號",
+    "village": "建功里2,4,8-9,11,14",
+    "indigenous_village": "建功里全里",
+    "phone": "25584819",
+    "seq": 911,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.054494,
+      "lng": 121.5165179
+    },
+    "power": 6
+  },
+  {
+    "id": "tpe0913",
+    "place_name": "臺北圓環保庇館",
+    "address": "南京西路284-1號",
+    "village": "建功里1,3,5-7,10,12-13,15",
+    "indigenous_village": "",
+    "phone": "25588793",
+    "seq": 913,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0539704,
+      "lng": 121.5145682
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0914",
+    "place_name": "建成國中",
+    "address": "長安西路37號之1",
+    "village": "建泰里1-11",
+    "indigenous_village": "建泰里全里",
+    "phone": "25562352",
+    "seq": 914,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0504086,
+      "lng": 121.5196574
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0916",
+    "place_name": "李春生紀念基督長老教會",
+    "address": "貴德街44號1樓",
+    "village": "永樂里20-25,13,19",
+    "indigenous_village": "",
+    "phone": "25580753",
+    "seq": 916,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.055108,
+      "lng": 121.508252
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0917",
+    "place_name": "永樂市場2樓(展覽室)",
+    "address": "迪化街1段21號2樓",
+    "village": "永樂里1-5,8-9,11,16",
+    "indigenous_village": "永樂里全里",
+    "phone": "0939879287",
+    "seq": 917,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.054862,
+      "lng": 121.51055
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0918",
+    "place_name": "永樂市場1樓電梯旁(民樂街63號對面)",
+    "address": "迪化街1段21號1樓",
+    "village": "永樂里6-7,10,12,14-15,17-18",
+    "indigenous_village": "",
+    "phone": "25507306",
+    "seq": 918,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.054862,
+      "lng": 121.51055
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0919",
+    "place_name": "福興宮",
+    "address": "南京西路167巷33號",
+    "village": "朝陽里4,7,8,9,11,15",
+    "indigenous_village": "",
+    "phone": "25594808",
+    "seq": 919,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.055803,
+      "lng": 121.512589
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0920",
+    "place_name": "皇家季節酒店(後方停車場)",
+    "address": "南京西路326號",
+    "village": "朝陽里1,2,3,5,6",
+    "indigenous_village": "朝陽里全里",
+    "phone": "25586488",
+    "seq": 920,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.053824,
+      "lng": 121.512725
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0921",
+    "place_name": "有記茶行",
+    "address": "重慶北路2段64巷26號",
+    "village": "朝陽里10,12,13,14,16,17",
+    "indigenous_village": "",
+    "phone": "25559164",
+    "seq": 921,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0556719,
+      "lng": 121.5131205
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0926",
+    "place_name": "北玄宮",
+    "address": "赤峰街53巷10號",
+    "village": "光能里2,4,13-14,17-18",
+    "indigenous_village": "光能里全里",
+    "phone": "259722510910221809",
+    "seq": 926,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0561461,
+      "lng": 121.5199878
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0927",
+    "place_name": "聖觀寺",
+    "address": "赤峰街33巷1號",
+    "village": "光能里5-6,10,12,15-16,19",
+    "indigenous_village": "",
+    "phone": "25588066",
+    "seq": 927,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0542379,
+      "lng": 121.519555
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0928",
+    "place_name": "民宅(承德路2段75巷38號1樓)",
+    "address": "承德路2段75巷38號1樓",
+    "village": "光能里1,3,7-9,11",
+    "indigenous_village": "",
+    "phone": "25567409",
+    "seq": 928,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0556949,
+      "lng": 121.519515
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0929",
+    "place_name": "永樂國小",
+    "address": "延平北路2段266號",
+    "village": "大有里1-3,5-8",
+    "indigenous_village": "",
+    "phone": "25534882#131",
+    "seq": 929,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.061301,
+      "lng": 121.5111152
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe0932",
+    "place_name": "太平國小",
+    "address": "延平北路2段239號",
+    "village": "延平里1,3-8",
+    "indigenous_village": "",
+    "phone": "25532229",
+    "seq": 932,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0613756,
+      "lng": 121.5114493
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe0933",
+    "place_name": "台北市至善堂",
+    "address": "保安街49巷16號",
+    "village": "延平里9-13",
+    "indigenous_village": "延平里全里",
+    "phone": "25570903",
+    "seq": 933,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0595168,
+      "lng": 121.5118901
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0934",
+    "place_name": "延平區民活動中心",
+    "address": "保安街47號之1(3樓)",
+    "village": "延平里2,14-18",
+    "indigenous_village": "",
+    "phone": "25975323",
+    "seq": 934,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0591691,
+      "lng": 121.5120921
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0935",
+    "place_name": "雙蓮國小",
+    "address": "錦西街51號",
+    "village": "雙連里19,21-25",
+    "indigenous_village": "",
+    "phone": "25570309",
+    "seq": 935,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.060161,
+      "lng": 121.5166898
+    },
+    "power": 6
+  },
+  {
+    "id": "tpe0937",
+    "place_name": "成淵高中勵志樓高一1教室",
+    "address": "承德路2段235號",
+    "village": "雙連里1,3-7,32",
+    "indigenous_village": "",
+    "phone": "25531969",
+    "seq": 937,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0611773,
+      "lng": 121.5184537
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0939",
+    "place_name": "雙連區民活動中心",
+    "address": "萬全街42號",
+    "village": "雙連里2,8-13",
+    "indigenous_village": "雙連里全里",
+    "phone": "25975323",
+    "seq": 939,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0586088,
+      "lng": 121.5199861
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0947",
+    "place_name": "大橋教會",
+    "address": "迪化街二段65號",
+    "village": "景星里2-5,7-10",
+    "indigenous_village": "",
+    "phone": "25974784",
+    "seq": 947,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0649252,
+      "lng": 121.5095896
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0948",
+    "place_name": "臺北橋區民活動中心",
+    "address": "迪化街1段374號2樓",
+    "village": "景星里1,6,11-15",
+    "indigenous_village": "景星里全里",
+    "phone": "25975323",
+    "seq": 948,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0631021,
+      "lng": 121.509271
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0949",
+    "place_name": "延平國小",
+    "address": "昌吉街97號",
+    "village": "隆和里2-3,8,10-11,13-15,17-18",
+    "indigenous_village": "隆和里全里",
+    "phone": "25942439",
+    "seq": 949,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0660466,
+      "lng": 121.5124544
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe0950",
+    "place_name": "大橋國小",
+    "address": "重慶北路3段2號",
+    "village": "隆和里1,4-7,9,12,16,19",
+    "indigenous_village": "",
+    "phone": "25944413#145",
+    "seq": 950,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0642905,
+      "lng": 121.5133346
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0951",
+    "place_name": "大同國小",
+    "address": "大龍街51號",
+    "village": "蓬萊里1-7",
+    "indigenous_village": "",
+    "phone": "25965407",
+    "seq": 951,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0652808,
+      "lng": 121.5161749
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe0954",
+    "place_name": "廣信府",
+    "address": "昌吉街131巷1號",
+    "village": "國順里1-4,12-15",
+    "indigenous_village": "國順里全里",
+    "phone": "0932023168",
+    "seq": 954,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.066105,
+      "lng": 121.510438
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0955",
+    "place_name": "全聯計程車行",
+    "address": "迪化街2段151號",
+    "village": "國順里5-11",
+    "indigenous_village": "",
+    "phone": "25868859",
+    "seq": 955,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0672563,
+      "lng": 121.5103599
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0959",
+    "place_name": "揚雅里民活動場所北側",
+    "address": "重慶北路3段113巷30弄1號",
+    "village": "揚雅里1-3,12-16",
+    "indigenous_village": "",
+    "phone": "0928271908",
+    "seq": 959,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0671236,
+      "lng": 121.5151018
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0961",
+    "place_name": "蘭州公寓大廈管理委員會(國宅西側地下室)",
+    "address": "大龍街89巷15號",
+    "village": "斯文里1-8",
+    "indigenous_village": "斯文里全里",
+    "phone": "0932307524",
+    "seq": 961,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0670042,
+      "lng": 121.5169861
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0963",
+    "place_name": "達伸汽車有限公司",
+    "address": "民族西路128號",
+    "village": "斯文里9-11,18-21",
+    "indigenous_village": "",
+    "phone": "25852271",
+    "seq": 963,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0684366,
+      "lng": 121.516293
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0964",
+    "place_name": "王氏太原堂(中庭)",
+    "address": "迪化街2段243巷2號",
+    "village": "鄰江里1-3,16-18",
+    "indigenous_village": "",
+    "phone": "25945355",
+    "seq": 964,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0718929,
+      "lng": 121.51281
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0966",
+    "place_name": "王氏太原堂幼稚園A教室(由後門進入)",
+    "address": "迪化街二段243巷2號(重慶北路3段252巷)",
+    "village": "鄰江里12,19,23-29",
+    "indigenous_village": "",
+    "phone": "25945355",
+    "seq": 966,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0713315,
+      "lng": 121.5122984
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0967",
+    "place_name": "福圓宮",
+    "address": "民族西路303巷9號",
+    "village": "鄰江里4-10",
+    "indigenous_village": "",
+    "phone": "25967660",
+    "seq": 967,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0690519,
+      "lng": 121.510203
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0968",
+    "place_name": "蘭州國中",
+    "address": "大龍街187巷1號",
+    "village": "至聖里1-7",
+    "indigenous_village": "",
+    "phone": "25918269",
+    "seq": 968,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.069322,
+      "lng": 121.5167356
+    },
+    "power": 5
+  },
+  {
+    "id": "tpe0973",
+    "place_name": "啟聰學校國小",
+    "address": "重慶北路3段320號",
+    "village": "老師里1-3,5-6",
+    "indigenous_village": "",
+    "phone": "25924446#311",
+    "seq": 973,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0746837,
+      "lng": 121.5133846
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0975",
+    "place_name": "老師區民活動中心",
+    "address": "敦煌路160之2號",
+    "village": "老師里11,13-15,17",
+    "indigenous_village": "",
+    "phone": "25975323",
+    "seq": 975,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0763638,
+      "lng": 121.5136641
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0976",
+    "place_name": "慶昌區民活動中心",
+    "address": "敦煌路臨159號",
+    "village": "老師里4,12,16,21-22",
+    "indigenous_village": "老師里全里",
+    "phone": "25975323",
+    "seq": 976,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0764482,
+      "lng": 121.5157479
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0977",
+    "place_name": "大龍國小",
+    "address": "哈密街47號",
+    "village": "重慶里1-5,11",
+    "indigenous_village": "",
+    "phone": "25942635#835",
+    "seq": 977,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.073409,
+      "lng": 121.5166925
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe0978",
+    "place_name": "重慶國中",
+    "address": "敦煌路19號",
+    "village": "重慶里6,9-10,15-17",
+    "indigenous_village": "",
+    "phone": "25948631",
+    "seq": 978,
+    "county": "TPE",
+    "town": "大同區",
+    "location": {
+      "lat": 25.0759808,
+      "lng": 121.5179984
+    },
+    "power": 3
+  }
+]

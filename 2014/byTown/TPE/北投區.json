@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "tpe0001",
+    "place_name": "中正高中護理教室",
+    "address": "文林北路77號",
+    "village": "建民里1-7",
+    "indigenous_village": "建民里全里",
+    "phone": "28234811轉510",
+    "seq": 1,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1044123,
+      "lng": 121.516608
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe0004",
+    "place_name": "明德國中",
+    "address": "明德路50號",
+    "village": "文林里1-7",
+    "indigenous_village": "文林里全里",
+    "phone": "28232539轉604",
+    "seq": 4,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1078221,
+      "lng": 121.5184451
+    },
+    "power": 9
+  },
+  {
+    "id": "tpe0010",
+    "place_name": "士林福庭公寓大廈閱覽室",
+    "address": "石牌路1段58巷11號",
+    "village": "福興里1,2,5,10,19",
+    "indigenous_village": "",
+    "phone": "28231898",
+    "seq": 10,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.112927,
+      "lng": 121.5115777
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0011",
+    "place_name": "福星宮活動中心",
+    "address": "自強街5巷8號",
+    "village": "福興里3,6,8,9,11,12",
+    "indigenous_village": "",
+    "phone": "28235574",
+    "seq": 11,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1105564,
+      "lng": 121.5120348
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0012",
+    "place_name": "汾陽宮",
+    "address": "石牌路1段58巷28弄6號",
+    "village": "福興里4,7,13,20",
+    "indigenous_village": "福興里全里",
+    "phone": "28203001",
+    "seq": 12,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1123622,
+      "lng": 121.5120115
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0013",
+    "place_name": "台灣女性藝術協會",
+    "address": "自強街61巷6號",
+    "village": "福興里14-18",
+    "indigenous_village": "",
+    "phone": "28218827",
+    "seq": 13,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1107677,
+      "lng": 121.513833
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0014",
+    "place_name": "石牌國中",
+    "address": "石牌路1段139號",
+    "village": "榮光里1-6",
+    "indigenous_village": "榮光里全里",
+    "phone": "28224682轉253",
+    "seq": 14,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.114982,
+      "lng": 121.5141732
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe0018",
+    "place_name": "明德國小",
+    "address": "明德路190號",
+    "village": "榮華里1-5,21",
+    "indigenous_village": "",
+    "phone": "28229651",
+    "seq": 18,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1121226,
+      "lng": 121.5217881
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0019",
+    "place_name": "臺北市立北投幼兒園",
+    "address": "明德路208巷5號",
+    "village": "榮華里6,8-11,20",
+    "indigenous_village": "",
+    "phone": "28231827",
+    "seq": 19,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1131424,
+      "lng": 121.5226242
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0020",
+    "place_name": "臺北市教會第44聚會所",
+    "address": "明德路174巷8號",
+    "village": "榮華里7,13-15",
+    "indigenous_village": "榮華里全里",
+    "phone": "28265364",
+    "seq": 20,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1109849,
+      "lng": 121.5216604
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0021",
+    "place_name": "臺北市私立一德幼兒園",
+    "address": "明德路136巷9號",
+    "village": "榮華里12,16-19",
+    "indigenous_village": "",
+    "phone": "28215755",
+    "seq": 21,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1099061,
+      "lng": 121.521267
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0025",
+    "place_name": "基督教天母感恩堂",
+    "address": "明德路161號",
+    "village": "裕民里4,6,7,16,17,19,20",
+    "indigenous_village": "",
+    "phone": "28224466",
+    "seq": 25,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1115429,
+      "lng": 121.5211629
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0026",
+    "place_name": "臺北護理健康大學B112教室",
+    "address": "明德路365號",
+    "village": "振華里1-5,9,15",
+    "indigenous_village": "",
+    "phone": "28227101",
+    "seq": 26,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1180471,
+      "lng": 121.5209852
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe0029",
+    "place_name": "基督教振恩堂",
+    "address": "榮華三路47號",
+    "village": "振華里12,14,20-23,25",
+    "indigenous_village": "振華里全里",
+    "phone": "28220386",
+    "seq": 29,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1140575,
+      "lng": 121.5203398
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0030",
+    "place_name": "道爾敦教育機構",
+    "address": "石牌路2段361號",
+    "village": "永和里1-5",
+    "indigenous_village": "",
+    "phone": "28771577",
+    "seq": 30,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.123755,
+      "lng": 121.5252191
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0031",
+    "place_name": "櫻花崗華廈地下室〈車庫旁〉",
+    "address": "行義路128-1號地下樓",
+    "village": "永和里6-9",
+    "indigenous_village": "",
+    "phone": "28752042",
+    "seq": 31,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.128898,
+      "lng": 121.528534
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0032",
+    "place_name": "私人住宅〈車庫〉",
+    "address": "行義路148號",
+    "village": "永和里10,11,14,17-19,24",
+    "indigenous_village": "永和里全里",
+    "phone": "28747126",
+    "seq": 32,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1288964,
+      "lng": 121.5282304
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0033",
+    "place_name": "日光綠野華廈停車場",
+    "address": "行義路154巷7號〈地下室〉",
+    "village": "永和里12,13,15,16",
+    "indigenous_village": "",
+    "phone": "28724160",
+    "seq": 33,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1305958,
+      "lng": 121.5280515
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0034",
+    "place_name": "甲桂林山莊聯誼社",
+    "address": "中山北路7段219巷3弄125之1號旁",
+    "village": "永和里20-23",
+    "indigenous_village": "",
+    "phone": "28713954",
+    "seq": 34,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1296233,
+      "lng": 121.5309078
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0035",
+    "place_name": "榮民總醫院介壽堂",
+    "address": "石牌路2段201號",
+    "village": "永欣里1-7",
+    "indigenous_village": "",
+    "phone": "28757433",
+    "seq": 35,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1211031,
+      "lng": 121.519827
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0036",
+    "place_name": "優格幼兒園",
+    "address": "石牌路2段315巷10弄10號",
+    "village": "永欣里13-17",
+    "indigenous_village": "永欣里全里",
+    "phone": "28710871",
+    "seq": 36,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1228939,
+      "lng": 121.5231871
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0037",
+    "place_name": "華民幼兒園",
+    "address": "石牌路2段358號",
+    "village": "永欣里8-12,18",
+    "indigenous_village": "",
+    "phone": "28732423",
+    "seq": 37,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1233461,
+      "lng": 121.5252855
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0038",
+    "place_name": "丹佛幼兒園",
+    "address": "石牌路2段358-1號",
+    "village": "永欣里19-23",
+    "indigenous_village": "",
+    "phone": "28721955",
+    "seq": 38,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1233461,
+      "lng": 121.5252855
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0039",
+    "place_name": "陽明天母大廈交誼廳",
+    "address": "立農街2段202巷6號後側",
+    "village": "永明里8,10-12",
+    "indigenous_village": "",
+    "phone": "28208700",
+    "seq": 39,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1194599,
+      "lng": 121.5125605
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0040",
+    "place_name": "永福祠",
+    "address": "石牌路2段97巷1號",
+    "village": "永明里3-6,9",
+    "indigenous_village": "",
+    "phone": "0939119326",
+    "seq": 40,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1176098,
+      "lng": 121.5162094
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0041",
+    "place_name": "正大幼兒園",
+    "address": "義理街49巷2號",
+    "village": "永明里1,2,7",
+    "indigenous_village": "永明里全里",
+    "phone": "28229788",
+    "seq": 41,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1169782,
+      "lng": 121.5155512
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0042",
+    "place_name": "新工處五分隊停車場〈右側〉",
+    "address": "致遠三路158號",
+    "village": "東華里1-6",
+    "indigenous_village": "",
+    "phone": "28226177",
+    "seq": 42,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1217591,
+      "lng": 121.5102872
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0044",
+    "place_name": "陽明大學平衡運動訓練中心",
+    "address": "立農街2段143號",
+    "village": "東華里13-18",
+    "indigenous_village": "東華里全里",
+    "phone": "28267000轉2219",
+    "seq": 44,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.119,
+      "lng": 121.5132436
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0045",
+    "place_name": "石牌國小",
+    "address": "致遠二路80號",
+    "village": "吉利里1-5",
+    "indigenous_village": "",
+    "phone": "28227484",
+    "seq": 45,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1156878,
+      "lng": 121.5117046
+    },
+    "power": 10
+  },
+  {
+    "id": "tpe0055",
+    "place_name": "台北慈惠堂",
+    "address": "吉利街27號",
+    "village": "立賢里1-3,6,7",
+    "indigenous_village": "",
+    "phone": "28218524",
+    "seq": 55,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1181848,
+      "lng": 121.5049648
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0056",
+    "place_name": "立農國小",
+    "address": "立農街1段250號",
+    "village": "立賢里8-12",
+    "indigenous_village": "立賢里全里",
+    "phone": "28212604",
+    "seq": 56,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1194919,
+      "lng": 121.5052073
+    },
+    "power": 6
+  },
+  {
+    "id": "tpe0058",
+    "place_name": "慈生宮餐廳",
+    "address": "立農街1段321號",
+    "village": "立農里1-5",
+    "indigenous_village": "",
+    "phone": "28227410",
+    "seq": 58,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1196844,
+      "lng": 121.5070204
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0059",
+    "place_name": "立農里里民活動場所",
+    "address": "吉利街123巷30號",
+    "village": "立農里6,7,9,10",
+    "indigenous_village": "",
+    "phone": "28262408",
+    "seq": 59,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1192746,
+      "lng": 121.5061632
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0063",
+    "place_name": "文武廟",
+    "address": "北投路1段53號左側",
+    "village": "八仙里1-4,13-15",
+    "indigenous_village": "",
+    "phone": "28933970",
+    "seq": 63,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.125136,
+      "lng": 121.500757
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0064",
+    "place_name": "八仙里里民活動場所",
+    "address": "中央南路2段33號之1",
+    "village": "八仙里5,6,10-12",
+    "indigenous_village": "",
+    "phone": "28985252",
+    "seq": 64,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1249762,
+      "lng": 121.5004738
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0066",
+    "place_name": "屈原宮",
+    "address": "洲美街122號",
+    "village": "洲美里1-10",
+    "indigenous_village": "洲美里全里",
+    "phone": "28360256",
+    "seq": 66,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.099664,
+      "lng": 121.505556
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0067",
+    "place_name": "清江國小",
+    "address": "公館路220號",
+    "village": "奇岩里1-4,28",
+    "indigenous_village": "奇岩里全里",
+    "phone": "28912764",
+    "seq": 67,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1269568,
+      "lng": 121.5076634
+    },
+    "power": 5
+  },
+  {
+    "id": "tpe0072",
+    "place_name": "北投區行政中心",
+    "address": "新市街30號1樓",
+    "village": "清江里1-3",
+    "indigenous_village": "清江里全里",
+    "phone": "28912105",
+    "seq": 72,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1324311,
+      "lng": 121.503017
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0073",
+    "place_name": "慈后宮",
+    "address": "清江路169號",
+    "village": "清江里4-9",
+    "indigenous_village": "",
+    "phone": "28915323",
+    "seq": 73,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1282374,
+      "lng": 121.5019863
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0074",
+    "place_name": "清江區民活動中心",
+    "address": "清江路177巷12號",
+    "village": "清江里15,19,22,23,25,26",
+    "indigenous_village": "",
+    "phone": "28912105轉216",
+    "seq": 74,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1315373,
+      "lng": 121.5015488
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0075",
+    "place_name": "北投行道會福音中心",
+    "address": "清江路186號",
+    "village": "清江里10-13,16-18",
+    "indigenous_village": "",
+    "phone": "28916609",
+    "seq": 75,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1280482,
+      "lng": 121.5018132
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0076",
+    "place_name": "基督教北投行道會",
+    "address": "崇仁路1段17巷1號",
+    "village": "清江里14,20,21,24,27",
+    "indigenous_village": "",
+    "phone": "28916609",
+    "seq": 76,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1279187,
+      "lng": 121.5015086
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0077",
+    "place_name": "北投國小",
+    "address": "中央北路1段73號",
+    "village": "中央里1-7,9",
+    "indigenous_village": "",
+    "phone": "28914315",
+    "seq": 77,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1341421,
+      "lng": 121.5002163
+    },
+    "power": 9
+  },
+  {
+    "id": "tpe0081",
+    "place_name": "北投國小",
+    "address": "中央北路一段73號",
+    "village": "中央里23-28",
+    "indigenous_village": "中央里全里",
+    "phone": "28914315",
+    "seq": 81,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1341421,
+      "lng": 121.5002163
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0084",
+    "place_name": "北投國中",
+    "address": "溫泉路62號",
+    "village": "長安里15-23",
+    "indigenous_village": "",
+    "phone": "28912091轉208",
+    "seq": 84,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1344493,
+      "lng": 121.504201
+    },
+    "power": 5
+  },
+  {
+    "id": "tpe0092",
+    "place_name": "新民國中",
+    "address": "新民路10號",
+    "village": "林泉里1-7",
+    "indigenous_village": "林泉里全里",
+    "phone": "28979001轉500、520",
+    "seq": 92,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.138102,
+      "lng": 121.507636
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0094",
+    "place_name": "逸仙國小",
+    "address": "新民路2號",
+    "village": "中心里2-6",
+    "indigenous_village": "",
+    "phone": "28914537轉12",
+    "seq": 94,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1383716,
+      "lng": 121.5051631
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe0097",
+    "place_name": "文化國小",
+    "address": "文化三路1號",
+    "village": "中庸里1-5",
+    "indigenous_village": "中庸里全里",
+    "phone": "28933828轉131",
+    "seq": 97,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1371061,
+      "lng": 121.4966582
+    },
+    "power": 9
+  },
+  {
+    "id": "tpe0100",
+    "place_name": "71園區A101教室",
+    "address": "開明街71號",
+    "village": "開明里3-5,7,9-12",
+    "indigenous_village": "",
+    "phone": "28926952",
+    "seq": 100,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1413795,
+      "lng": 121.5024468
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe0103",
+    "place_name": "復興高中行政大樓一樓川堂",
+    "address": "復興四路70號",
+    "village": "中和里11-17",
+    "indigenous_village": "",
+    "phone": "28914131",
+    "seq": 103,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1435907,
+      "lng": 121.5017997
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0104",
+    "place_name": "中華聖樂學院",
+    "address": "復興四路24號",
+    "village": "中和里1,2,7,9,10,19",
+    "indigenous_village": "中和里全里",
+    "phone": "28916431",
+    "seq": 104,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.142,
+      "lng": 121.500107
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0105",
+    "place_name": "中和里里民活動場所",
+    "address": "中和街422號",
+    "village": "中和里3-6,8,18",
+    "indigenous_village": "",
+    "phone": "28942200",
+    "seq": 105,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1440681,
+      "lng": 121.4979398
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0106",
+    "place_name": "禇金治女士車庫",
+    "address": "杏林三路40巷1弄15號",
+    "village": "智仁里1-7",
+    "indigenous_village": "",
+    "phone": "28924355",
+    "seq": 106,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.141804,
+      "lng": 121.497134
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0107",
+    "place_name": "智仁里里民活動場所",
+    "address": "杏林二路74巷3號",
+    "village": "智仁里8,9,11-15",
+    "indigenous_village": "智仁里全里",
+    "phone": "28959722",
+    "seq": 107,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.142925,
+      "lng": 121.495911
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0108",
+    "place_name": "道生基督教長老教會北投中和教會",
+    "address": "中和街493巷6之3號",
+    "village": "智仁里10,16-21",
+    "indigenous_village": "",
+    "phone": "28910307",
+    "seq": 108,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1447115,
+      "lng": 121.4947574
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0109",
+    "place_name": "水磨福德宮",
+    "address": "中和街458巷5號",
+    "village": "秀山里1-7",
+    "indigenous_village": "",
+    "phone": "28954657",
+    "seq": 109,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.144929,
+      "lng": 121.496033
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0110",
+    "place_name": "秀山里里民活動場所",
+    "address": "中和街502巷2弄11號",
+    "village": "秀山里8-15",
+    "indigenous_village": "秀山里全里",
+    "phone": "28941666",
+    "seq": 110,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1456211,
+      "lng": 121.4948349
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0117",
+    "place_name": "桃源國小",
+    "address": "中央北路3段40巷45號",
+    "village": "稻香里1-5",
+    "indigenous_village": "",
+    "phone": "28941208轉108",
+    "seq": 117,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1396065,
+      "lng": 121.4844813
+    },
+    "power": 6
+  },
+  {
+    "id": "tpe0120",
+    "place_name": "桃源里里民活動場所",
+    "address": "中央北路3段40巷7號",
+    "village": "桃源里1-4",
+    "indigenous_village": "",
+    "phone": "28923977",
+    "seq": 120,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1385406,
+      "lng": 121.4853558
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0124",
+    "place_name": "桃源國中",
+    "address": "中央北路4段48號",
+    "village": "一德里1-6",
+    "indigenous_village": "",
+    "phone": "28929633",
+    "seq": 124,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1346473,
+      "lng": 121.4772995
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0125",
+    "place_name": "關渡國小",
+    "address": "中央北路4段581號",
+    "village": "一德里7-12",
+    "indigenous_village": "一德里全里",
+    "phone": "28912847",
+    "seq": 125,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.126886,
+      "lng": 121.4668792
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe0128",
+    "place_name": "關渡區民活動中心",
+    "address": "大度路3段301巷1號",
+    "village": "關渡里1,2,9,24",
+    "indigenous_village": "",
+    "phone": "28584128",
+    "seq": 128,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1230817,
+      "lng": 121.4664051
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0129",
+    "place_name": "關渡國中",
+    "address": "知行路212號",
+    "village": "關渡里5,10-12,20,28",
+    "indigenous_village": "",
+    "phone": "28582527轉51",
+    "seq": 129,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1198847,
+      "lng": 121.4671448
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe0133",
+    "place_name": "市立浩然敬老院致和樓交誼廳",
+    "address": "知行路75號",
+    "village": "關渡里3,16",
+    "indigenous_village": "",
+    "phone": "28581081轉247",
+    "seq": 133,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.118367,
+      "lng": 121.467733
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0134",
+    "place_name": "義方國小",
+    "address": "珠海路155號",
+    "village": "泉源里1,3",
+    "indigenous_village": "泉源里全里",
+    "phone": "28917433",
+    "seq": 134,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1419691,
+      "lng": 121.5092915
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0135",
+    "place_name": "泉源里里民活動中心",
+    "address": "東昇路45-5號",
+    "village": "泉源里2,4-16",
+    "indigenous_village": "",
+    "phone": "28919539",
+    "seq": 135,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.148974,
+      "lng": 121.523974
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0136",
+    "place_name": "湖山國小",
+    "address": "湖底路11號",
+    "village": "湖山里1-3,14-18",
+    "indigenous_village": "湖山里全里",
+    "phone": "28610259",
+    "seq": 136,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1496532,
+      "lng": 121.535435
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0137",
+    "place_name": "北投區清潔隊陽明分隊",
+    "address": "紗帽路141巷23號",
+    "village": "湖山里4-13",
+    "indigenous_village": "",
+    "phone": "28617757",
+    "seq": 137,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1437783,
+      "lng": 121.5315293
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0138",
+    "place_name": "大屯國小",
+    "address": "復興三路312號",
+    "village": "大屯里1-10",
+    "indigenous_village": "大屯里全里",
+    "phone": "28914353轉13",
+    "seq": 138,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.154895,
+      "lng": 121.503983
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0139",
+    "place_name": "湖田國小",
+    "address": "竹子湖路17之2號",
+    "village": "湖田里1-10",
+    "indigenous_village": "湖田里全里",
+    "phone": "28616963",
+    "seq": 139,
+    "county": "TPE",
+    "town": "北投區",
+    "location": {
+      "lat": 25.1684294,
+      "lng": 121.5387714
+    },
+    "power": 1
+  }
+]

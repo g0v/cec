@@ -1,0 +1,197 @@
+[
+  {
+    "id": "tpq2280",
+    "place_name": "萬里國小",
+    "address": "瑪鋉路18號",
+    "village": "萬里里",
+    "remark": "1-6,23",
+    "seq": 2280,
+    "county": "TPQ",
+    "town": "萬里區",
+    "location": {
+      "lat": 25.1821074,
+      "lng": 121.6880895
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq2282",
+    "place_name": "萬里區老人會",
+    "address": "瑪鋉路261號",
+    "village": "萬里里",
+    "remark": "7-22,34,35",
+    "seq": 2282,
+    "county": "TPQ",
+    "town": "萬里區",
+    "location": {
+      "lat": 25.1821074,
+      "lng": 121.6880895
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2283",
+    "place_name": "中華商業海事學校",
+    "address": "瑪鋉路15號",
+    "village": "北基里",
+    "remark": "1-12",
+    "seq": 2283,
+    "county": "TPQ",
+    "town": "萬里區",
+    "location": {
+      "lat": 25.1753594,
+      "lng": 121.6871523
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq2285",
+    "place_name": "龜吼里市民活動中心",
+    "address": "玉田45之3號",
+    "village": "龜吼里",
+    "remark": "1-3,9",
+    "seq": 2285,
+    "county": "TPQ",
+    "town": "萬里區",
+    "location": {
+      "lat": 25.200692,
+      "lng": 121.676295
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2286",
+    "place_name": "龜吼里保民宮",
+    "address": "皷亭14號",
+    "village": "龜吼里",
+    "remark": "4-8,10-20",
+    "seq": 2286,
+    "county": "TPQ",
+    "town": "萬里區",
+    "location": {
+      "lat": 25.1676024,
+      "lng": 121.6397184
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2287",
+    "place_name": "野柳國小",
+    "address": "港東167號",
+    "village": "野柳里",
+    "remark": "1-9",
+    "seq": 2287,
+    "county": "TPQ",
+    "town": "萬里區",
+    "location": {
+      "lat": 25.2040931,
+      "lng": 121.6878148
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2288",
+    "place_name": "野柳市民活動中心",
+    "address": "港東新邨1之6號",
+    "village": "野柳里",
+    "remark": "10-19",
+    "seq": 2288,
+    "county": "TPQ",
+    "town": "萬里區",
+    "location": {
+      "lat": 25.1676024,
+      "lng": 121.6397184
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2289",
+    "place_name": "大鵬國小",
+    "address": "萬里加投14號",
+    "village": "大鵬里",
+    "remark": "1-8",
+    "seq": 2289,
+    "county": "TPQ",
+    "town": "萬里區",
+    "location": {
+      "lat": 25.2124999,
+      "lng": 121.6467252
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq2290",
+    "place_name": "加投社區活動中心",
+    "address": "萬里加投153之1號",
+    "village": "大鵬里",
+    "remark": "9-24",
+    "seq": 2290,
+    "county": "TPQ",
+    "town": "萬里區",
+    "location": {
+      "lat": 25.2124999,
+      "lng": 121.6467252
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2292",
+    "place_name": "雙興里市民活動中心",
+    "address": "二坪1之1號",
+    "village": "雙興里",
+    "remark": "全里",
+    "seq": 2292,
+    "county": "TPQ",
+    "town": "萬里區",
+    "location": {
+      "lat": 25.1677033,
+      "lng": 121.6446346
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2293",
+    "place_name": "大坪國小",
+    "address": "富士坪2號",
+    "village": "溪底里",
+    "remark": "全里",
+    "seq": 2293,
+    "county": "TPQ",
+    "town": "萬里區",
+    "location": {
+      "lat": 25.153413,
+      "lng": 121.618522
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2294",
+    "place_name": "崁脚市民活動中心",
+    "address": "崁脚55之1號",
+    "village": "崁脚里",
+    "remark": "全里",
+    "seq": 2294,
+    "county": "TPQ",
+    "town": "萬里區",
+    "location": {
+      "lat": 25.1604315,
+      "lng": 121.6508265
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2295",
+    "place_name": "中幅社區活動中心",
+    "address": "中福112之1號",
+    "village": "中幅里",
+    "remark": "全里",
+    "seq": 2295,
+    "county": "TPQ",
+    "town": "萬里區",
+    "location": {
+      "lat": 25.171926,
+      "lng": 121.6796549
+    },
+    "power": 1
+  }
+]

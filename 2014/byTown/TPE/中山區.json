@@ -1,0 +1,1090 @@
+[
+  {
+    "id": "tpe0778",
+    "place_name": "正守里固定里民活動場所",
+    "address": "市民大道2段67巷26號1樓",
+    "village": "正守里1-7",
+    "indigenous_village": "正守里全里",
+    "phone": "0972-295601",
+    "seq": 778,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0473034,
+      "lng": 121.5285346
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0779",
+    "place_name": "林森區民活動中心",
+    "address": "林森北路67巷7號1樓",
+    "village": "正守里8-13",
+    "indigenous_village": "",
+    "phone": "0988-179764",
+    "seq": 779,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0486467,
+      "lng": 121.5249137
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0780",
+    "place_name": "正義里固定里民活動場所",
+    "address": "林森北路133巷78號",
+    "village": "正義里8,9,11,13,17",
+    "indigenous_village": "",
+    "phone": "0972-295602",
+    "seq": 780,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0507024,
+      "lng": 121.5274184
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0781",
+    "place_name": "環保局中正區清潔隊(忠孝分隊)",
+    "address": "長安東路1段89號",
+    "village": "正義里1-6",
+    "indigenous_village": "",
+    "phone": "25817314",
+    "seq": 781,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0483296,
+      "lng": 121.528758
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0782",
+    "place_name": "黃秀莊先生宅",
+    "address": "林森北路145巷45號",
+    "village": "正義里7,10,12,14-16",
+    "indigenous_village": "正義里全里",
+    "phone": "25116670",
+    "seq": 782,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0511939,
+      "lng": 121.5267291
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0783",
+    "place_name": "中山基督長老教會",
+    "address": "林森北路62號",
+    "village": "正得里1-7,10",
+    "indigenous_village": "",
+    "phone": "25518480#117",
+    "seq": 783,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0613624,
+      "lng": 121.5269007
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0784",
+    "place_name": "臺北會幕堂",
+    "address": "中山北路1段105巷19號",
+    "village": "正得里8-9,11-16",
+    "indigenous_village": "正得里全里",
+    "phone": "25712150",
+    "seq": 784,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0507234,
+      "lng": 121.5240239
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0785",
+    "place_name": "民安區民活動中心",
+    "address": "長安西路3號3樓",
+    "village": "民安里1-8",
+    "indigenous_village": "",
+    "phone": "25031369#529",
+    "seq": 785,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0502099,
+      "lng": 121.5209542
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0786",
+    "place_name": "中山區市民運動中心",
+    "address": "中山北路2段44巷2號1樓",
+    "village": "民安里9-14",
+    "indigenous_village": "民安里全里",
+    "phone": "0972-295604",
+    "seq": 786,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0548895,
+      "lng": 121.5213932
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0787",
+    "place_name": "捷運工程局行政大樓(1樓)",
+    "address": "中山北路2段48巷7號1樓",
+    "village": "民安里15-21",
+    "indigenous_village": "",
+    "phone": "25215550",
+    "seq": 787,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0557911,
+      "lng": 121.5210944
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0788",
+    "place_name": "公理堂",
+    "address": "中山北路2段45巷39號",
+    "village": "康樂里1-6",
+    "indigenous_village": "",
+    "phone": "25118023",
+    "seq": 788,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.054464,
+      "lng": 121.5250253
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0789",
+    "place_name": "康樂區民活動中心",
+    "address": "南京東路1段35號(林森公園內)",
+    "village": "康樂里7-16",
+    "indigenous_village": "康樂里全里",
+    "phone": "0972-295605",
+    "seq": 789,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0524859,
+      "lng": 121.5264659
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0790",
+    "place_name": "中山區民活動中心",
+    "address": "中山北路2段59巷21號2樓",
+    "village": "中山里1-5",
+    "indigenous_village": "",
+    "phone": "0972-295606",
+    "seq": 790,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.055903,
+      "lng": 121.524151
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe0793",
+    "place_name": "新福宮",
+    "address": "新生北路2段62巷35號",
+    "village": "中山里19-26",
+    "indigenous_village": "中山里全里",
+    "phone": "25631982",
+    "seq": 793,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.056306,
+      "lng": 121.5259367
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0794",
+    "place_name": "原菸酒公賣局中山配銷處(一)",
+    "address": "民生東路1段21號",
+    "village": "聚盛里1-6",
+    "indigenous_village": "聚盛里全里",
+    "phone": "0972-295607",
+    "seq": 794,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0584215,
+      "lng": 121.5240033
+    },
+    "power": 3
+  },
+  {
+    "id": "tpe0797",
+    "place_name": "文昌宮守望相助隊協勤中心",
+    "address": "民生西路45巷7弄20號",
+    "village": "集英里1-7",
+    "indigenous_village": "",
+    "phone": "25210366",
+    "seq": 797,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0586993,
+      "lng": 121.5214948
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0798",
+    "place_name": "九府仙師廟",
+    "address": "民權西路70巷33號",
+    "village": "集英里8-13",
+    "indigenous_village": "",
+    "phone": "25317349",
+    "seq": 798,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0618453,
+      "lng": 121.5199836
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0799",
+    "place_name": "圓明宮",
+    "address": "中山北路2段128巷3之2號",
+    "village": "集英里14-20",
+    "indigenous_village": "",
+    "phone": "25610023",
+    "seq": 799,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0618732,
+      "lng": 121.5218797
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0800",
+    "place_name": "崇德宮",
+    "address": "撫順街41巷臨2之10號",
+    "village": "集英里21-24",
+    "indigenous_village": "集英里全里",
+    "phone": "25966402",
+    "seq": 800,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0637188,
+      "lng": 121.5194196
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0801",
+    "place_name": "新興國中",
+    "address": "林森北路511號",
+    "village": "聚葉里1-8",
+    "indigenous_village": "",
+    "phone": "25714211",
+    "seq": 801,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0619756,
+      "lng": 121.5257455
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0803",
+    "place_name": "中山國小",
+    "address": "民權東路1段69號",
+    "village": "恆安里1-6",
+    "indigenous_village": "",
+    "phone": "25914085",
+    "seq": 803,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0628439,
+      "lng": 121.5256353
+    },
+    "power": 9
+  },
+  {
+    "id": "tpe0812",
+    "place_name": "私立稻江護家(312教室)",
+    "address": "新生北路3段55號",
+    "village": "新庄里1-6",
+    "indigenous_village": "新庄里全里",
+    "phone": "25955161",
+    "seq": 812,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0653484,
+      "lng": 121.5285873
+    },
+    "power": 6
+  },
+  {
+    "id": "tpe0815",
+    "place_name": "崇實區民活動中心",
+    "address": "通北街143號1樓",
+    "village": "劍潭里1-11",
+    "indigenous_village": "",
+    "phone": "25335530",
+    "seq": 815,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.084918,
+      "lng": 121.538043
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0816",
+    "place_name": "圓山新城社區管理委員會(B1)",
+    "address": "通北街65巷2弄2號B1",
+    "village": "劍潭里12-22",
+    "indigenous_village": "劍潭里全里",
+    "phone": "25335530",
+    "seq": 816,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0829104,
+      "lng": 121.5397915
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0817",
+    "place_name": "大直國小",
+    "address": "大直街2號",
+    "village": "大直里1-8",
+    "indigenous_village": "大直里全里",
+    "phone": "25333953",
+    "seq": 817,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0804685,
+      "lng": 121.5464344
+    },
+    "power": 5
+  },
+  {
+    "id": "tpe0822",
+    "place_name": "永安國小",
+    "address": "明水路397巷19弄1號",
+    "village": "成功里1-7",
+    "indigenous_village": "",
+    "phone": "25335672",
+    "seq": 822,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0787761,
+      "lng": 121.5494063
+    },
+    "power": 9
+  },
+  {
+    "id": "tpe0831",
+    "place_name": "濱江國中",
+    "address": "樂群二路262號",
+    "village": "金泰里1-4",
+    "indigenous_village": "",
+    "phone": "85020126",
+    "seq": 831,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0797333,
+      "lng": 121.5608802
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe0835",
+    "place_name": "北安區民活動中心",
+    "address": "北安路759巷6號1樓",
+    "village": "北安里1-5",
+    "indigenous_village": "",
+    "phone": "85098032",
+    "seq": 835,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.081336,
+      "lng": 121.548414
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0836",
+    "place_name": "劍潭古寺",
+    "address": "北安路805巷6號",
+    "village": "北安里6-12",
+    "indigenous_village": "北安里全里",
+    "phone": "25323834",
+    "seq": 836,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.086177,
+      "lng": 121.5553568
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0840",
+    "place_name": "花國鮮花禮品行",
+    "address": "松江路402巷8弄6號",
+    "village": "新福里1-7",
+    "indigenous_village": "",
+    "phone": "25856666",
+    "seq": 840,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0637008,
+      "lng": 121.5325678
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0841",
+    "place_name": "聖道明教會",
+    "address": "吉林路378號",
+    "village": "新福里8-14",
+    "indigenous_village": "",
+    "phone": "25942294",
+    "seq": 841,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0646299,
+      "lng": 121.530001
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0842",
+    "place_name": "亞都麗緻飯店(會議室)",
+    "address": "新生北路3段3巷55號",
+    "village": "新福里15-20",
+    "indigenous_village": "新福里全里",
+    "phone": "25971234",
+    "seq": 842,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.06317,
+      "lng": 121.5296312
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0843",
+    "place_name": "雙境廟",
+    "address": "松江路235巷22號",
+    "village": "松江里1-3,11-12",
+    "indigenous_village": "",
+    "phone": "25024366",
+    "seq": 843,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0587063,
+      "lng": 121.5341515
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0844",
+    "place_name": "康寧大廈(南側川廊)",
+    "address": "松江路287號",
+    "village": "松江里4-9",
+    "indigenous_village": "",
+    "phone": "0933-869000",
+    "seq": 844,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0604407,
+      "lng": 121.5333463
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0845",
+    "place_name": "康寧大廈(北側川廊)",
+    "address": "松江路293號",
+    "village": "松江里10,13-16,19",
+    "indigenous_village": "",
+    "phone": "0933-869000",
+    "seq": 845,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.060878,
+      "lng": 121.533538
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0846",
+    "place_name": "胡世芳車庫",
+    "address": "建國北路2段258巷15號",
+    "village": "松江里17-18,20-23",
+    "indigenous_village": "松江里全里",
+    "phone": "25023702",
+    "seq": 846,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.061892,
+      "lng": 121.5359344
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0847",
+    "place_name": "正光幼稚園",
+    "address": "松江路362巷15號",
+    "village": "新生里1-8",
+    "indigenous_village": "",
+    "phone": "25373839",
+    "seq": 847,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0620354,
+      "lng": 121.5324036
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0848",
+    "place_name": "沈剛宅",
+    "address": "民權東路2段92巷2弄16號",
+    "village": "新生里9-15",
+    "indigenous_village": "新生里全里",
+    "phone": "0972-295622",
+    "seq": 848,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0615226,
+      "lng": 121.5308901
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0849",
+    "place_name": "新生里固定里民活動場所",
+    "address": "新生北路2段133巷45號1樓",
+    "village": "新生里16-22",
+    "indigenous_village": "",
+    "phone": "25114752",
+    "seq": 849,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0608881,
+      "lng": 121.5292134
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0850",
+    "place_name": "新生幼稚園",
+    "address": "新生北路2段125號",
+    "village": "中庄里1-8",
+    "indigenous_village": "",
+    "phone": "25414534",
+    "seq": 850,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0596083,
+      "lng": 121.5279165
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0851",
+    "place_name": "福德宮",
+    "address": "吉林路236巷33號",
+    "village": "中庄里9-15",
+    "indigenous_village": "",
+    "phone": "0972-295622",
+    "seq": 851,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.059493,
+      "lng": 121.5290635
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0852",
+    "place_name": "松江市場旁車庫",
+    "address": "錦州街222號",
+    "village": "中庄里16-21",
+    "indigenous_village": "中庄里全里",
+    "phone": "25114752",
+    "seq": 852,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0601175,
+      "lng": 121.5321816
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0853",
+    "place_name": "正強汽車公司",
+    "address": "濱江街182號",
+    "village": "大佳里1-8",
+    "indigenous_village": "大佳里全里",
+    "phone": "25038212",
+    "seq": 853,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.072298,
+      "lng": 121.538622
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0854",
+    "place_name": "永裕鋼鐵大樓1樓",
+    "address": "農安街200號",
+    "village": "行政里1-4,17,19",
+    "indigenous_village": "",
+    "phone": "25174855",
+    "seq": 854,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0645362,
+      "lng": 121.5358008
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0855",
+    "place_name": "行政里固定里民活動場所",
+    "address": "民權東路2段135巷20弄7號",
+    "village": "行政里5-10",
+    "indigenous_village": "",
+    "phone": "25174855",
+    "seq": 855,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0638919,
+      "lng": 121.5346146
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0856",
+    "place_name": "行天宮附設玄空圖書館松江分館(停車場)",
+    "address": "松江路359號",
+    "village": "行政里11-16,18",
+    "indigenous_village": "行政里全里",
+    "phone": "25174855",
+    "seq": 856,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.063547,
+      "lng": 121.533543
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0857",
+    "place_name": "五常國小",
+    "address": "五常街16號",
+    "village": "行仁里1-6",
+    "indigenous_village": "",
+    "phone": "25023416",
+    "seq": 857,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0641393,
+      "lng": 121.5422023
+    },
+    "power": 8
+  },
+  {
+    "id": "tpe0865",
+    "place_name": "五常國中",
+    "address": "復興北路430巷1號",
+    "village": "下埤里1-5",
+    "indigenous_village": "",
+    "phone": "25014320",
+    "seq": 865,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0634822,
+      "lng": 121.5430996
+    },
+    "power": 6
+  },
+  {
+    "id": "tpe0869",
+    "place_name": "松花區民活動中心",
+    "address": "合江街137號4樓",
+    "village": "江寧里1-7",
+    "indigenous_village": "江寧里全里",
+    "phone": "0972-295628",
+    "seq": 869,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0616114,
+      "lng": 121.539347
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0873",
+    "place_name": "臺北大學(教學大樓201教室)",
+    "address": "民生東路3段67號",
+    "village": "江山里1-6",
+    "indigenous_village": "",
+    "phone": "25024654#18256",
+    "seq": 873,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0580395,
+      "lng": 121.5423856
+    },
+    "power": 4
+  },
+  {
+    "id": "tpe0877",
+    "place_name": "吉林國小",
+    "address": "長春路116號",
+    "village": "中吉里1-7,24",
+    "indigenous_village": "中吉里全里",
+    "phone": "25219196",
+    "seq": 877,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.054721,
+      "lng": 121.5296301
+    },
+    "power": 6
+  },
+  {
+    "id": "tpe0883",
+    "place_name": "興亞區民活動中心",
+    "address": "松江路26巷18號",
+    "village": "興亞里1-7,10",
+    "indigenous_village": "",
+    "phone": "0972-295632",
+    "seq": 883,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0469519,
+      "lng": 121.5320051
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0884",
+    "place_name": "長安國中",
+    "address": "松江路70巷11號",
+    "village": "興亞里8-9,11-17",
+    "indigenous_village": "",
+    "phone": "25112382",
+    "seq": 884,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0493929,
+      "lng": 121.5318545
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0885",
+    "place_name": "長安國小",
+    "address": "吉林路15號",
+    "village": "興亞里18-24",
+    "indigenous_village": "興亞里全里",
+    "phone": "25617600",
+    "seq": 885,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0497694,
+      "lng": 121.5301634
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0886",
+    "place_name": "長春國小",
+    "address": "長春路165號",
+    "village": "中央里1-9",
+    "indigenous_village": "中央里全里",
+    "phone": "25024366",
+    "seq": 886,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0549363,
+      "lng": 121.5339007
+    },
+    "power": 5
+  },
+  {
+    "id": "tpe0891",
+    "place_name": "興安社區南區警衛室",
+    "address": "復興北路190巷25號",
+    "village": "龍洲里1-3,5,7-9",
+    "indigenous_village": "",
+    "phone": "25046287",
+    "seq": 891,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.055679,
+      "lng": 121.542584
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0892",
+    "place_name": "龍洲里固定里民活動場所",
+    "address": "興安街61號",
+    "village": "龍洲里4,6,10-12,24-28",
+    "indigenous_village": "龍洲里全里",
+    "phone": "25172138",
+    "seq": 892,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0562445,
+      "lng": 121.5425052
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0893",
+    "place_name": "興安華城北區管理委員會",
+    "address": "民生東路3段88巷2號",
+    "village": "龍洲里13-23",
+    "indigenous_village": "",
+    "phone": "25061266",
+    "seq": 893,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.057396,
+      "lng": 121.542902
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0894",
+    "place_name": "禾琚建設1樓",
+    "address": "建國北路1段150號",
+    "village": "朱園里1-4,8-10",
+    "indigenous_village": "朱園里全里",
+    "phone": "25172777",
+    "seq": 894,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0514322,
+      "lng": 121.5361251
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0895",
+    "place_name": "五福財神爺廟旁(活動中心",
+    "address": "建國北路1段50巷31號對面(伊通街口)",
+    "village": "朱園里5-7,11-15",
+    "indigenous_village": "",
+    "phone": "27711931",
+    "seq": 895,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0479,
+      "lng": 121.5359638
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0896",
+    "place_name": "台北啤酒工場(辦公大樓1樓)",
+    "address": "八德路2段85號",
+    "village": "朱園里16-17,19-23",
+    "indigenous_village": "",
+    "phone": "27711931",
+    "seq": 896,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0459175,
+      "lng": 121.5357123
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0897",
+    "place_name": "懷生國小",
+    "address": "安東街16巷2號",
+    "village": "埤頭里1-7",
+    "indigenous_village": "埤頭里全里",
+    "phone": "27710846#510",
+    "seq": 897,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0452404,
+      "lng": 121.5417844
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0899",
+    "place_name": "朱崙區民活動中心",
+    "address": "龍江路15號3樓",
+    "village": "朱崙里1-8,12",
+    "indigenous_village": "朱崙里全里",
+    "phone": "27815504",
+    "seq": 899,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0474355,
+      "lng": 121.5404969
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0901",
+    "place_name": "中興中學(107教室)",
+    "address": "朱崙街42號",
+    "village": "力行里1-4,7-10,15",
+    "indigenous_village": "力行里全里",
+    "phone": "27412335",
+    "seq": 901,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0499125,
+      "lng": 121.541912
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0902",
+    "place_name": "中正國小",
+    "address": "龍江路62號",
+    "village": "力行里5,11-14,16-20",
+    "indigenous_village": "",
+    "phone": "25070932#105",
+    "seq": 902,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0506494,
+      "lng": 121.5402675
+    },
+    "power": 2
+  },
+  {
+    "id": "tpe0904",
+    "place_name": "生命堂",
+    "address": "龍江路135號",
+    "village": "復華里1-9",
+    "indigenous_village": "復華里全里",
+    "phone": "27136928",
+    "seq": 904,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.053524,
+      "lng": 121.540699
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0905",
+    "place_name": "如意新村",
+    "address": "南京東路3段89巷5弄1號",
+    "village": "復華里10-16",
+    "indigenous_village": "",
+    "phone": "0936-731386",
+    "seq": 905,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.0529073,
+      "lng": 121.539132
+    },
+    "power": 1
+  },
+  {
+    "id": "tpe0906",
+    "place_name": "育航幼兒園",
+    "address": "長春路256號",
+    "village": "復華里17-24",
+    "indigenous_village": "",
+    "phone": "25178372",
+    "seq": 906,
+    "county": "TPE",
+    "town": "中山區",
+    "location": {
+      "lat": 25.054631,
+      "lng": 121.538747
+    },
+    "power": 1
+  }
+]

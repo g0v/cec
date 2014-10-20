@@ -1,0 +1,482 @@
+[
+  {
+    "id": "tpq0187",
+    "place_name": "更寮國小",
+    "address": "四維路2號",
+    "village": "興珍里",
+    "remark": "1-15",
+    "seq": 187,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.072826,
+      "lng": 121.4673933
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0189",
+    "place_name": "福興宮",
+    "address": "中興路一段151巷4號",
+    "village": "興珍里",
+    "remark": "18-29,40",
+    "seq": 189,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.0768129,
+      "lng": 121.4346672
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0190",
+    "place_name": "更新市民活動中心",
+    "address": "更洲路45號",
+    "village": "更寮里",
+    "remark": "全里",
+    "seq": 190,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.0791799,
+      "lng": 121.4578825
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0191",
+    "place_name": "觀音市民活動中心",
+    "address": "凌雲路三段17之2號",
+    "village": "觀音里",
+    "remark": "全里",
+    "seq": 191,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.1166301,
+      "lng": 121.4304405
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0192",
+    "place_name": "清水灣大樓會議室",
+    "address": "成泰路四段22巷2號1樓",
+    "village": "集福里",
+    "remark": "2-12",
+    "seq": 192,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.1069118,
+      "lng": 121.4534772
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0193",
+    "place_name": "薪關渡大樓會議室",
+    "address": "成泰路四段24號之10",
+    "village": "集福里",
+    "remark": "1,13-16,23-2",
+    "seq": 193,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.1077259,
+      "lng": 121.4544254
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0194",
+    "place_name": "集福市民活動中心",
+    "address": "孝義路55巷10號",
+    "village": "集福里",
+    "remark": "17-22",
+    "seq": 194,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.1062977,
+      "lng": 121.4524536
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0195",
+    "place_name": "集福社區活動中心",
+    "address": "天乙路3號之1",
+    "village": "集賢里",
+    "remark": "1-10",
+    "seq": 195,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.1041067,
+      "lng": 121.4482514
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0197",
+    "place_name": "成州國小",
+    "address": "成泰路三段493號",
+    "village": "成德里",
+    "remark": "1-12",
+    "seq": 197,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.0957,
+      "lng": 121.4485899
+    },
+    "power": 4
+  },
+  {
+    "id": "tpq0201",
+    "place_name": "成州市民活動中心",
+    "address": "西雲路267號",
+    "village": "成州里",
+    "remark": "1-8,26,27",
+    "seq": 201,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.0980896,
+      "lng": 121.4493413
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0202",
+    "place_name": "成功市民活動中心",
+    "address": "西雲路163號1樓",
+    "village": "成功里",
+    "remark": "1-13",
+    "seq": 202,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.0946751,
+      "lng": 121.4467132
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0203",
+    "place_name": "五股區社教大樓1樓廣場",
+    "address": "西雲路165號1樓",
+    "village": "成功里",
+    "remark": "14-25",
+    "seq": 203,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.0947851,
+      "lng": 121.4468359
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0204",
+    "place_name": "成功市民活動中心",
+    "address": "西雲路163號2樓",
+    "village": "成功里",
+    "remark": "26-34",
+    "seq": 204,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.0946751,
+      "lng": 121.4467132
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0205",
+    "place_name": "成泰里守望相助隊",
+    "address": "御史路1之5號",
+    "village": "成泰里",
+    "remark": "1-11",
+    "seq": 205,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.0910524,
+      "lng": 121.4410336
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0207",
+    "place_name": "法國宮庭社區大廳",
+    "address": "御成路140號",
+    "village": "成泰里",
+    "remark": "22-34",
+    "seq": 207,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.0888058,
+      "lng": 121.43419
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0208",
+    "place_name": "空屋",
+    "address": "民義路二段52之22號",
+    "village": "五龍里",
+    "remark": "全里",
+    "seq": 208,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.1046895,
+      "lng": 121.4102593
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0209",
+    "place_name": "五福里集會所",
+    "address": "五福路22巷25號之1",
+    "village": "五福里",
+    "remark": "11-15,18-23",
+    "seq": 209,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.0893264,
+      "lng": 121.4351609
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0210",
+    "place_name": "台北愛家大樓會議室",
+    "address": "五福路14巷底",
+    "village": "五福里",
+    "remark": "1-10,16,17",
+    "seq": 210,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.0888129,
+      "lng": 121.4349453
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0211",
+    "place_name": "撲滿成家大樓中庭會議室",
+    "address": "五福路35至57號中庭",
+    "village": "六福里",
+    "remark": "1-12",
+    "seq": 211,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.0925597,
+      "lng": 121.4416881
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0213",
+    "place_name": "五股區文康中心",
+    "address": "民義路一段218號",
+    "village": "民義里",
+    "remark": "1-13",
+    "seq": 213,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.0899606,
+      "lng": 121.4296606
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0214",
+    "place_name": "聖天宮廣場",
+    "address": "工商路129巷1之1號",
+    "village": "民義里",
+    "remark": "14-23",
+    "seq": 214,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.0832609,
+      "lng": 121.4395261
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0215",
+    "place_name": "五股國小",
+    "address": "成泰路二段49號",
+    "village": "五股里",
+    "remark": "1-13",
+    "seq": 215,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.0824077,
+      "lng": 121.4367684
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0217",
+    "place_name": "德音社區活動中心",
+    "address": "蓬萊路1號之5",
+    "village": "德音里",
+    "remark": "1-10",
+    "seq": 217,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.0803576,
+      "lng": 121.4338669
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0218",
+    "place_name": "裕昌宮",
+    "address": "成泰路一段235號",
+    "village": "德音里",
+    "remark": "11-21",
+    "seq": 218,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.0735512,
+      "lng": 121.4353754
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0219",
+    "place_name": "空屋",
+    "address": "成泰路一段189巷9弄3號",
+    "village": "德音里",
+    "remark": "22-30",
+    "seq": 219,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.0764251,
+      "lng": 121.434493
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0220",
+    "place_name": "德音國小",
+    "address": "明德路2號",
+    "village": "水碓里",
+    "remark": "1-8",
+    "seq": 220,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.0712789,
+      "lng": 121.4339579
+    },
+    "power": 6
+  },
+  {
+    "id": "tpq0226",
+    "place_name": "聖源地母宮",
+    "address": "成泰路一段7巷14弄17號",
+    "village": "德泰里",
+    "remark": "12-14,16-20",
+    "seq": 226,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.0672347,
+      "lng": 121.4335008
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0227",
+    "place_name": "台北星洲社區圖書室",
+    "address": "成泰路一段32巷32號",
+    "village": "德泰里",
+    "remark": "3-8",
+    "seq": 227,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.076435,
+      "lng": 121.4331422
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0228",
+    "place_name": "德泰市民活動中心",
+    "address": "成泰路一段8巷4號",
+    "village": "德泰里",
+    "remark": "1,2,9-11,15,21,22",
+    "seq": 228,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.0768129,
+      "lng": 121.4346672
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0229",
+    "place_name": "貿商社區活動中心",
+    "address": "貿商里456號",
+    "village": "貿商里",
+    "remark": "1-14",
+    "seq": 229,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.0699855,
+      "lng": 121.4309757
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq0231",
+    "place_name": "陸光新城A社區活動中心",
+    "address": "六合街56號1樓",
+    "village": "陸一里",
+    "remark": "1-17",
+    "seq": 231,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.1135915,
+      "lng": 121.4514321
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq0232",
+    "place_name": "陸光新城A社區活動中心",
+    "address": "六合街58號1樓",
+    "village": "陸一里",
+    "remark": "18-35",
+    "seq": 232,
+    "county": "TPQ",
+    "town": "五股區",
+    "location": {
+      "lat": 25.0888058,
+      "lng": 121.43419
+    },
+    "power": 1
+  }
+]

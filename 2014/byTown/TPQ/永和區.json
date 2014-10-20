@@ -1,0 +1,857 @@
+[
+  {
+    "id": "tpq1440",
+    "place_name": "金甌女中101教室",
+    "address": "博愛街36號",
+    "village": "光復里",
+    "remark": "全里",
+    "seq": 1440,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0158367,
+      "lng": 121.5192517
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1442",
+    "place_name": "竹林小學(一甲)",
+    "address": "竹林路34號",
+    "village": "復興里",
+    "remark": "1,2,5-8",
+    "seq": 1442,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0144112,
+      "lng": 121.5173613
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1443",
+    "place_name": "永和幼兒園博愛分班",
+    "address": "竹林路39巷35號",
+    "village": "復興里",
+    "remark": "3,4,9-14",
+    "seq": 1443,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0156224,
+      "lng": 121.5205465
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1444",
+    "place_name": "新北市國父紀念館",
+    "address": "竹林路202號",
+    "village": "竹林里",
+    "remark": "1-14",
+    "seq": 1444,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0087458,
+      "lng": 121.5205808
+    },
+    "power": 4
+  },
+  {
+    "id": "tpq1446",
+    "place_name": "網溪國小",
+    "address": "竹林路79號",
+    "village": "桂林里",
+    "remark": "1-7",
+    "seq": 1446,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0129384,
+      "lng": 121.5193637
+    },
+    "power": 8
+  },
+  {
+    "id": "tpq1452",
+    "place_name": "溪洲市民活動中心",
+    "address": "勵行街42之1號",
+    "village": "勵行里",
+    "remark": "全里",
+    "seq": 1452,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0135193,
+      "lng": 121.5167281
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq1459",
+    "place_name": "豫溪市民活動中心",
+    "address": "中正路637號",
+    "village": "豫溪里",
+    "remark": "1-9",
+    "seq": 1459,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0100058,
+      "lng": 121.515515
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1460",
+    "place_name": "民宅",
+    "address": "中正路680巷15號",
+    "village": "豫溪里",
+    "remark": "10-17",
+    "seq": 1460,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0095779,
+      "lng": 121.5181493
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1461",
+    "place_name": "新北市立圖書館永和分館",
+    "address": "國光路2號",
+    "village": "光明里",
+    "remark": "1-11",
+    "seq": 1461,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.008623,
+      "lng": 121.519749
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1463",
+    "place_name": "福和國中",
+    "address": "永利路71號",
+    "village": "福和里",
+    "remark": "1-9",
+    "seq": 1463,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0040252,
+      "lng": 121.5208617
+    },
+    "power": 5
+  },
+  {
+    "id": "tpq1466",
+    "place_name": "復興商工302教室",
+    "address": "秀朗路一段201號",
+    "village": "得和里",
+    "remark": "1-9",
+    "seq": 1466,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0034336,
+      "lng": 121.5182465
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq1469",
+    "place_name": "育才小學一年智班",
+    "address": "福和路125巷20號",
+    "village": "永貞里",
+    "remark": "1-12",
+    "seq": 1469,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0070989,
+      "lng": 121.5217335
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1471",
+    "place_name": "永和國中",
+    "address": "國中路111號",
+    "village": "永福里",
+    "remark": "1-8",
+    "seq": 1471,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0066996,
+      "lng": 121.5233461
+    },
+    "power": 4
+  },
+  {
+    "id": "tpq1474",
+    "place_name": "河濱第一市民活動中心",
+    "address": "林森路10巷18弄6號",
+    "village": "河濱里",
+    "remark": "11-19",
+    "seq": 1474,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0066434,
+      "lng": 121.5260151
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1478",
+    "place_name": "永和秀朗社區活動中心",
+    "address": "秀朗路二段24巷18號",
+    "village": "永元里",
+    "remark": "1-8",
+    "seq": 1478,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0021357,
+      "lng": 121.5203478
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1479",
+    "place_name": "得和市民活動中心",
+    "address": "秀朗路二段24巷35號",
+    "village": "永元里",
+    "remark": "9-16",
+    "seq": 1479,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0019133,
+      "lng": 121.5202024
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1481",
+    "place_name": "秀朗國小",
+    "address": "得和路202號",
+    "village": "民權里",
+    "remark": "1-13",
+    "seq": 1481,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 24.9997541,
+      "lng": 121.5211113
+    },
+    "power": 17
+  },
+  {
+    "id": "tpq1483",
+    "place_name": "民權市民活動中心",
+    "address": "民權路60號4樓",
+    "village": "民權里",
+    "remark": "17-20,25,26",
+    "seq": 1483,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 24.9977764,
+      "lng": 121.51994
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1487",
+    "place_name": "秀朗市民活動中心",
+    "address": "成功路一段20之1號",
+    "village": "秀朗里",
+    "remark": "1-12",
+    "seq": 1487,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0049759,
+      "lng": 121.5269456
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq1490",
+    "place_name": "民宅(秀和宮)",
+    "address": "成功路二段1巷1號",
+    "village": "秀成里",
+    "remark": "10-17",
+    "seq": 1490,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0015652,
+      "lng": 121.5271224
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1491",
+    "place_name": "聖安宮",
+    "address": "秀朗路二段82巷5弄1號",
+    "village": "秀林里",
+    "remark": "1-10",
+    "seq": 1491,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0030057,
+      "lng": 121.5206867
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1492",
+    "place_name": "濟安宮",
+    "address": "永利路127號",
+    "village": "秀林里",
+    "remark": "11-20",
+    "seq": 1492,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.002927,
+      "lng": 121.5239479
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1503",
+    "place_name": "合安幼兒園",
+    "address": "民樂街59巷15號",
+    "village": "民富里",
+    "remark": "9-15",
+    "seq": 1503,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 24.9982824,
+      "lng": 121.528252
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1504",
+    "place_name": "朝代大第",
+    "address": "成功路二段47巷1號",
+    "village": "民樂里",
+    "remark": "1-9",
+    "seq": 1504,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0003381,
+      "lng": 121.5267571
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1506",
+    "place_name": "成功大第",
+    "address": "成功路二段81號中庭",
+    "village": "民樂里",
+    "remark": "15,16,18-22",
+    "seq": 1506,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0083253,
+      "lng": 121.5170166
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1509",
+    "place_name": "智光商工102教室",
+    "address": "中正路100號",
+    "village": "智光里",
+    "remark": "1-16",
+    "seq": 1509,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 24.9956049,
+      "lng": 121.5142563
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1511",
+    "place_name": "潭墘市民活動中心",
+    "address": "安樂路102號",
+    "village": "潭安里",
+    "remark": "7-10,20",
+    "seq": 1511,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 24.999428,
+      "lng": 121.514338
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1513",
+    "place_name": "永和國小",
+    "address": "秀朗路一段120號",
+    "village": "潭安里",
+    "remark": "1-5",
+    "seq": 1513,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0035303,
+      "lng": 121.5170956
+    },
+    "power": 10
+  },
+  {
+    "id": "tpq1520",
+    "place_name": "大新光明市民活動中心",
+    "address": "大新街45巷1之1號2樓",
+    "village": "大新里",
+    "remark": "1-8",
+    "seq": 1520,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 24.9686638,
+      "lng": 121.543598
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1521",
+    "place_name": "大新光明市民活動中心",
+    "address": "大新街45巷1之1號3樓",
+    "village": "大新里",
+    "remark": "9-16",
+    "seq": 1521,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.008631,
+      "lng": 121.5154915
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1525",
+    "place_name": "民宅",
+    "address": "安樂路469巷1號",
+    "village": "永樂里",
+    "remark": "1-9",
+    "seq": 1525,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0054539,
+      "lng": 121.514101
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1526",
+    "place_name": "永和天主堂",
+    "address": "自由街69號",
+    "village": "永樂里",
+    "remark": "10-16",
+    "seq": 1526,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0051249,
+      "lng": 121.513524
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1527",
+    "place_name": "民宅",
+    "address": "永貞路320號旁車庫",
+    "village": "水源里",
+    "remark": "1-6",
+    "seq": 1527,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0051599,
+      "lng": 121.511625
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1528",
+    "place_name": "水源市民活動中心",
+    "address": "保平路177巷6弄2號",
+    "village": "水源里",
+    "remark": "7-14",
+    "seq": 1528,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.004862,
+      "lng": 121.509728
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1529",
+    "place_name": "奧爾仕幼兒園",
+    "address": "保平路203巷2號",
+    "village": "水源里",
+    "remark": "15-21",
+    "seq": 1529,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0049004,
+      "lng": 121.5088123
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1530",
+    "place_name": "民宅",
+    "address": "永和路一段49巷4號",
+    "village": "協和里",
+    "remark": "1-11",
+    "seq": 1530,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0068257,
+      "lng": 121.5125563
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1531",
+    "place_name": "東聖宮",
+    "address": "保平路50巷10弄3號",
+    "village": "協和里",
+    "remark": "12-22",
+    "seq": 1531,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0079707,
+      "lng": 121.5112367
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1532",
+    "place_name": "永和雙和教會",
+    "address": "中和路389巷5號",
+    "village": "雙和里",
+    "remark": "1-7",
+    "seq": 1532,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0005795,
+      "lng": 121.508148
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1534",
+    "place_name": "嘉樂幼兒園",
+    "address": "中和路501巷17號",
+    "village": "安和里",
+    "remark": "1-5,10,14-15",
+    "seq": 1534,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0030098,
+      "lng": 121.5103026
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1535",
+    "place_name": "自來水公司北區工程處停車場",
+    "address": "水源街52號旁停車場",
+    "village": "安和里",
+    "remark": "6-9,11-13,16-18",
+    "seq": 1535,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0044596,
+      "lng": 121.5103603
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1536",
+    "place_name": "浸信會中和堂",
+    "address": "永和路一段153號",
+    "village": "前溪里",
+    "remark": "全里",
+    "seq": 1536,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0073845,
+      "lng": 121.5135027
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1537",
+    "place_name": "永平高中704教室",
+    "address": "永平路205號",
+    "village": "和平里",
+    "remark": "1-8",
+    "seq": 1537,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0107014,
+      "lng": 121.5087055
+    },
+    "power": 7
+  },
+  {
+    "id": "tpq1540",
+    "place_name": "民宅(聖媽宮)",
+    "address": "保平路246號旁",
+    "village": "保平里",
+    "remark": "1-7",
+    "seq": 1540,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0053862,
+      "lng": 121.509043
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1541",
+    "place_name": "民宅",
+    "address": "保平路214巷3弄1號",
+    "village": "保平里",
+    "remark": "8-17",
+    "seq": 1541,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.006221,
+      "lng": 121.509336
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1542",
+    "place_name": "民宅",
+    "address": "保平路268巷51弄22號",
+    "village": "保平里",
+    "remark": "18-25",
+    "seq": 1542,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0063699,
+      "lng": 121.507792
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1547",
+    "place_name": "永平國小",
+    "address": "保生路25號",
+    "village": "保安里",
+    "remark": "11-19",
+    "seq": 1547,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0078768,
+      "lng": 121.5057539
+    },
+    "power": 10
+  },
+  {
+    "id": "tpq1557",
+    "place_name": "保福宮",
+    "address": "仁愛路202巷3號之1",
+    "village": "下溪里",
+    "remark": "1-8",
+    "seq": 1557,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.012473,
+      "lng": 121.50894
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1559",
+    "place_name": "觀音寺",
+    "address": "新生路273巷1之1號",
+    "village": "大同里",
+    "remark": "全里",
+    "seq": 1559,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0169369,
+      "lng": 121.509499
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1560",
+    "place_name": "永和幼兒園大同分班",
+    "address": "新生路26號",
+    "village": "新生里",
+    "remark": "全里",
+    "seq": 1560,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0162239,
+      "lng": 121.508462
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1561",
+    "place_name": "永成市民活動中心",
+    "address": "環河西路二段5號",
+    "village": "永成里",
+    "remark": "全里",
+    "seq": 1561,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0167416,
+      "lng": 121.5088938
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1562",
+    "place_name": "文化下溪市民活動中心",
+    "address": "保福路三段2之1號",
+    "village": "忠義里",
+    "remark": "全里",
+    "seq": 1562,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0156339,
+      "lng": 121.508566
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1563",
+    "place_name": "頂溪國小",
+    "address": "文化路133號",
+    "village": "仁愛里",
+    "remark": "1-9",
+    "seq": 1563,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0155338,
+      "lng": 121.5116017
+    },
+    "power": 7
+  },
+  {
+    "id": "tpq1567",
+    "place_name": "永和天恩堂",
+    "address": "信義路23號",
+    "village": "信義里",
+    "remark": "1-7",
+    "seq": 1567,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0121183,
+      "lng": 121.5138588
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1572",
+    "place_name": "忠孝市民活動中心",
+    "address": "忠孝街26巷8號4樓",
+    "village": "頂溪里",
+    "remark": "1-9",
+    "seq": 1572,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0168758,
+      "lng": 121.5152773
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1573",
+    "place_name": "南清宮",
+    "address": "忠孝街34巷10號",
+    "village": "頂溪里",
+    "remark": "10-16",
+    "seq": 1573,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0164869,
+      "lng": 121.5147348
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1574",
+    "place_name": "忠孝市民活動中心",
+    "address": "忠孝街26巷8號5樓",
+    "village": "河堤里",
+    "remark": "1-9",
+    "seq": 1574,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0168758,
+      "lng": 121.5152773
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1576",
+    "place_name": "及人小學A-101教室",
+    "address": "文化路172號",
+    "village": "新廍里",
+    "remark": "1-9",
+    "seq": 1576,
+    "county": "TPQ",
+    "town": "永和區",
+    "location": {
+      "lat": 25.0156301,
+      "lng": 121.5118606
+    },
+    "power": 2
+  }
+]

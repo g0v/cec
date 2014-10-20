@@ -1,0 +1,92 @@
+[
+  {
+    "id": "tpq2161",
+    "place_name": "堰堤社區籃球場",
+    "address": "新烏路五段108號旁",
+    "village": "忠治里",
+    "remark": "全里",
+    "seq": 2161,
+    "county": "TPQ",
+    "town": "烏來區",
+    "location": {
+      "lat": 24.8663721,
+      "lng": 121.5497801
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2162",
+    "place_name": "烏來綜合活動中心",
+    "address": "烏來街34號",
+    "village": "烏來里",
+    "remark": "1-10",
+    "seq": 2162,
+    "county": "TPQ",
+    "town": "烏來區",
+    "location": {
+      "lat": 24.8635942,
+      "lng": 121.5514039
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2163",
+    "place_name": "烏來社區活動中心",
+    "address": "環山路82巷5號2樓",
+    "village": "烏來里",
+    "remark": "11-15",
+    "seq": 2163,
+    "county": "TPQ",
+    "town": "烏來區",
+    "location": {
+      "lat": 24.8636154,
+      "lng": 121.5476045
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2164",
+    "place_name": "孝義里辦公處",
+    "address": "阿玉路20號",
+    "village": "孝義里",
+    "remark": "全里",
+    "seq": 2164,
+    "county": "TPQ",
+    "town": "烏來區",
+    "location": {
+      "lat": 24.8495832,
+      "lng": 121.5788265
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2165",
+    "place_name": "信賢社區活動中心",
+    "address": "信福路48號",
+    "village": "信賢里",
+    "remark": "全里",
+    "seq": 2165,
+    "county": "TPQ",
+    "town": "烏來區",
+    "location": {
+      "lat": 24.8151273,
+      "lng": 121.5147779
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2166",
+    "place_name": "福山社區活動中心",
+    "address": "李茂岸51號",
+    "village": "福山里",
+    "remark": "全里",
+    "seq": 2166,
+    "county": "TPQ",
+    "town": "烏來區",
+    "location": {
+      "lat": 24.8663721,
+      "lng": 121.5497801
+    },
+    "power": 1
+  }
+]

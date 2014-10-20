@@ -1,0 +1,242 @@
+[
+  {
+    "id": "tpq2261",
+    "place_name": "金山國小",
+    "address": "中山路234號",
+    "village": "和平里",
+    "remark": "全里",
+    "seq": 2261,
+    "county": "TPQ",
+    "town": "金山區",
+    "location": {
+      "lat": 25.2223222,
+      "lng": 121.6368568
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq2262",
+    "place_name": "金山區中山堂",
+    "address": "溫泉路2巷9號",
+    "village": "大同里",
+    "remark": "全里",
+    "seq": 2262,
+    "county": "TPQ",
+    "town": "金山區",
+    "location": {
+      "lat": 25.22206,
+      "lng": 121.6405078
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2263",
+    "place_name": "豐漁社區活動中心",
+    "address": "民生路190號",
+    "village": "豐漁里",
+    "remark": "全里",
+    "seq": 2263,
+    "county": "TPQ",
+    "town": "金山區",
+    "location": {
+      "lat": 25.2208098,
+      "lng": 121.6414106
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2264",
+    "place_name": "磺港承天宮",
+    "address": "磺港路161號",
+    "village": "磺港里",
+    "remark": "全里",
+    "seq": 2264,
+    "county": "TPQ",
+    "town": "金山區",
+    "location": {
+      "lat": 25.2277133,
+      "lng": 121.6468652
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2266",
+    "place_name": "金山高中",
+    "address": "文化二路2號",
+    "village": "美田里",
+    "remark": "16-25",
+    "seq": 2266,
+    "county": "TPQ",
+    "town": "金山區",
+    "location": {
+      "lat": 25.2253891,
+      "lng": 121.6362082
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2267",
+    "place_name": "金美國小",
+    "address": "忠孝一路111號",
+    "village": "金美里",
+    "remark": "1-15",
+    "seq": 2267,
+    "county": "TPQ",
+    "town": "金山區",
+    "location": {
+      "lat": 25.2203501,
+      "lng": 121.6375869
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq2270",
+    "place_name": "金山區立圖書館",
+    "address": "龜子山8號",
+    "village": "五湖里",
+    "remark": "1-6",
+    "seq": 2270,
+    "county": "TPQ",
+    "town": "金山區",
+    "location": {
+      "lat": 25.2184529,
+      "lng": 121.639196
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2271",
+    "place_name": "五南社區活動中心",
+    "address": "南勢27號",
+    "village": "五湖里",
+    "remark": "7-17",
+    "seq": 2271,
+    "county": "TPQ",
+    "town": "金山區",
+    "location": {
+      "lat": 25.216382,
+      "lng": 121.6330732
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2272",
+    "place_name": "三和國小",
+    "address": "六股林口38號",
+    "village": "重和里",
+    "remark": "全里",
+    "seq": 2272,
+    "county": "TPQ",
+    "town": "金山區",
+    "location": {
+      "lat": 25.2202858,
+      "lng": 121.6382472
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2273",
+    "place_name": "三和國小",
+    "address": "倒照湖1號",
+    "village": "兩湖里",
+    "remark": "全里",
+    "seq": 2273,
+    "county": "TPQ",
+    "town": "金山區",
+    "location": {
+      "lat": 25.251773,
+      "lng": 121.6114405
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2274",
+    "place_name": "六股市民活動中心",
+    "address": "頂六股3號",
+    "village": "六股里",
+    "remark": "全里",
+    "seq": 2274,
+    "county": "TPQ",
+    "town": "金山區",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2275",
+    "place_name": "六三社區活動中心",
+    "address": "三界壇101之1號",
+    "village": "三界里",
+    "remark": "全里",
+    "seq": 2275,
+    "county": "TPQ",
+    "town": "金山區",
+    "location": {
+      "lat": 25.2331529,
+      "lng": 121.6187297
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2276",
+    "place_name": "清泉社區活動中心",
+    "address": "清水路49號",
+    "village": "清泉里",
+    "remark": "全里",
+    "seq": 2276,
+    "county": "TPQ",
+    "town": "金山區",
+    "location": {
+      "lat": 25.2323974,
+      "lng": 121.6297811
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2277",
+    "place_name": "西湖里倉庫",
+    "address": "西勢湖9號",
+    "village": "西湖里",
+    "remark": "全里",
+    "seq": 2277,
+    "county": "TPQ",
+    "town": "金山區",
+    "location": {
+      "lat": 25.2210862,
+      "lng": 121.6374789
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2278",
+    "place_name": "萬壽社區活動中心",
+    "address": "海興路69之1號",
+    "village": "萬壽里",
+    "remark": "全里",
+    "seq": 2278,
+    "county": "TPQ",
+    "town": "金山區",
+    "location": {
+      "lat": 25.2396318,
+      "lng": 121.6323619
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2279",
+    "place_name": "永民社區活動中心",
+    "address": "跳石17號",
+    "village": "永興里",
+    "remark": "全里",
+    "seq": 2279,
+    "county": "TPQ",
+    "town": "金山區",
+    "location": {
+      "lat": 25.2591339,
+      "lng": 121.633425
+    },
+    "power": 1
+  }
+]

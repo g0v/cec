@@ -1,0 +1,197 @@
+[
+  {
+    "id": "tpq2122",
+    "place_name": "萬順市民活動中心",
+    "address": "北深路三段107巷26號",
+    "village": "萬順里",
+    "remark": "1-10",
+    "seq": 2122,
+    "county": "TPQ",
+    "town": "深坑區",
+    "location": {
+      "lat": 25.0013408,
+      "lng": 121.604192
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2123",
+    "place_name": "佳麗寶大樓",
+    "address": "北深路三段347號",
+    "village": "萬順里",
+    "remark": "11-24",
+    "seq": 2123,
+    "county": "TPQ",
+    "town": "深坑區",
+    "location": {
+      "lat": 25.0023815,
+      "lng": 121.6042723
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2124",
+    "place_name": "郵政修護所",
+    "address": "北深路三段264號",
+    "village": "萬福里",
+    "remark": "1-13",
+    "seq": 2124,
+    "county": "TPQ",
+    "town": "深坑區",
+    "location": {
+      "lat": 25.0023815,
+      "lng": 121.6042723
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2125",
+    "place_name": "水尾福德宮",
+    "address": "北深路三段280號旁",
+    "village": "萬福里",
+    "remark": "14-30",
+    "seq": 2125,
+    "county": "TPQ",
+    "town": "深坑區",
+    "location": {
+      "lat": 25.0023815,
+      "lng": 121.6042723
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2126",
+    "place_name": "土庫第一市民活動中心",
+    "address": "北深路一段83巷8弄36號",
+    "village": "土庫里",
+    "remark": "1-18",
+    "seq": 2126,
+    "county": "TPQ",
+    "town": "深坑區",
+    "location": {
+      "lat": 25.0098898,
+      "lng": 121.6345544
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2127",
+    "place_name": "土庫第二市民活動中心",
+    "address": "北深路一段164號",
+    "village": "土庫里",
+    "remark": "19-36",
+    "seq": 2127,
+    "county": "TPQ",
+    "town": "深坑區",
+    "location": {
+      "lat": 25.0106444,
+      "lng": 121.6290889
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2128",
+    "place_name": "深坑國小",
+    "address": "文化街45號",
+    "village": "深坑里",
+    "remark": "1-23",
+    "seq": 2128,
+    "county": "TPQ",
+    "town": "深坑區",
+    "location": {
+      "lat": 25.0013159,
+      "lng": 121.620178
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq2130",
+    "place_name": "深坑國中",
+    "address": "文化街41號",
+    "village": "埔新里",
+    "remark": "1-20",
+    "seq": 2130,
+    "county": "TPQ",
+    "town": "深坑區",
+    "location": {
+      "lat": 25.0013159,
+      "lng": 121.620178
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq2133",
+    "place_name": "昇高市民活動中心",
+    "address": "旺躭路25號",
+    "village": "昇高里",
+    "remark": "1-10",
+    "seq": 2133,
+    "county": "TPQ",
+    "town": "深坑區",
+    "location": {
+      "lat": 25.0033792,
+      "lng": 121.6169002
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2134",
+    "place_name": "雲鄉社區會議室",
+    "address": "雲鄉路1號地下1樓",
+    "village": "昇高里",
+    "remark": "11-16",
+    "seq": 2134,
+    "county": "TPQ",
+    "town": "深坑區",
+    "location": {
+      "lat": 24.9988406,
+      "lng": 121.6221478
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2135",
+    "place_name": "慈聖宮",
+    "address": "北深路一段300號",
+    "village": "賴仲里",
+    "remark": "1-16",
+    "seq": 2135,
+    "county": "TPQ",
+    "town": "深坑區",
+    "location": {
+      "lat": 25.0106444,
+      "lng": 121.6290889
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2136",
+    "place_name": "青山雄觀-北區大樓(休閒室)",
+    "address": "深南路190號地下1樓",
+    "village": "賴仲里",
+    "remark": "17-26",
+    "seq": 2136,
+    "county": "TPQ",
+    "town": "深坑區",
+    "location": {
+      "lat": 25.0103964,
+      "lng": 121.6223845
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2137",
+    "place_name": "阿柔市民活動中心",
+    "address": "阿柔洋66號對面",
+    "village": "阿柔里",
+    "remark": "全里",
+    "seq": 2137,
+    "county": "TPQ",
+    "town": "深坑區",
+    "location": {
+      "lat": 24.998691,
+      "lng": 121.607145
+    },
+    "power": 1
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "tpq2138",
+    "place_name": "石碇社區活動中心",
+    "address": "石碇西街61號",
+    "village": "石碇里",
+    "remark": "全里",
+    "seq": 2138,
+    "county": "TPQ",
+    "town": "石碇區",
+    "location": {
+      "lat": 24.9910203,
+      "lng": 121.6566548
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2139",
+    "place_name": "潭邊市民活動中心",
+    "address": "碇坪路一段39號",
+    "village": "潭邊里",
+    "remark": "全里",
+    "seq": 2139,
+    "county": "TPQ",
+    "town": "石碇區",
+    "location": {
+      "lat": 24.9750399,
+      "lng": 121.6559825
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2140",
+    "place_name": "烏塗市民活動中心",
+    "address": "烏塗窟23之1號",
+    "village": "烏塗里",
+    "remark": "全里",
+    "seq": 2140,
+    "county": "TPQ",
+    "town": "石碇區",
+    "location": {
+      "lat": 24.9907267,
+      "lng": 121.6620001
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2141",
+    "place_name": "彭山市民活動中心",
+    "address": "崩山33之1號",
+    "village": "彭山里",
+    "remark": "全里",
+    "seq": 2141,
+    "county": "TPQ",
+    "town": "石碇區",
+    "location": {
+      "lat": 24.9499664,
+      "lng": 121.692342
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2142",
+    "place_name": "豐田市民活動中心",
+    "address": "磨石坑10號",
+    "village": "豐田里",
+    "remark": "1-5",
+    "seq": 2142,
+    "county": "TPQ",
+    "town": "石碇區",
+    "location": {
+      "lat": 24.9907267,
+      "lng": 121.6620001
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2143",
+    "place_name": "民宅",
+    "address": "峯頭7號",
+    "village": "豐田里",
+    "remark": "6,7",
+    "seq": 2143,
+    "county": "TPQ",
+    "town": "石碇區",
+    "location": {
+      "lat": 25.0098662,
+      "lng": 121.6452827
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2144",
+    "place_name": "和平國小",
+    "address": "靜安路一段5號",
+    "village": "隆盛里",
+    "remark": "全里",
+    "seq": 2144,
+    "county": "TPQ",
+    "town": "石碇區",
+    "location": {
+      "lat": 25.0092794,
+      "lng": 121.6473892
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2145",
+    "place_name": "石碇區聯合活動中心",
+    "address": "楓子林32之1號",
+    "village": "豐林里",
+    "remark": "全里",
+    "seq": 2145,
+    "county": "TPQ",
+    "town": "石碇區",
+    "location": {
+      "lat": 25.0086443,
+      "lng": 121.642594
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2146",
+    "place_name": "中民市民活動中心",
+    "address": "靜安路一段183號",
+    "village": "中民里",
+    "remark": "全里",
+    "seq": 2146,
+    "county": "TPQ",
+    "town": "石碇區",
+    "location": {
+      "lat": 25.0092794,
+      "lng": 121.6473892
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2147",
+    "place_name": "永定國小",
+    "address": "靜安路一段245號",
+    "village": "永定里",
+    "remark": "全里",
+    "seq": 2147,
+    "county": "TPQ",
+    "town": "石碇區",
+    "location": {
+      "lat": 25.0092794,
+      "lng": 121.6473892
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2148",
+    "place_name": "光明市民活動中心",
+    "address": "光明路12之1號",
+    "village": "光明里",
+    "remark": "全里",
+    "seq": 2148,
+    "county": "TPQ",
+    "town": "石碇區",
+    "location": {
+      "lat": 25.0319259,
+      "lng": 121.6848815
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2149",
+    "place_name": "永安里活動中心",
+    "address": "北宜路六段直潭巷25號",
+    "village": "永安里",
+    "remark": "全里",
+    "seq": 2149,
+    "county": "TPQ",
+    "town": "石碇區",
+    "location": {
+      "lat": 24.9530873,
+      "lng": 121.6338766
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2150",
+    "place_name": "格頭市民活動中心",
+    "address": "北宜路五段3號",
+    "village": "格頭里",
+    "remark": "全里",
+    "seq": 2150,
+    "county": "TPQ",
+    "town": "石碇區",
+    "location": {
+      "lat": 24.9535657,
+      "lng": 121.6350782
+    },
+    "power": 1
+  }
+]

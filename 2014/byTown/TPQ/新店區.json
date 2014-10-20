@@ -1,0 +1,1547 @@
+[
+  {
+    "id": "tpq1948",
+    "place_name": "新北市立新店幼兒園新店分班",
+    "address": "新店路207號",
+    "village": "新店里",
+    "remark": "全里",
+    "seq": 1948,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.956793,
+      "lng": 121.537049
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1949",
+    "place_name": "瑠公農田水利會新店紀念大樓",
+    "address": "北新路一段45巷5號",
+    "village": "張南里",
+    "remark": "全里",
+    "seq": 1949,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.959042,
+      "lng": 121.537415
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1950",
+    "place_name": "新店國小",
+    "address": "新店路2號",
+    "village": "國校里",
+    "remark": "1-6",
+    "seq": 1950,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9529938,
+      "lng": 121.5402904
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1952",
+    "place_name": "文山國中",
+    "address": "文中路38號",
+    "village": "文中里",
+    "remark": "全里",
+    "seq": 1952,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.956705,
+      "lng": 121.538935
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1953",
+    "place_name": "新店教會",
+    "address": "光明街138巷8、10號",
+    "village": "廣明里",
+    "remark": "全里",
+    "seq": 1953,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.961098,
+      "lng": 121.539753
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1954",
+    "place_name": "文明里活動中心",
+    "address": "光明街168巷5弄2之1號",
+    "village": "文明里",
+    "remark": "1-7,17",
+    "seq": 1954,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9619199,
+      "lng": 121.540485
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1955",
+    "place_name": "福德祠(土地公廟)",
+    "address": "檳榔路36巷口",
+    "village": "文明里",
+    "remark": "8-16,18",
+    "seq": 1955,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.971893,
+      "lng": 121.550018
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1956",
+    "place_name": "五峯國中",
+    "address": "中興路一段253號",
+    "village": "中興里",
+    "remark": "1-4",
+    "seq": 1956,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9667222,
+      "lng": 121.5441603
+    },
+    "power": 10
+  },
+  {
+    "id": "tpq1960",
+    "place_name": "天闊社區中庭",
+    "address": "環河路36號",
+    "village": "新生里",
+    "remark": "2-5",
+    "seq": 1960,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.962417,
+      "lng": 121.537616
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1961",
+    "place_name": "名人華廈社區中庭",
+    "address": "北新路一段135號",
+    "village": "新生里",
+    "remark": "1,6-12,24,25",
+    "seq": 1961,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9632705,
+      "lng": 121.5394541
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1962",
+    "place_name": "車庫",
+    "address": "新生街13巷5號",
+    "village": "新生里",
+    "remark": "13-23,26",
+    "seq": 1962,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9660139,
+      "lng": 121.539843
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1965",
+    "place_name": "北新國小",
+    "address": "寶橋路8號",
+    "village": "張北里",
+    "remark": "1-7",
+    "seq": 1965,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9742987,
+      "lng": 121.54472
+    },
+    "power": 10
+  },
+  {
+    "id": "tpq1974",
+    "place_name": "大千豪景社區活動中心",
+    "address": "新坡一街18巷4弄27號底",
+    "village": "長春里",
+    "remark": "1-4,10,11",
+    "seq": 1974,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9606482,
+      "lng": 121.5494316
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1975",
+    "place_name": "江坡華城社區活動中心",
+    "address": "新坡一街70號",
+    "village": "長春里",
+    "remark": "5-9",
+    "seq": 1975,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9639772,
+      "lng": 121.5483889
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1981",
+    "place_name": "崇光女中(2樓教室)",
+    "address": "三民路18號",
+    "village": "中正里",
+    "remark": "1-7",
+    "seq": 1981,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.971809,
+      "lng": 121.539078
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq1983",
+    "place_name": "三民活動中心",
+    "address": "三民路20之2號",
+    "village": "中正里",
+    "remark": "19-22",
+    "seq": 1983,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.971825,
+      "lng": 121.537657
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1984",
+    "place_name": "中正活動中心",
+    "address": "中正路275巷17之1號",
+    "village": "中正里",
+    "remark": "18,23,24",
+    "seq": 1984,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9735172,
+      "lng": 121.5372473
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1985",
+    "place_name": "中正國小",
+    "address": "三民路36號",
+    "village": "中華里",
+    "remark": "1-7",
+    "seq": 1985,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9718132,
+      "lng": 121.5366677
+    },
+    "power": 7
+  },
+  {
+    "id": "tpq1988",
+    "place_name": "佳欣幼兒園",
+    "address": "中正路128巷9弄1號",
+    "village": "仁愛里",
+    "remark": "1-9",
+    "seq": 1988,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9719849,
+      "lng": 121.542362
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1990",
+    "place_name": "新店區建國游泳池",
+    "address": "建國路58號",
+    "village": "建國里",
+    "remark": "1-9,17",
+    "seq": 1990,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.975471,
+      "lng": 121.540793
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1991",
+    "place_name": "容石園幼兒園",
+    "address": "建安街31號",
+    "village": "建國里",
+    "remark": "10-16,18",
+    "seq": 1991,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9755741,
+      "lng": 121.5390841
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1994",
+    "place_name": "咸亨宮",
+    "address": "自由街2號",
+    "village": "百忍里",
+    "remark": "15-22",
+    "seq": 1994,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9751459,
+      "lng": 121.53546
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1995",
+    "place_name": "大豐國小",
+    "address": "民族路108號",
+    "village": "百和里",
+    "remark": "1-12",
+    "seq": 1995,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9775082,
+      "lng": 121.5382108
+    },
+    "power": 13
+  },
+  {
+    "id": "tpq1997",
+    "place_name": "新店高中",
+    "address": "中央路93號",
+    "village": "福德里",
+    "remark": "1-8,10",
+    "seq": 1997,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9755603,
+      "lng": 121.531764
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq2001",
+    "place_name": "福民活動中心",
+    "address": "福園街8之1號",
+    "village": "福民里",
+    "remark": "1-14,17,18",
+    "seq": 2001,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9730355,
+      "lng": 121.5329903
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2003",
+    "place_name": "中央公有市場1樓川堂(停車管理處靠四街側)",
+    "address": "中央五街60號",
+    "village": "中山里",
+    "remark": "1-8,12-16",
+    "seq": 2003,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9755119,
+      "lng": 121.52722
+    },
+    "power": 4
+  },
+  {
+    "id": "tpq2004",
+    "place_name": "湯泉美地社區管委會宴會廳",
+    "address": "溪園路393號",
+    "village": "中山里",
+    "remark": "9,10,17-21",
+    "seq": 2004,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9851651,
+      "lng": 121.5276352
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2005",
+    "place_name": "湯泉櫻花社區B1圖書室",
+    "address": "溪園路513號地下室",
+    "village": "中山里",
+    "remark": "11,22-26",
+    "seq": 2005,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9839897,
+      "lng": 121.526174
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2006",
+    "place_name": "新北市立新店幼兒園和平分班",
+    "address": "民生路147巷口",
+    "village": "和平里",
+    "remark": "全里",
+    "seq": 2006,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.971893,
+      "lng": 121.550018
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2017",
+    "place_name": "樂童幼兒園",
+    "address": "大豐路16巷9號",
+    "village": "大同里",
+    "remark": "1-10,13",
+    "seq": 2017,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9806336,
+      "lng": 121.5407599
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2018",
+    "place_name": "樂童幼兒園",
+    "address": "大豐路16巷11號",
+    "village": "大同里",
+    "remark": "11,12,14-26",
+    "seq": 2018,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9806776,
+      "lng": 121.5407
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2023",
+    "place_name": "莊敬高職",
+    "address": "民生路45號",
+    "village": "復興里",
+    "remark": "15-21",
+    "seq": 2023,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.98555,
+      "lng": 121.5320166
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq2024",
+    "place_name": "開明高職",
+    "address": "寶中路49號",
+    "village": "寶興里",
+    "remark": "3-8,18-20,22",
+    "seq": 2024,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.979966,
+      "lng": 121.5462843
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq2025",
+    "place_name": "寶興活動中心",
+    "address": "寶中路65巷59號",
+    "village": "寶興里",
+    "remark": "1,2,21,24",
+    "seq": 2025,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9814715,
+      "lng": 121.5459128
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq2027",
+    "place_name": "寶橋福壽宮(土地公廟)",
+    "address": "寶橋路266號",
+    "village": "寶福里",
+    "remark": "1,2,6-11",
+    "seq": 2027,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.979024,
+      "lng": 121.5517439
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2028",
+    "place_name": "隆康科技文教園區1樓通道(康軒文教對面)",
+    "address": "中興路二段218巷6號至10號",
+    "village": "寶福里",
+    "remark": "3-5,12-14,1821",
+    "seq": 2028,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.975294,
+      "lng": 121.5486661
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2029",
+    "place_name": "寶路生活館社區E棟大樓通道",
+    "address": "中興路二段205號",
+    "village": "寶福里",
+    "remark": "15-17",
+    "seq": 2029,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9737348,
+      "lng": 121.5481879
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2030",
+    "place_name": "寶福社區活動中心",
+    "address": "寶興路62巷5號地下室",
+    "village": "寶福里",
+    "remark": "19,20,22-29",
+    "seq": 2030,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.97307,
+      "lng": 121.54935
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2033",
+    "place_name": "車庫",
+    "address": "北新路三段138號1樓後方(大坪林捷運站2號出口旁巷內)",
+    "village": "寶安里",
+    "remark": "24-31,33-36",
+    "seq": 2033,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.982027,
+      "lng": 121.541714
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2034",
+    "place_name": "泰山岩顯應祖師廟",
+    "address": "寶慶街32巷5弄5號",
+    "village": "信義里",
+    "remark": "1-5",
+    "seq": 2034,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9869829,
+      "lng": 121.542886
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2035",
+    "place_name": "信義活動中心",
+    "address": "寶慶街10之1號",
+    "village": "信義里",
+    "remark": "6-11,13,14,27,31",
+    "seq": 2035,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.986972,
+      "lng": 121.543463
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq2037",
+    "place_name": "大坪林聯合開發大樓",
+    "address": "北新路三段200號",
+    "village": "信義里",
+    "remark": "20-26,28-30",
+    "seq": 2037,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9842171,
+      "lng": 121.5412724
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2040",
+    "place_name": "陽光天使幼兒園安親班教室",
+    "address": "中正路700巷26號",
+    "village": "大鵬里",
+    "remark": "1-5",
+    "seq": 2040,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9913801,
+      "lng": 121.5346797
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2041",
+    "place_name": "大鵬華城管委會活動中心",
+    "address": "中正路700巷26號2樓",
+    "village": "大鵬里",
+    "remark": "6-10",
+    "seq": 2041,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9913801,
+      "lng": 121.5346797
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2042",
+    "place_name": "太平里臨時集會所",
+    "address": "碧潭路27號",
+    "village": "太平里",
+    "remark": "1-10",
+    "seq": 2042,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.955995,
+      "lng": 121.534241
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2043",
+    "place_name": "太平宮餐廳(原太平托兒所旁)",
+    "address": "太平路45號旁",
+    "village": "太平里",
+    "remark": "11-20",
+    "seq": 2043,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9399889,
+      "lng": 121.5255815
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2044",
+    "place_name": "美城里才藝教室",
+    "address": "永業路81巷3弄5號地下室",
+    "village": "美城里",
+    "remark": "1-4,12-14",
+    "seq": 2044,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9494585,
+      "lng": 121.5295925
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2045",
+    "place_name": "美之城社區活動中心",
+    "address": "永業路81巷7弄1號地下室",
+    "village": "美城里",
+    "remark": "5-11",
+    "seq": 2045,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9494585,
+      "lng": 121.5295925
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2046",
+    "place_name": "頂城活動中心",
+    "address": "安康路一段9之2號",
+    "village": "頂城里",
+    "remark": "全里",
+    "seq": 2046,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9632283,
+      "lng": 121.5248282
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2047",
+    "place_name": "下城活動中心",
+    "address": "安康路一段281巷6號",
+    "village": "下城里",
+    "remark": "3",
+    "seq": 2047,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9625918,
+      "lng": 121.523611
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq2049",
+    "place_name": "安康高中",
+    "address": "安興路25號",
+    "village": "柴埕里",
+    "remark": "1-8,10",
+    "seq": 2049,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9698725,
+      "lng": 121.5152906
+    },
+    "power": 4
+  },
+  {
+    "id": "tpq2053",
+    "place_name": "凡賽斯花園社區大廳",
+    "address": "安民街232之1號",
+    "village": "安和里",
+    "remark": "1-7,12,26",
+    "seq": 2053,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9749452,
+      "lng": 121.5173901
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2054",
+    "place_name": "別墅天廈中庭(會議室)",
+    "address": "安和路二段219號地下室",
+    "village": "安和里",
+    "remark": "8-11,13-15",
+    "seq": 2054,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.973952,
+      "lng": 121.5191773
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq2056",
+    "place_name": "大溪地社區集會所",
+    "address": "安民街365巷14號地下室",
+    "village": "安和里",
+    "remark": "16,17,21-25,27,28",
+    "seq": 2056,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9759146,
+      "lng": 121.5166545
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2057",
+    "place_name": "新和國小",
+    "address": "安和路三段100號",
+    "village": "永安里",
+    "remark": "1-6",
+    "seq": 2057,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9845965,
+      "lng": 121.5181695
+    },
+    "power": 8
+  },
+  {
+    "id": "tpq2065",
+    "place_name": "安坑國小",
+    "address": "安忠路36號",
+    "village": "公崙里",
+    "remark": "1-9",
+    "seq": 2065,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9613791,
+      "lng": 121.5140747
+    },
+    "power": 6
+  },
+  {
+    "id": "tpq2071",
+    "place_name": "寶芝林甲社區育樂室",
+    "address": "安德街82巷10之1號",
+    "village": "安昌里",
+    "remark": "1-3,17",
+    "seq": 2071,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9627881,
+      "lng": 121.5118624
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2072",
+    "place_name": "浪漫貴族社區",
+    "address": "安成街20號地下室",
+    "village": "安昌里",
+    "remark": "4-6,8-11",
+    "seq": 2072,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9603497,
+      "lng": 121.5106461
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2073",
+    "place_name": "品值寶鎮社區會議室",
+    "address": "安康路二段206巷",
+    "village": "安昌里",
+    "remark": "7,12-16",
+    "seq": 2073,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9581218,
+      "lng": 121.5055487
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2074",
+    "place_name": "安康教會",
+    "address": "安康路二段234巷1號",
+    "village": "德安里",
+    "remark": "1-7",
+    "seq": 2074,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9636882,
+      "lng": 121.5167146
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2075",
+    "place_name": "新北市青少年圖書館樓",
+    "address": "安康路二段151號",
+    "village": "德安里",
+    "remark": "8-17",
+    "seq": 2075,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9624932,
+      "lng": 121.5127979
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2076",
+    "place_name": "德安里巡守隊隊部",
+    "address": "車子路1號隔壁",
+    "village": "德安里",
+    "remark": "18-28",
+    "seq": 2076,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.956218,
+      "lng": 121.504233
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2077",
+    "place_name": "好好幼兒園地下1樓",
+    "address": "達觀路6號",
+    "village": "達觀里",
+    "remark": "1-11",
+    "seq": 2077,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9410057,
+      "lng": 121.5038027
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2078",
+    "place_name": "達觀快樂20社區B1停車場",
+    "address": "達觀路20號",
+    "village": "達觀里",
+    "remark": "12-21",
+    "seq": 2078,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.941911,
+      "lng": 121.501982
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2079",
+    "place_name": "黎明清境社區管理中心",
+    "address": "黎明路9號",
+    "village": "明城里",
+    "remark": "1-10",
+    "seq": 2079,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9486297,
+      "lng": 121.5023865
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2080",
+    "place_name": "觀天下社區服務中心",
+    "address": "黎明路68號",
+    "village": "明城里",
+    "remark": "11-21",
+    "seq": 2080,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9454286,
+      "lng": 121.5017795
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2081",
+    "place_name": "台北小城活動中心",
+    "address": "僑信路19號",
+    "village": "小城里",
+    "remark": "1-7",
+    "seq": 2081,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.950212,
+      "lng": 121.4993447
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2082",
+    "place_name": "台北小城服務中心",
+    "address": "僑信路63號2樓",
+    "village": "小城里",
+    "remark": "8-18",
+    "seq": 2082,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9499889,
+      "lng": 121.4993458
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2083",
+    "place_name": "新北市立新店幼兒園雙城分班",
+    "address": "安康路三段165巷2弄29號",
+    "village": "雙城里",
+    "remark": "1-8",
+    "seq": 2083,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9514539,
+      "lng": 121.48805
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2084",
+    "place_name": "潤濟宮",
+    "address": "安康路三段306號",
+    "village": "雙城里",
+    "remark": "9-13,21,22",
+    "seq": 2084,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9518413,
+      "lng": 121.4870182
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2085",
+    "place_name": "喜洋洋社區活動中心",
+    "address": "裕合街1號",
+    "village": "雙城里",
+    "remark": "14-20",
+    "seq": 2085,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9501399,
+      "lng": 121.489881
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2086",
+    "place_name": "頂好社區活動中心",
+    "address": "安泰路60巷1之1號",
+    "village": "雙城里",
+    "remark": "23-29",
+    "seq": 2086,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9465809,
+      "lng": 121.484769
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2087",
+    "place_name": "彩蝶別墅社區管理中心",
+    "address": "安祥路102巷口",
+    "village": "香坡里",
+    "remark": "1-9",
+    "seq": 2087,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9624658,
+      "lng": 121.4821835
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2088",
+    "place_name": "伴吾別墅管委會會議室",
+    "address": "安祥路106巷1號",
+    "village": "香坡里",
+    "remark": "10-15",
+    "seq": 2088,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9625642,
+      "lng": 121.4788553
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2089",
+    "place_name": "綠野香坡社區活動中心",
+    "address": "安祥路147巷7至9號地下室",
+    "village": "香坡里",
+    "remark": "16-25",
+    "seq": 2089,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9557572,
+      "lng": 121.475352
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2090",
+    "place_name": "新鎮社區管委會辦公室",
+    "address": "安祥路110巷2號地下室",
+    "village": "香坡里",
+    "remark": "26-36,46",
+    "seq": 2090,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9569359,
+      "lng": 121.475201
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2091",
+    "place_name": "綠中海一期社區管理中心",
+    "address": "安祥路65號",
+    "village": "香坡里",
+    "remark": "37-39",
+    "seq": 2091,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9623839,
+      "lng": 121.4802887
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2092",
+    "place_name": "綠灣社區管理中心",
+    "address": "安祥路97巷1號",
+    "village": "香坡里",
+    "remark": "40-45",
+    "seq": 2092,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9583739,
+      "lng": 121.490043
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2093",
+    "place_name": "日興宮(日興閱覽室)",
+    "address": "安康路三段530號",
+    "village": "日興里",
+    "remark": "1-11",
+    "seq": 2093,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9492669,
+      "lng": 121.482564
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2094",
+    "place_name": "錦秀社區管委會文康中心",
+    "address": "錦秀路22號地下室",
+    "village": "日興里",
+    "remark": "12-21",
+    "seq": 2094,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9438346,
+      "lng": 121.4792017
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2095",
+    "place_name": "台北新家坡隨園社區文康中心",
+    "address": "安康路二段738號Ｂ1",
+    "village": "日興里",
+    "remark": "22-29",
+    "seq": 2095,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9581218,
+      "lng": 121.5055487
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2096",
+    "place_name": "玫瑰社區游泳池",
+    "address": "富貴街9巷29號地下室",
+    "village": "玫瑰里",
+    "remark": "1-5,14-16,19-21",
+    "seq": 2096,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9492575,
+      "lng": 121.4940513
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2097",
+    "place_name": "玫瑰社區桌球室",
+    "address": "富貴街20巷2號地下室",
+    "village": "玫瑰里",
+    "remark": "6-13,17,18",
+    "seq": 2097,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9476983,
+      "lng": 121.4933322
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2098",
+    "place_name": "滿堂彩社區活動中心",
+    "address": "玫瑰路58巷18號地下室",
+    "village": "玫瑰里",
+    "remark": "22-28",
+    "seq": 2098,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9467978,
+      "lng": 121.4937283
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2099",
+    "place_name": "賓士社區活動中心",
+    "address": "玫瑰路51巷14號地下室",
+    "village": "吉祥里",
+    "remark": "1-5,7",
+    "seq": 2099,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.947927,
+      "lng": 121.4959549
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2100",
+    "place_name": "吉祥活動中心",
+    "address": "玫瑰路51巷2號",
+    "village": "吉祥里",
+    "remark": "8-14",
+    "seq": 2100,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9477378,
+      "lng": 121.4959303
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2101",
+    "place_name": "琴鍵畫樓管委會地下室",
+    "address": "吉祥街2巷地下室",
+    "village": "吉祥里",
+    "remark": "6,15-24",
+    "seq": 2101,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9475258,
+      "lng": 121.497391
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2102",
+    "place_name": "車庫",
+    "address": "新潭路一段25號",
+    "village": "塗潭里",
+    "remark": "全里",
+    "seq": 2102,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.942633,
+      "lng": 121.523226
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2103",
+    "place_name": "石上清泉社區C2A區停車場",
+    "address": "禾豐六路92號",
+    "village": "華城里",
+    "remark": "1-5",
+    "seq": 2103,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9316858,
+      "lng": 121.5136466
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2104",
+    "place_name": "華城特區俱樂部",
+    "address": "華城一路18號",
+    "village": "華城里",
+    "remark": "6-13",
+    "seq": 2104,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9282792,
+      "lng": 121.5049506
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2105",
+    "place_name": "南青宮",
+    "address": "北宜路一段286號",
+    "village": "青潭里",
+    "remark": "1-10",
+    "seq": 2105,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.952545,
+      "lng": 121.546675
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2106",
+    "place_name": "青潭國小",
+    "address": "北宜路二段80號",
+    "village": "青潭里",
+    "remark": "11,15-19",
+    "seq": 2106,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9531177,
+      "lng": 121.5522015
+    },
+    "power": 4
+  },
+  {
+    "id": "tpq2110",
+    "place_name": "大地世紀社區活動中心",
+    "address": "長春路9巷24之1號",
+    "village": "美潭里",
+    "remark": "16-20",
+    "seq": 2110,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.954356,
+      "lng": 121.5483585
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2111",
+    "place_name": "福神宮",
+    "address": "北宜路二段126號",
+    "village": "員潭里",
+    "remark": "1-6,13-19",
+    "seq": 2111,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9537638,
+      "lng": 121.5568248
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2112",
+    "place_name": "新巢代社區",
+    "address": "北宜路二段501號",
+    "village": "員潭里",
+    "remark": "7-12",
+    "seq": 2112,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9540183,
+      "lng": 121.5661233
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2113",
+    "place_name": "雙峯國小",
+    "address": "北宜路三段66號",
+    "village": "雙坑里",
+    "remark": "全里",
+    "seq": 2113,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9513603,
+      "lng": 121.5754065
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2114",
+    "place_name": "長興宮文康中心",
+    "address": "新烏路一段89號",
+    "village": "粗坑里",
+    "remark": "1-3,9,10",
+    "seq": 2114,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9431884,
+      "lng": 121.5462321
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2115",
+    "place_name": "聽濤館",
+    "address": "花園六路1號",
+    "village": "粗坑里",
+    "remark": "4-8,11-20",
+    "seq": 2115,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9323796,
+      "lng": 121.5565911
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2116",
+    "place_name": "屈尺國小",
+    "address": "屈尺路55號",
+    "village": "屈尺里",
+    "remark": "1-11",
+    "seq": 2116,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9225644,
+      "lng": 121.5464689
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq2118",
+    "place_name": "龜山國小",
+    "address": "新烏路三段99巷10號",
+    "village": "龜山里",
+    "remark": "全里",
+    "seq": 2118,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.902393,
+      "lng": 121.5531746
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2119",
+    "place_name": "廣興分校",
+    "address": "廣興路57號",
+    "village": "廣興里",
+    "remark": "全里",
+    "seq": 2119,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9128001,
+      "lng": 121.539422
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2120",
+    "place_name": "崇德宮（王爺公廟）",
+    "address": "灣潭路12之2號",
+    "village": "直潭里",
+    "remark": "1-6",
+    "seq": 2120,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9468709,
+      "lng": 121.538753
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq2121",
+    "place_name": "直潭國小",
+    "address": "直潭路92號",
+    "village": "直潭里",
+    "remark": "7-22",
+    "seq": 2121,
+    "county": "TPQ",
+    "town": "新店區",
+    "location": {
+      "lat": 24.9378089,
+      "lng": 121.5317798
+    },
+    "power": 1
+  }
+]

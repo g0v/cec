@@ -1,0 +1,527 @@
+[
+  {
+    "id": "tpq1880",
+    "place_name": "三峽興隆宮",
+    "address": "民權街50號",
+    "village": "三峽里",
+    "remark": "全里",
+    "seq": 1880,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.9335419,
+      "lng": 121.369505
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1881",
+    "place_name": "三峽祖師廟會議室",
+    "address": "長福街1號",
+    "village": "秀川里",
+    "remark": "全里",
+    "seq": 1881,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.9337917,
+      "lng": 121.3703715
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1882",
+    "place_name": "八張市民活動中心",
+    "address": "民族街122號",
+    "village": "八張里",
+    "remark": "5-7,11-16,20",
+    "seq": 1882,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.9290369,
+      "lng": 121.369085
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1883",
+    "place_name": "基督長老教會",
+    "address": "民族街1號",
+    "village": "八張里",
+    "remark": "1-4,8-10,17-19",
+    "seq": 1883,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.9315969,
+      "lng": 121.3691824
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1884",
+    "place_name": "中園國小",
+    "address": "大同路222巷22弄2號",
+    "village": "中埔里",
+    "remark": "1-7,10,11",
+    "seq": 1884,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.9278283,
+      "lng": 121.3671784
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1886",
+    "place_name": "弘道市民活動中心",
+    "address": "弘道25之1號",
+    "village": "弘道里",
+    "remark": "全里",
+    "seq": 1886,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.9031318,
+      "lng": 121.3282164
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1887",
+    "place_name": "三峽國小",
+    "address": "中山路16號",
+    "village": "永舘里",
+    "remark": "1-7",
+    "seq": 1887,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.9348504,
+      "lng": 121.3695626
+    },
+    "power": 8
+  },
+  {
+    "id": "tpq1890",
+    "place_name": "三峽國中",
+    "address": "復興路238號",
+    "village": "永舘里",
+    "remark": "20,21,24",
+    "seq": 1890,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.939053,
+      "lng": 121.369127
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq1897",
+    "place_name": "長青市民活動中心",
+    "address": "中山路65號",
+    "village": "鳶山里",
+    "remark": "18,21-25",
+    "seq": 1897,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.934847,
+      "lng": 121.366952
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1898",
+    "place_name": "龍埔市民活動中心",
+    "address": "三樹路214巷9號",
+    "village": "龍埔里",
+    "remark": "1-8",
+    "seq": 1898,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.9420122,
+      "lng": 121.379625
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1899",
+    "place_name": "啟育幼兒園",
+    "address": "民生街59號",
+    "village": "龍埔里",
+    "remark": "9-12,20-22",
+    "seq": 1899,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.9361209,
+      "lng": 121.375338
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq1903",
+    "place_name": "台北大學商學院1F04",
+    "address": "大學路151號",
+    "village": "龍恩里",
+    "remark": "2-11",
+    "seq": 1903,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.9434525,
+      "lng": 121.3749348
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq1906",
+    "place_name": "龍埔國小",
+    "address": "大學路6號",
+    "village": "龍學里",
+    "remark": "1-8",
+    "seq": 1906,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.9434525,
+      "lng": 121.3749348
+    },
+    "power": 7
+  },
+  {
+    "id": "tpq1913",
+    "place_name": "介壽國小",
+    "address": "大同路1號",
+    "village": "礁溪里",
+    "remark": "1-6,9-14",
+    "seq": 1913,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.9299258,
+      "lng": 121.3785248
+    },
+    "power": 4
+  },
+  {
+    "id": "tpq1914",
+    "place_name": "安溪國小",
+    "address": "中華路42號",
+    "village": "礁溪里",
+    "remark": "7,8,15,17-25",
+    "seq": 1914,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.9310827,
+      "lng": 121.372483
+    },
+    "power": 6
+  },
+  {
+    "id": "tpq1920",
+    "place_name": "安溪、礁溪、介壽、中正市民活動中心",
+    "address": "永安街9巷5號",
+    "village": "介壽里",
+    "remark": "10,12-15,25,26",
+    "seq": 1920,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.9297149,
+      "lng": 121.376464
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1924",
+    "place_name": "安溪國中",
+    "address": "大同路135號",
+    "village": "中正里",
+    "remark": "1-12",
+    "seq": 1924,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.9266425,
+      "lng": 121.3728213
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq1927",
+    "place_name": "大埔國小",
+    "address": "大埔路130號",
+    "village": "大埔里",
+    "remark": "1-8",
+    "seq": 1927,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.9056439,
+      "lng": 121.3664778
+    },
+    "power": 3
+  },
+  {
+    "id": "tpq1930",
+    "place_name": "仁愛市民活動中心",
+    "address": "嘉添30號",
+    "village": "嘉添里",
+    "remark": "1-9,20,21",
+    "seq": 1930,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.911269,
+      "lng": 121.368532
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1931",
+    "place_name": "醒心公園籃球場",
+    "address": "白雞127號附近",
+    "village": "嘉添里",
+    "remark": "10-19",
+    "seq": 1931,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.9101878,
+      "lng": 121.3936876
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1932",
+    "place_name": "添福市民活動中心",
+    "address": "添福57之1號",
+    "village": "添福里",
+    "remark": "全里",
+    "seq": 1932,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.9040279,
+      "lng": 121.375404
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1933",
+    "place_name": "互助橋旁(綠竹鄉餐廳邊)",
+    "address": "圳頭1之1號",
+    "village": "金圳里",
+    "remark": "全里",
+    "seq": 1933,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.89007,
+      "lng": 121.374264
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1934",
+    "place_name": "五寮市民活動中心",
+    "address": "五寮89之9號",
+    "village": "五寮里",
+    "remark": "全里",
+    "seq": 1934,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.8567321,
+      "lng": 121.359463
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1935",
+    "place_name": "插角國小",
+    "address": "插角39號",
+    "village": "插角里",
+    "remark": "全里",
+    "seq": 1935,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.8721077,
+      "lng": 121.405037
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1936",
+    "place_name": "有木國小",
+    "address": "有木131號",
+    "village": "有木里",
+    "remark": "全里",
+    "seq": 1936,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.8534547,
+      "lng": 121.4369622
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1937",
+    "place_name": "明德高中(擎藝樓一樓410教室)",
+    "address": "中正路二段399號",
+    "village": "二鬮里",
+    "remark": "1-10",
+    "seq": 1937,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.9068496,
+      "lng": 121.3639204
+    },
+    "power": 2
+  },
+  {
+    "id": "tpq1939",
+    "place_name": "中興市民活動中心",
+    "address": "介壽路二段136巷63號",
+    "village": "溪南里",
+    "remark": "全里",
+    "seq": 1939,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.932683,
+      "lng": 121.391707
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1940",
+    "place_name": "林絨(民宅)",
+    "address": "介壽路三段183號",
+    "village": "溪北里",
+    "remark": "1-4,17-20",
+    "seq": 1940,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.9439949,
+      "lng": 121.4018995
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1941",
+    "place_name": "溪北市民活動中心",
+    "address": "溪北街87號",
+    "village": "溪北里",
+    "remark": "5-16",
+    "seq": 1941,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.9356785,
+      "lng": 121.3979705
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1942",
+    "place_name": "成福國小",
+    "address": "溪東路213號",
+    "village": "溪東里",
+    "remark": "1-9",
+    "seq": 1942,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.9330941,
+      "lng": 121.4055416
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1943",
+    "place_name": "溪東市民活動中心",
+    "address": "溪東路218巷1號",
+    "village": "溪東里",
+    "remark": "10-16",
+    "seq": 1943,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.935296,
+      "lng": 121.399903
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1944",
+    "place_name": "成福市民活動中心",
+    "address": "成福路44號",
+    "village": "成福里",
+    "remark": "全里",
+    "seq": 1944,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.929386,
+      "lng": 121.419111
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1945",
+    "place_name": "竹崙市民活動中心",
+    "address": "竹崙路146號",
+    "village": "竹崙里",
+    "remark": "2-12",
+    "seq": 1945,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.8997081,
+      "lng": 121.442966
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1946",
+    "place_name": "靈隱寺",
+    "address": "紫微南路11號",
+    "village": "竹崙里",
+    "remark": "1,13-18",
+    "seq": 1946,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.9029691,
+      "lng": 121.4202862
+    },
+    "power": 1
+  },
+  {
+    "id": "tpq1947",
+    "place_name": "建安國小",
+    "address": "建安67號",
+    "village": "安坑里",
+    "remark": "全里",
+    "seq": 1947,
+    "county": "TPQ",
+    "town": "三峽區",
+    "location": {
+      "lat": 24.9195039,
+      "lng": 121.4597933
+    },
+    "power": 1
+  }
+]
