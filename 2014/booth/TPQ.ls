@@ -3,7 +3,7 @@ csv = require 'csv-parser'
 
 res = []
 end = ->
-  console.log JSON.stringify res
+  console.log JSON.stringify res, null, 2
 
 data <- fs.createReadStream 'TPQ.csv' .pipe csv! .on 'end' end .on 'data'
 colmap = {
@@ -14,9 +14,9 @@ colmap = {
   所屬鄰別: \remark
 }
 
-data = {[colmap[k], v] for k, v of data}
+data = {[colmap[k], v - /\s/g] for k, v of data}
 data.seq = +data.id
-data.id = sprintf "TPQ-%04d" data.seq
+data.id = sprintf "tpq%04d" data.seq
 data.address .= replace /[０１２３４５６７８９]/g ->
   (it.charCodeAt(0) - "０".charCodeAt(0)).toString!
 data.county = 'TPQ'

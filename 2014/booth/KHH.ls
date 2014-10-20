@@ -3,7 +3,7 @@ csv = require 'csv-parser'
 
 res = []
 end = ->
-  console.log JSON.stringify res
+  console.log JSON.stringify res, null, 2
 
 data <- fs.createReadStream 'KHH.csv' .pipe csv! .on 'end' end .on 'data'
 colmap = {
@@ -18,7 +18,7 @@ colmap = {
 data = {[colmap[k], v - /\s/g] for k, v of data when v}
 return unless data.place_name
 data.seq = +data.id
-data.id = sprintf "KHH-%04d" data.seq
+data.id = sprintf "khh%04d" data.seq
 [_, data.village, data.remark]? = data.village.match /^(.*?里)(.*)$/
 console.log \=== data unless data.village
 data.address .= replace /[０１２３４５６７８９]/g ->

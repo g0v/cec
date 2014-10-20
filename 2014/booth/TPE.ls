@@ -3,7 +3,7 @@ csv = require 'csv-parser'
 
 res = []
 end = ->
-  console.log JSON.stringify res
+  console.log JSON.stringify res, null, 2
 
 town = ''
 data <- fs.createReadStream 'TPE.csv' .pipe csv! .on 'end' end .on 'data'
@@ -16,10 +16,10 @@ colmap = {
   電話號碼: \phone
   備註: \note
 }
-data = {[colmap[k], v] for k, v of data}
+data = {[colmap[k], v - /\s/g] for k, v of data}
 data.seq = +data.id
 if not isNaN data.seq
-  data.id = sprintf "TPE-%04d" data.seq
+  data.id = sprintf "tpe%04d" data.seq
   data.address .= replace /[０１２３４５６７８９]/g ->
     (it.charCodeAt(0) - "０".charCodeAt(0)).toString!
   data.county = 'TPE'

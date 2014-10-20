@@ -3,7 +3,7 @@ csv = require 'csv-parser'
 
 res = []
 end = ->
-  console.log JSON.stringify res
+  console.log JSON.stringify res, null, 2
 
 var town
 
@@ -23,7 +23,7 @@ if data.id is /\D/
   town := _town
   return
 data.seq = +data.id
-data.id = sprintf "TAO-%04d" data.seq
+data.id = sprintf "tao%04d" data.seq
 data.town = town
 #[_, data.village, data.remark]? = data.village.match /^(.*?里)(.*)$/
 console.log \=== data unless data.village
